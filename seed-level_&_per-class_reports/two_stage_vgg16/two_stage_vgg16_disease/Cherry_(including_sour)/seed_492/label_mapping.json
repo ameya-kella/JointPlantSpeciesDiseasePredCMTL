@@ -1,0 +1,10 @@
+{
+    "disease2id": {
+        "Powdery_mildew": 0,
+        "healthy": 1
+    },
+    "id2disease": {
+        "0": "Powdery_mildew",
+        "1": "healthy"
+    }
+}

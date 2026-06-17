@@ -1,0 +1,14 @@
+{
+    "disease2id": {
+        "Black_rot": 0,
+        "Esca_(Black_Measles)": 1,
+        "Leaf_blight_(Isariopsis_Leaf_Spot)": 2,
+        "healthy": 3
+    },
+    "id2disease": {
+        "0": "Black_rot",
+        "1": "Esca_(Black_Measles)",
+        "2": "Leaf_blight_(Isariopsis_Leaf_Spot)",
+        "3": "healthy"
+    }
+}

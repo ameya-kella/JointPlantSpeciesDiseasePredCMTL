@@ -1,0 +1,14 @@
+{
+    "disease2id": {
+        "Cercospora_leaf_spot Gray_leaf_spot": 0,
+        "Common_rust_": 1,
+        "Northern_Leaf_Blight": 2,
+        "healthy": 3
+    },
+    "id2disease": {
+        "0": "Cercospora_leaf_spot Gray_leaf_spot",
+        "1": "Common_rust_",
+        "2": "Northern_Leaf_Blight",
+        "3": "healthy"
+    }
+}

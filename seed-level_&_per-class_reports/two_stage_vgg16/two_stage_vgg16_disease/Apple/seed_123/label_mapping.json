@@ -1,0 +1,14 @@
+{
+    "disease2id": {
+        "Apple_scab": 0,
+        "Black_rot": 1,
+        "Cedar_apple_rust": 2,
+        "healthy": 3
+    },
+    "id2disease": {
+        "0": "Apple_scab",
+        "1": "Black_rot",
+        "2": "Cedar_apple_rust",
+        "3": "healthy"
+    }
+}

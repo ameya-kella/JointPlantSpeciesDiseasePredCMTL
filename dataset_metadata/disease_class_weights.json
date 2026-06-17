@@ -1,0 +1,22 @@
+{
+  "Apple_scab": 3.1746031746031744,
+  "Bacterial_spot": 0.3689356207341819,
+  "Black_rot": 1.110494169905608,
+  "Cedar_apple_rust": 7.2727272727272725,
+  "Cercospora_leaf_spot Gray_leaf_spot": 3.898635477582846,
+  "Common_rust_": 1.6778523489932886,
+  "Early_blight": 1.0,
+  "Esca_(Black_Measles)": 1.4461315979754157,
+  "Late_blight": 0.6875214850464078,
+  "Leaf_Mold": 2.100840336134454,
+  "Leaf_blight_(Isariopsis_Leaf_Spot)": 1.858736059479554,
+  "Leaf_scorch": 1.8034265103697025,
+  "Northern_Leaf_Blight": 2.030456852791878,
+  "Powdery_mildew": 1.9011406844106464,
+  "Septoria_leaf_spot": 1.129305477131564,
+  "Spider_mites Two-spotted_spider_mite": 1.1933174224343674,
+  "Target_Spot": 1.4245014245014245,
+  "Tomato_Yellow_Leaf_Curl_Virus": 0.3733432891543774,
+  "Tomato_mosaic_virus": 5.361930294906166,
+  "healthy": 0.24627508927471986
+}

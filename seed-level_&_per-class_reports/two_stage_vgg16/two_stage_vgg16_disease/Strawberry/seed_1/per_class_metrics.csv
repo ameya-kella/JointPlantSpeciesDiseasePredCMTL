@@ -1,0 +1,3 @@
+class,precision,recall,f1,support
+Leaf_scorch,1.0,1.0,1.0,167
+healthy,1.0,1.0,1.0,68

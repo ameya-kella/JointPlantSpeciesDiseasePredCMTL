@@ -1,0 +1,701 @@
+disease,framework,seed,f1
+Apple_scab,one_stage,0,0.9142857142857144
+Apple_scab,one_stage,1,0.935483870967742
+Apple_scab,one_stage,42,0.9574468085106383
+Apple_scab,one_stage,123,0.972972972972973
+Apple_scab,one_stage,492,0.9213483146067416
+Apple_scab,two_stage,0,0.9637305699481864
+Apple_scab,two_stage,1,0.9346733668341708
+Apple_scab,two_stage,42,0.9447236180904522
+Apple_scab,two_stage,123,0.9441624365482234
+Apple_scab,two_stage,492,0.953846153846154
+Apple_scab,attention,0,0.9626251147607985
+Apple_scab,attention,1,0.9883445070828039
+Apple_scab,attention,42,0.9786907585056205
+Apple_scab,attention,123,0.981023392687572
+Apple_scab,attention,492,0.9707237433392999
+Apple_scab,gating,0,0.9585527829511082
+Apple_scab,gating,1,0.9748255538767907
+Apple_scab,gating,42,0.9717639204749223
+Apple_scab,gating,123,0.9724758845103253
+Apple_scab,gating,492,0.9653909944066007
+Apple_scab,ffs,0,0.9420191252642316
+Apple_scab,ffs,1,0.9323193391894112
+Apple_scab,ffs,42,0.9062360772785895
+Apple_scab,ffs,123,0.9523856168205004
+Apple_scab,ffs,492,0.9570566072702796
+Apple_scab,ffc,0,0.9533641946793826
+Apple_scab,ffc,1,0.9170215421878608
+Apple_scab,ffc,42,0.9339115805028809
+Apple_scab,ffc,123,0.9495328476725815
+Apple_scab,ffc,492,0.925155410972266
+Apple_scab,film,0,0.9152878902011412
+Apple_scab,film,1,0.9476102583278927
+Apple_scab,film,42,0.9269286545560627
+Apple_scab,film,123,0.9331140913217357
+Apple_scab,film,492,0.9365453355237309
+Bacterial_spot,one_stage,0,0.9584759082958167
+Bacterial_spot,one_stage,1,0.9582104169758124
+Bacterial_spot,one_stage,42,0.9612847603391876
+Bacterial_spot,one_stage,123,0.9457069152585816
+Bacterial_spot,one_stage,492,0.9538298405320981
+Bacterial_spot,two_stage,0,0.9718328946118525
+Bacterial_spot,two_stage,1,0.9703430436620256
+Bacterial_spot,two_stage,42,0.9696337617565245
+Bacterial_spot,two_stage,123,0.972978151391473
+Bacterial_spot,two_stage,492,0.9778013435731556
+Bacterial_spot,attention,0,0.9776305713683701
+Bacterial_spot,attention,1,0.9769006787617225
+Bacterial_spot,attention,42,0.9786248480779425
+Bacterial_spot,attention,123,0.9678277173962969
+Bacterial_spot,attention,492,0.9609125186744288
+Bacterial_spot,gating,0,0.9724829938086698
+Bacterial_spot,gating,1,0.9822330034571116
+Bacterial_spot,gating,42,0.9547158936268436
+Bacterial_spot,gating,123,0.9774263512190916
+Bacterial_spot,gating,492,0.9744215429440634
+Bacterial_spot,ffs,0,0.9262816899170278
+Bacterial_spot,ffs,1,0.9307301584976111
+Bacterial_spot,ffs,42,0.9035406963435733
+Bacterial_spot,ffs,123,0.9204751543681705
+Bacterial_spot,ffs,492,0.9311384612070116
+Bacterial_spot,ffc,0,0.9274216233521199
+Bacterial_spot,ffc,1,0.914416093209741
+Bacterial_spot,ffc,42,0.9116939673421571
+Bacterial_spot,ffc,123,0.9244588897495524
+Bacterial_spot,ffc,492,0.8890310843505687
+Bacterial_spot,film,0,0.8671155696117823
+Bacterial_spot,film,1,0.919660046309942
+Bacterial_spot,film,42,0.8919807826864083
+Bacterial_spot,film,123,0.9099422968248408
+Bacterial_spot,film,492,0.9152463837736784
+Black_rot,one_stage,0,0.9788664039061121
+Black_rot,one_stage,1,0.9770341306751904
+Black_rot,one_stage,42,0.964188520534389
+Black_rot,one_stage,123,0.9714021714021714
+Black_rot,one_stage,492,0.9755691367456072
+Black_rot,two_stage,0,0.9677224371373307
+Black_rot,two_stage,1,0.9812176944344273
+Black_rot,two_stage,42,0.9848097389173878
+Black_rot,two_stage,123,0.9756877990430621
+Black_rot,two_stage,492,0.9825231949877842
+Black_rot,attention,0,0.9881468650653669
+Black_rot,attention,1,0.9918146655452408
+Black_rot,attention,42,0.9873070998136576
+Black_rot,attention,123,0.9844678461181187
+Black_rot,attention,492,0.9738667510224945
+Black_rot,gating,0,0.9735586740219249
+Black_rot,gating,1,0.9902264742029511
+Black_rot,gating,42,0.9657394439306615
+Black_rot,gating,123,0.9805358778289667
+Black_rot,gating,492,0.9767127995469526
+Black_rot,ffs,0,0.9376531592718109
+Black_rot,ffs,1,0.8955129931031509
+Black_rot,ffs,42,0.9245227264042049
+Black_rot,ffs,123,0.91262049648728
+Black_rot,ffs,492,0.9326118102052366
+Black_rot,ffc,0,0.9323494842241519
+Black_rot,ffc,1,0.910928375794586
+Black_rot,ffc,42,0.932222771134883
+Black_rot,ffc,123,0.9168034513128605
+Black_rot,ffc,492,0.9128739242149846
+Black_rot,film,0,0.8996584127778234
+Black_rot,film,1,0.9185390291638512
+Black_rot,film,42,0.9146283535350177
+Black_rot,film,123,0.9119999666476892
+Black_rot,film,492,0.9224730845352365
+Cedar_apple_rust,one_stage,0,0.9620253164556962
+Cedar_apple_rust,one_stage,1,0.9629629629629628
+Cedar_apple_rust,one_stage,42,0.9620253164556962
+Cedar_apple_rust,one_stage,123,0.9620253164556962
+Cedar_apple_rust,one_stage,492,0.975609756097561
+Cedar_apple_rust,two_stage,0,0.9761904761904762
+Cedar_apple_rust,two_stage,1,0.9761904761904762
+Cedar_apple_rust,two_stage,42,0.963855421686747
+Cedar_apple_rust,two_stage,123,1.0
+Cedar_apple_rust,two_stage,492,0.9761904761904762
+Cedar_apple_rust,attention,0,0.9936775378175984
+Cedar_apple_rust,attention,1,0.9936581872284103
+Cedar_apple_rust,attention,42,0.9826639661422986
+Cedar_apple_rust,attention,123,0.9862977120030965
+Cedar_apple_rust,attention,492,0.9811616330526256
+Cedar_apple_rust,gating,0,0.977929307799801
+Cedar_apple_rust,gating,1,0.995789544282743
+Cedar_apple_rust,gating,42,0.9823265717844324
+Cedar_apple_rust,gating,123,0.9933893443922677
+Cedar_apple_rust,gating,492,0.9916244453415626
+Cedar_apple_rust,ffs,0,0.8961161852915167
+Cedar_apple_rust,ffs,1,0.9435521023121751
+Cedar_apple_rust,ffs,42,0.9195932983722649
+Cedar_apple_rust,ffs,123,0.9138366751872897
+Cedar_apple_rust,ffs,492,0.9344594373763979
+Cedar_apple_rust,ffc,0,0.890769575836797
+Cedar_apple_rust,ffc,1,0.9219034164668101
+Cedar_apple_rust,ffc,42,0.9402005473749541
+Cedar_apple_rust,ffc,123,0.9209507103518781
+Cedar_apple_rust,ffc,492,0.9193900054198837
+Cedar_apple_rust,film,0,0.9018491394323149
+Cedar_apple_rust,film,1,0.9215974277071269
+Cedar_apple_rust,film,42,0.9220242701404222
+Cedar_apple_rust,film,123,0.9202850816486815
+Cedar_apple_rust,film,492,0.919243694787148
+Cercospora_leaf_spot Gray_leaf_spot,one_stage,0,0.8831168831168831
+Cercospora_leaf_spot Gray_leaf_spot,one_stage,1,0.8489208633093526
+Cercospora_leaf_spot Gray_leaf_spot,one_stage,42,0.8689655172413793
+Cercospora_leaf_spot Gray_leaf_spot,one_stage,123,0.8085106382978723
+Cercospora_leaf_spot Gray_leaf_spot,one_stage,492,0.8717948717948718
+Cercospora_leaf_spot Gray_leaf_spot,two_stage,0,0.9056603773584906
+Cercospora_leaf_spot Gray_leaf_spot,two_stage,1,0.8571428571428571
+Cercospora_leaf_spot Gray_leaf_spot,two_stage,42,0.89171974522293
+Cercospora_leaf_spot Gray_leaf_spot,two_stage,123,0.8888888888888888
+Cercospora_leaf_spot Gray_leaf_spot,two_stage,492,0.8466257668711656
+Cercospora_leaf_spot Gray_leaf_spot,attention,0,0.9058012929765862
+Cercospora_leaf_spot Gray_leaf_spot,attention,1,0.9130913071828636
+Cercospora_leaf_spot Gray_leaf_spot,attention,42,0.9066856339335194
+Cercospora_leaf_spot Gray_leaf_spot,attention,123,0.8917212190712926
+Cercospora_leaf_spot Gray_leaf_spot,attention,492,0.9016079871294398
+Cercospora_leaf_spot Gray_leaf_spot,gating,0,0.9180230422557735
+Cercospora_leaf_spot Gray_leaf_spot,gating,1,0.9161263807401236
+Cercospora_leaf_spot Gray_leaf_spot,gating,42,0.9245426557971127
+Cercospora_leaf_spot Gray_leaf_spot,gating,123,0.9128442624145163
+Cercospora_leaf_spot Gray_leaf_spot,gating,492,0.9112224632868413
+Cercospora_leaf_spot Gray_leaf_spot,ffs,0,0.8699139576514139
+Cercospora_leaf_spot Gray_leaf_spot,ffs,1,0.8672447007493449
+Cercospora_leaf_spot Gray_leaf_spot,ffs,42,0.856866073383958
+Cercospora_leaf_spot Gray_leaf_spot,ffs,123,0.8511410197170598
+Cercospora_leaf_spot Gray_leaf_spot,ffs,492,0.7781044804548168
+Cercospora_leaf_spot Gray_leaf_spot,ffc,0,0.8509193579704138
+Cercospora_leaf_spot Gray_leaf_spot,ffc,1,0.8637733993988334
+Cercospora_leaf_spot Gray_leaf_spot,ffc,42,0.8495618332673787
+Cercospora_leaf_spot Gray_leaf_spot,ffc,123,0.8450340693626069
+Cercospora_leaf_spot Gray_leaf_spot,ffc,492,0.8267537426852691
+Cercospora_leaf_spot Gray_leaf_spot,film,0,0.8536857116037396
+Cercospora_leaf_spot Gray_leaf_spot,film,1,0.830048014358737
+Cercospora_leaf_spot Gray_leaf_spot,film,42,0.8242149387809313
+Cercospora_leaf_spot Gray_leaf_spot,film,123,0.8500527991018085
+Cercospora_leaf_spot Gray_leaf_spot,film,492,0.7431055668255477
+Common_rust_,one_stage,0,0.9971988795518208
+Common_rust_,one_stage,1,0.994413407821229
+Common_rust_,one_stage,42,0.994413407821229
+Common_rust_,one_stage,123,0.994413407821229
+Common_rust_,one_stage,492,0.9944444444444444
+Common_rust_,two_stage,0,0.9915966386554622
+Common_rust_,two_stage,1,0.994413407821229
+Common_rust_,two_stage,42,0.9916434540389972
+Common_rust_,two_stage,123,0.9916434540389972
+Common_rust_,two_stage,492,0.994413407821229
+Common_rust_,attention,0,0.9908941273475211
+Common_rust_,attention,1,0.9908748309616642
+Common_rust_,attention,42,0.9918615451107686
+Common_rust_,attention,123,0.9835349733140123
+Common_rust_,attention,492,0.9756802831473036
+Common_rust_,gating,0,0.9873798851440848
+Common_rust_,gating,1,0.9930002178281696
+Common_rust_,gating,42,0.9741177146386015
+Common_rust_,gating,123,0.9906222431544063
+Common_rust_,gating,492,0.9888622602570457
+Common_rust_,ffs,0,0.9731858660318192
+Common_rust_,ffs,1,0.9681183414400543
+Common_rust_,ffs,42,0.9601787009261245
+Common_rust_,ffs,123,0.9813751323278285
+Common_rust_,ffs,492,0.9809015645235317
+Common_rust_,ffc,0,0.977101865259635
+Common_rust_,ffc,1,0.9755193435668706
+Common_rust_,ffc,42,0.9736271990269404
+Common_rust_,ffc,123,0.9733372923217549
+Common_rust_,ffc,492,0.9728597579195931
+Common_rust_,film,0,0.9658264715458893
+Common_rust_,film,1,0.9791972669388225
+Common_rust_,film,42,0.9681254836474432
+Common_rust_,film,123,0.9753506547493892
+Common_rust_,film,492,0.9699496602828406
+Early_blight,one_stage,0,0.8860866401600791
+Early_blight,one_stage,1,0.8934734801893474
+Early_blight,one_stage,42,0.9082272032603158
+Early_blight,one_stage,123,0.88691627783468
+Early_blight,one_stage,492,0.892885235086651
+Early_blight,two_stage,0,0.927007299270073
+Early_blight,two_stage,1,0.9059551509882635
+Early_blight,two_stage,42,0.9045888704318936
+Early_blight,two_stage,123,0.8990324917218543
+Early_blight,two_stage,492,0.9158063887806778
+Early_blight,attention,0,0.952066250639307
+Early_blight,attention,1,0.9687752610039925
+Early_blight,attention,42,0.9560694327765423
+Early_blight,attention,123,0.9665057846719307
+Early_blight,attention,492,0.9355654814305588
+Early_blight,gating,0,0.9514886894182869
+Early_blight,gating,1,0.9604061594605134
+Early_blight,gating,42,0.9396167208372832
+Early_blight,gating,123,0.9532524011844993
+Early_blight,gating,492,0.9418773995886413
+Early_blight,ffs,0,0.8929798580436863
+Early_blight,ffs,1,0.8625125142953296
+Early_blight,ffs,42,0.8799308395902957
+Early_blight,ffs,123,0.8812608837641029
+Early_blight,ffs,492,0.8994256300630795
+Early_blight,ffc,0,0.8974923650883952
+Early_blight,ffc,1,0.8619382764257515
+Early_blight,ffc,42,0.8891270045556168
+Early_blight,ffc,123,0.8806964660727993
+Early_blight,ffc,492,0.8808289302079826
+Early_blight,film,0,0.8788876499668118
+Early_blight,film,1,0.8845472674983387
+Early_blight,film,42,0.8721547835293488
+Early_blight,film,123,0.9043356001643024
+Early_blight,film,492,0.9011219693323081
+Esca_(Black_Measles),one_stage,0,0.9975786924939468
+Esca_(Black_Measles),one_stage,1,0.9927360774818402
+Esca_(Black_Measles),one_stage,42,0.9761904761904762
+Esca_(Black_Measles),one_stage,123,0.9927710843373494
+Esca_(Black_Measles),one_stage,492,0.9904306220095692
+Esca_(Black_Measles),two_stage,0,0.9903846153846154
+Esca_(Black_Measles),two_stage,1,0.9951690821256038
+Esca_(Black_Measles),two_stage,42,0.9879518072289156
+Esca_(Black_Measles),two_stage,123,0.988009592326139
+Esca_(Black_Measles),two_stage,492,0.9927710843373494
+Esca_(Black_Measles),attention,0,0.9912715389366842
+Esca_(Black_Measles),attention,1,0.9936581872284103
+Esca_(Black_Measles),attention,42,0.994647673046473
+Esca_(Black_Measles),attention,123,0.9815098590322077
+Esca_(Black_Measles),attention,492,0.9787859390258639
+Esca_(Black_Measles),gating,0,0.9853700742721907
+Esca_(Black_Measles),gating,1,0.995789544282743
+Esca_(Black_Measles),gating,42,0.9751910276794608
+Esca_(Black_Measles),gating,123,0.9885670660214314
+Esca_(Black_Measles),gating,492,0.9892234176288712
+Esca_(Black_Measles),ffs,0,0.9498692846414336
+Esca_(Black_Measles),ffs,1,0.8973573639698081
+Esca_(Black_Measles),ffs,42,0.9444290297881582
+Esca_(Black_Measles),ffs,123,0.9100023954312592
+Esca_(Black_Measles),ffs,492,0.9470295460416414
+Esca_(Black_Measles),ffc,0,0.9306080141531159
+Esca_(Black_Measles),ffc,1,0.9162637626110322
+Esca_(Black_Measles),ffc,42,0.940554205658714
+Esca_(Black_Measles),ffc,123,0.9147849923520414
+Esca_(Black_Measles),ffc,492,0.9181206306589488
+Esca_(Black_Measles),film,0,0.9120614100467378
+Esca_(Black_Measles),film,1,0.9299913741278264
+Esca_(Black_Measles),film,42,0.9194759618561145
+Esca_(Black_Measles),film,123,0.9154414759557936
+Esca_(Black_Measles),film,492,0.928767068988517
+Late_blight,one_stage,0,0.9420334038712146
+Late_blight,one_stage,1,0.9300946459067053
+Late_blight,one_stage,42,0.9338152810669326
+Late_blight,one_stage,123,0.9171029827601933
+Late_blight,one_stage,492,0.9413667808408037
+Late_blight,two_stage,0,0.9701631977294229
+Late_blight,two_stage,1,0.9691413237924866
+Late_blight,two_stage,42,0.9684664514152388
+Late_blight,two_stage,123,0.9670464648355247
+Late_blight,two_stage,492,0.9687213606446161
+Late_blight,attention,0,0.9835264619488601
+Late_blight,attention,1,0.985708921730583
+Late_blight,attention,42,0.9821720465886494
+Late_blight,attention,123,0.9772904269619723
+Late_blight,attention,492,0.9710926995321312
+Late_blight,gating,0,0.9822502611267385
+Late_blight,gating,1,0.9822413872176716
+Late_blight,gating,42,0.9722456833624713
+Late_blight,gating,123,0.9786304169898683
+Late_blight,gating,492,0.9701411335268649
+Late_blight,ffs,0,0.9317314734776703
+Late_blight,ffs,1,0.9270638750451641
+Late_blight,ffs,42,0.9124718687889106
+Late_blight,ffs,123,0.9275469990800482
+Late_blight,ffs,492,0.9402945988943594
+Late_blight,ffc,0,0.9200334819908137
+Late_blight,ffc,1,0.9144358436572331
+Late_blight,ffc,42,0.9416917457054458
+Late_blight,ffc,123,0.903571793963301
+Late_blight,ffc,492,0.9248405098033963
+Late_blight,film,0,0.9226610426499837
+Late_blight,film,1,0.9295198407694346
+Late_blight,film,42,0.9169422466042151
+Late_blight,film,123,0.9351842546653966
+Late_blight,film,492,0.9402040869613426
+Leaf_Mold,one_stage,0,0.922509225092251
+Leaf_Mold,one_stage,1,0.9037037037037036
+Leaf_Mold,one_stage,42,0.9214285714285714
+Leaf_Mold,one_stage,123,0.8803088803088803
+Leaf_Mold,one_stage,492,0.9110320284697508
+Leaf_Mold,two_stage,0,0.946236559139785
+Leaf_Mold,two_stage,1,0.9273356401384084
+Leaf_Mold,two_stage,42,0.9309090909090908
+Leaf_Mold,two_stage,123,0.9285714285714286
+Leaf_Mold,two_stage,492,0.922509225092251
+Leaf_Mold,attention,0,0.9936775378175984
+Leaf_Mold,attention,1,0.9901716672732228
+Leaf_Mold,attention,42,0.994647673046473
+Leaf_Mold,attention,123,0.9862977120030965
+Leaf_Mold,attention,492,0.9777189606559498
+Leaf_Mold,gating,0,0.9901534241472985
+Leaf_Mold,gating,1,0.9923198943026639
+Leaf_Mold,gating,42,0.9789038311161941
+Leaf_Mold,gating,123,0.9864908072784325
+Leaf_Mold,gating,492,0.9779468667851271
+Leaf_Mold,ffs,0,0.9256575415803403
+Leaf_Mold,ffs,1,0.9014656056622796
+Leaf_Mold,ffs,42,0.8918383006395746
+Leaf_Mold,ffs,123,0.9078706679408215
+Leaf_Mold,ffs,492,0.9090694127621428
+Leaf_Mold,ffc,0,0.9108432564190345
+Leaf_Mold,ffc,1,0.9060870781330203
+Leaf_Mold,ffc,42,0.8979680691099368
+Leaf_Mold,ffc,123,0.9156411563215809
+Leaf_Mold,ffc,492,0.8988147285023598
+Leaf_Mold,film,0,0.8751672122301756
+Leaf_Mold,film,1,0.9182216129536209
+Leaf_Mold,film,42,0.8877396131640816
+Leaf_Mold,film,123,0.917776785843436
+Leaf_Mold,film,492,0.9072877195669509
+Leaf_blight_(Isariopsis_Leaf_Spot),one_stage,0,0.9969040247678018
+Leaf_blight_(Isariopsis_Leaf_Spot),one_stage,1,0.9969040247678018
+Leaf_blight_(Isariopsis_Leaf_Spot),one_stage,42,0.981132075471698
+Leaf_blight_(Isariopsis_Leaf_Spot),one_stage,123,0.9969040247678018
+Leaf_blight_(Isariopsis_Leaf_Spot),one_stage,492,0.9969040247678018
+Leaf_blight_(Isariopsis_Leaf_Spot),two_stage,0,1.0
+Leaf_blight_(Isariopsis_Leaf_Spot),two_stage,1,1.0
+Leaf_blight_(Isariopsis_Leaf_Spot),two_stage,42,1.0
+Leaf_blight_(Isariopsis_Leaf_Spot),two_stage,123,0.9969230769230768
+Leaf_blight_(Isariopsis_Leaf_Spot),two_stage,492,0.9969230769230768
+Leaf_blight_(Isariopsis_Leaf_Spot),attention,0,0.9936775378175984
+Leaf_blight_(Isariopsis_Leaf_Spot),attention,1,0.9936581872284103
+Leaf_blight_(Isariopsis_Leaf_Spot),attention,42,0.994647673046473
+Leaf_blight_(Isariopsis_Leaf_Spot),attention,123,0.9862977120030965
+Leaf_blight_(Isariopsis_Leaf_Spot),attention,492,0.9811616330526256
+Leaf_blight_(Isariopsis_Leaf_Spot),gating,0,0.9870879336700622
+Leaf_blight_(Isariopsis_Leaf_Spot),gating,1,0.995789544282743
+Leaf_blight_(Isariopsis_Leaf_Spot),gating,42,0.9792853130482576
+Leaf_blight_(Isariopsis_Leaf_Spot),gating,123,0.9933893443922677
+Leaf_blight_(Isariopsis_Leaf_Spot),gating,492,0.9916244453415626
+Leaf_blight_(Isariopsis_Leaf_Spot),ffs,0,0.9696747326114386
+Leaf_blight_(Isariopsis_Leaf_Spot),ffs,1,0.969843027763598
+Leaf_blight_(Isariopsis_Leaf_Spot),ffs,42,0.9596126363569838
+Leaf_blight_(Isariopsis_Leaf_Spot),ffs,123,0.9749343105520761
+Leaf_blight_(Isariopsis_Leaf_Spot),ffs,492,0.9775319384127079
+Leaf_blight_(Isariopsis_Leaf_Spot),ffc,0,0.9737980980289922
+Leaf_blight_(Isariopsis_Leaf_Spot),ffc,1,0.9749442350622017
+Leaf_blight_(Isariopsis_Leaf_Spot),ffc,42,0.9673495335950121
+Leaf_blight_(Isariopsis_Leaf_Spot),ffc,123,0.9785194511123356
+Leaf_blight_(Isariopsis_Leaf_Spot),ffc,492,0.9722487077541052
+Leaf_blight_(Isariopsis_Leaf_Spot),film,0,0.965226951700113
+Leaf_blight_(Isariopsis_Leaf_Spot),film,1,0.9671084117914297
+Leaf_blight_(Isariopsis_Leaf_Spot),film,42,0.9651466360054509
+Leaf_blight_(Isariopsis_Leaf_Spot),film,123,0.980830152809779
+Leaf_blight_(Isariopsis_Leaf_Spot),film,492,0.9751411838882794
+Leaf_scorch,one_stage,0,0.9910979228486648
+Leaf_scorch,one_stage,1,0.988095238095238
+Leaf_scorch,one_stage,42,0.9763313609467456
+Leaf_scorch,one_stage,123,0.994011976047904
+Leaf_scorch,one_stage,492,0.9940476190476192
+Leaf_scorch,two_stage,0,1.0
+Leaf_scorch,two_stage,1,1.0
+Leaf_scorch,two_stage,42,1.0
+Leaf_scorch,two_stage,123,1.0
+Leaf_scorch,two_stage,492,1.0
+Leaf_scorch,attention,0,0.9907113362121728
+Leaf_scorch,attention,1,0.9936581872284103
+Leaf_scorch,attention,42,0.9916785755149911
+Leaf_scorch,attention,123,0.9833535397284604
+Leaf_scorch,attention,492,0.9811616330526256
+Leaf_scorch,gating,0,0.9842596537654694
+Leaf_scorch,gating,1,0.995789544282743
+Leaf_scorch,gating,42,0.9764793898095252
+Leaf_scorch,gating,123,0.987476312580409
+Leaf_scorch,gating,492,0.9916244453415626
+Leaf_scorch,ffs,0,0.9786532023578407
+Leaf_scorch,ffs,1,0.9673502729400192
+Leaf_scorch,ffs,42,0.962690655937771
+Leaf_scorch,ffs,123,0.9782032992041888
+Leaf_scorch,ffs,492,0.9806876346102864
+Leaf_scorch,ffc,0,0.9739791889089765
+Leaf_scorch,ffc,1,0.9693212203968029
+Leaf_scorch,ffc,42,0.9734300885503684
+Leaf_scorch,ffc,123,0.9786096040007743
+Leaf_scorch,ffc,492,0.9695641404267246
+Leaf_scorch,film,0,0.9712221501578776
+Leaf_scorch,film,1,0.9762742900225873
+Leaf_scorch,film,42,0.9594557031968691
+Leaf_scorch,film,123,0.9720987271171105
+Leaf_scorch,film,492,0.9722769848710219
+Northern_Leaf_Blight,one_stage,0,0.936026936026936
+Northern_Leaf_Blight,one_stage,1,0.9201277955271564
+Northern_Leaf_Blight,one_stage,42,0.9250814332247556
+Northern_Leaf_Blight,one_stage,123,0.906148867313916
+Northern_Leaf_Blight,one_stage,492,0.9278350515463918
+Northern_Leaf_Blight,two_stage,0,0.9419795221843004
+Northern_Leaf_Blight,two_stage,1,0.9194630872483222
+Northern_Leaf_Blight,two_stage,42,0.9387755102040816
+Northern_Leaf_Blight,two_stage,123,0.9261744966442952
+Northern_Leaf_Blight,two_stage,492,0.9027777777777778
+Northern_Leaf_Blight,attention,0,0.9444855804998954
+Northern_Leaf_Blight,attention,1,0.9510259877763664
+Northern_Leaf_Blight,attention,42,0.9454076892322911
+Northern_Leaf_Blight,attention,123,0.9275117556585412
+Northern_Leaf_Blight,attention,492,0.9356773189376033
+Northern_Leaf_Blight,gating,0,0.9436361491873583
+Northern_Leaf_Blight,gating,1,0.9493193655495484
+Northern_Leaf_Blight,gating,42,0.9425025215769554
+Northern_Leaf_Blight,gating,123,0.9435537585531906
+Northern_Leaf_Blight,gating,492,0.9487968114896016
+Northern_Leaf_Blight,ffs,0,0.9207066311656
+Northern_Leaf_Blight,ffs,1,0.9201991877799487
+Northern_Leaf_Blight,ffs,42,0.9046231749103908
+Northern_Leaf_Blight,ffs,123,0.9206394295931504
+Northern_Leaf_Blight,ffs,492,0.8825194883239961
+Northern_Leaf_Blight,ffc,0,0.9039874469621171
+Northern_Leaf_Blight,ffc,1,0.9106892242125973
+Northern_Leaf_Blight,ffc,42,0.9022488116469476
+Northern_Leaf_Blight,ffc,123,0.8802193589008317
+Northern_Leaf_Blight,ffc,492,0.8973174379208271
+Northern_Leaf_Blight,film,0,0.9086688591307602
+Northern_Leaf_Blight,film,1,0.9147763941139001
+Northern_Leaf_Blight,film,42,0.8897981791452229
+Northern_Leaf_Blight,film,123,0.9053816795167192
+Northern_Leaf_Blight,film,492,0.8425531422305921
+Powdery_mildew,one_stage,0,0.9807692307692308
+Powdery_mildew,one_stage,1,0.9675324675324676
+Powdery_mildew,one_stage,42,0.9871794871794872
+Powdery_mildew,one_stage,123,0.9936305732484076
+Powdery_mildew,one_stage,492,0.9840255591054312
+Powdery_mildew,two_stage,0,1.0
+Powdery_mildew,two_stage,1,0.9968253968253968
+Powdery_mildew,two_stage,42,1.0
+Powdery_mildew,two_stage,123,1.0
+Powdery_mildew,two_stage,492,1.0
+Powdery_mildew,attention,0,0.9905230059515108
+Powdery_mildew,attention,1,0.9905037167927645
+Powdery_mildew,attention,42,0.9883524346094698
+Powdery_mildew,attention,123,0.9736528695415183
+Powdery_mildew,attention,492,0.9780468342175379
+Powdery_mildew,gating,0,0.9838467144393539
+Powdery_mildew,gating,1,0.9894469357204325
+Powdery_mildew,gating,42,0.9729113011283516
+Powdery_mildew,gating,123,0.990235727425943
+Powdery_mildew,gating,492,0.9853483412571221
+Powdery_mildew,ffs,0,0.9693326956687184
+Powdery_mildew,ffs,1,0.9727000494218188
+Powdery_mildew,ffs,42,0.9532726707648795
+Powdery_mildew,ffs,123,0.9747591201997755
+Powdery_mildew,ffs,492,0.9805188415578578
+Powdery_mildew,ffc,0,0.9705735378360556
+Powdery_mildew,ffc,1,0.9655266065204444
+Powdery_mildew,ffc,42,0.9732625446452823
+Powdery_mildew,ffc,123,0.9753272970973379
+Powdery_mildew,ffc,492,0.9627962897620513
+Powdery_mildew,film,0,0.9588498934679682
+Powdery_mildew,film,1,0.9667234164045698
+Powdery_mildew,film,42,0.9495076858849925
+Powdery_mildew,film,123,0.9683355011816289
+Powdery_mildew,film,492,0.9687941454441433
+Septoria_leaf_spot,one_stage,0,0.9056603773584906
+Septoria_leaf_spot,one_stage,1,0.9066666666666666
+Septoria_leaf_spot,one_stage,42,0.8973384030418251
+Septoria_leaf_spot,one_stage,123,0.9105058365758756
+Septoria_leaf_spot,one_stage,492,0.9295238095238096
+Septoria_leaf_spot,two_stage,0,0.9411764705882352
+Septoria_leaf_spot,two_stage,1,0.928030303030303
+Septoria_leaf_spot,two_stage,42,0.9262759924385632
+Septoria_leaf_spot,two_stage,123,0.9265536723163842
+Septoria_leaf_spot,two_stage,492,0.945179584120983
+Septoria_leaf_spot,attention,0,0.9657128791548143
+Septoria_leaf_spot,attention,1,0.9751197882129549
+Septoria_leaf_spot,attention,42,0.9631597578848529
+Septoria_leaf_spot,attention,123,0.9605362046000305
+Septoria_leaf_spot,attention,492,0.9501006502558014
+Septoria_leaf_spot,gating,0,0.9643873499129823
+Septoria_leaf_spot,gating,1,0.9751611356441174
+Septoria_leaf_spot,gating,42,0.9441955958001937
+Septoria_leaf_spot,gating,123,0.9692509117247919
+Septoria_leaf_spot,gating,492,0.9636124553601625
+Septoria_leaf_spot,ffs,0,0.8877782621388984
+Septoria_leaf_spot,ffs,1,0.8776661365472732
+Septoria_leaf_spot,ffs,42,0.854881177375698
+Septoria_leaf_spot,ffs,123,0.8619637180281172
+Septoria_leaf_spot,ffs,492,0.89230337253235
+Septoria_leaf_spot,ffc,0,0.8788496936284925
+Septoria_leaf_spot,ffc,1,0.8678075059344872
+Septoria_leaf_spot,ffc,42,0.8844488002017432
+Septoria_leaf_spot,ffc,123,0.8842698854729982
+Septoria_leaf_spot,ffc,492,0.8310856742244227
+Septoria_leaf_spot,film,0,0.8391626839574088
+Septoria_leaf_spot,film,1,0.8895524467261132
+Septoria_leaf_spot,film,42,0.8678553442696724
+Septoria_leaf_spot,film,123,0.8649295880156781
+Septoria_leaf_spot,film,492,0.8762769088395649
+Spider_mites Two-spotted_spider_mite,one_stage,0,0.9142857142857144
+Spider_mites Two-spotted_spider_mite,one_stage,1,0.9135802469135802
+Spider_mites Two-spotted_spider_mite,one_stage,42,0.8695652173913043
+Spider_mites Two-spotted_spider_mite,one_stage,123,0.893970893970894
+Spider_mites Two-spotted_spider_mite,one_stage,492,0.9057377049180328
+Spider_mites Two-spotted_spider_mite,two_stage,0,0.927536231884058
+Spider_mites Two-spotted_spider_mite,two_stage,1,0.9314516129032258
+Spider_mites Two-spotted_spider_mite,two_stage,42,0.931237721021611
+Spider_mites Two-spotted_spider_mite,two_stage,123,0.9087301587301588
+Spider_mites Two-spotted_spider_mite,two_stage,492,0.9230769230769232
+Spider_mites Two-spotted_spider_mite,attention,0,0.9858533052363574
+Spider_mites Two-spotted_spider_mite,attention,1,0.979992946932538
+Spider_mites Two-spotted_spider_mite,attention,42,0.9828998658845067
+Spider_mites Two-spotted_spider_mite,attention,123,0.9765709101095749
+Spider_mites Two-spotted_spider_mite,attention,492,0.9696185550167125
+Spider_mites Two-spotted_spider_mite,gating,0,0.967037001793665
+Spider_mites Two-spotted_spider_mite,gating,1,0.9879486817293355
+Spider_mites Two-spotted_spider_mite,gating,42,0.9669777191003006
+Spider_mites Two-spotted_spider_mite,gating,123,0.9777454177089249
+Spider_mites Two-spotted_spider_mite,gating,492,0.9723321409574854
+Spider_mites Two-spotted_spider_mite,ffs,0,0.9101093983016496
+Spider_mites Two-spotted_spider_mite,ffs,1,0.9059950284358278
+Spider_mites Two-spotted_spider_mite,ffs,42,0.8924519039348698
+Spider_mites Two-spotted_spider_mite,ffs,123,0.9159996022291531
+Spider_mites Two-spotted_spider_mite,ffs,492,0.9094403157200819
+Spider_mites Two-spotted_spider_mite,ffc,0,0.9074065173310252
+Spider_mites Two-spotted_spider_mite,ffc,1,0.9095860115508567
+Spider_mites Two-spotted_spider_mite,ffc,42,0.9137990980984059
+Spider_mites Two-spotted_spider_mite,ffc,123,0.9089743904445787
+Spider_mites Two-spotted_spider_mite,ffc,492,0.894468811133777
+Spider_mites Two-spotted_spider_mite,film,0,0.904959430361531
+Spider_mites Two-spotted_spider_mite,film,1,0.9065224697832067
+Spider_mites Two-spotted_spider_mite,film,42,0.8945253006800937
+Spider_mites Two-spotted_spider_mite,film,123,0.9088773616770155
+Spider_mites Two-spotted_spider_mite,film,492,0.9078933120982151
+Target_Spot,one_stage,0,0.8029556650246306
+Target_Spot,one_stage,1,0.7907949790794979
+Target_Spot,one_stage,42,0.7732696897374701
+Target_Spot,one_stage,123,0.7607361963190185
+Target_Spot,one_stage,492,0.7971698113207547
+Target_Spot,two_stage,0,0.8372093023255814
+Target_Spot,two_stage,1,0.8558352402745996
+Target_Spot,two_stage,42,0.843956043956044
+Target_Spot,two_stage,123,0.8325991189427313
+Target_Spot,two_stage,492,0.8531468531468531
+Target_Spot,attention,0,0.9610214684996491
+Target_Spot,attention,1,0.961002753845317
+Target_Spot,attention,42,0.9598697823805123
+Target_Spot,attention,123,0.949078930418074
+Target_Spot,attention,492,0.9340119893590212
+Target_Spot,gating,0,0.9601487749307136
+Target_Spot,gating,1,0.9632169890959245
+Target_Spot,gating,42,0.9413962979600811
+Target_Spot,gating,123,0.9518056043944518
+Target_Spot,gating,492,0.961292403484056
+Target_Spot,ffs,0,0.7751708533527452
+Target_Spot,ffs,1,0.8157794217907348
+Target_Spot,ffs,42,0.7914532485990804
+Target_Spot,ffs,123,0.781749860473494
+Target_Spot,ffs,492,0.8163000108114419
+Target_Spot,ffc,0,0.8127569140371953
+Target_Spot,ffc,1,0.7612558365101832
+Target_Spot,ffc,42,0.7826549955025055
+Target_Spot,ffc,123,0.7909692591435509
+Target_Spot,ffc,492,0.760919648360331
+Target_Spot,film,0,0.771495014439927
+Target_Spot,film,1,0.7841539088900326
+Target_Spot,film,42,0.773706841439555
+Target_Spot,film,123,0.7926708990054541
+Target_Spot,film,492,0.8226447033651962
+Tomato_Yellow_Leaf_Curl_Virus,one_stage,0,0.970392749244713
+Tomato_Yellow_Leaf_Curl_Virus,one_stage,1,0.9755799755799756
+Tomato_Yellow_Leaf_Curl_Virus,one_stage,42,0.9720873786407768
+Tomato_Yellow_Leaf_Curl_Virus,one_stage,123,0.9754901960784312
+Tomato_Yellow_Leaf_Curl_Virus,one_stage,492,0.9709443099273608
+Tomato_Yellow_Leaf_Curl_Virus,two_stage,0,0.982843137254902
+Tomato_Yellow_Leaf_Curl_Virus,two_stage,1,0.9750759878419452
+Tomato_Yellow_Leaf_Curl_Virus,two_stage,42,0.9852216748768472
+Tomato_Yellow_Leaf_Curl_Virus,two_stage,123,0.9834254143646408
+Tomato_Yellow_Leaf_Curl_Virus,two_stage,492,0.981039755351682
+Tomato_Yellow_Leaf_Curl_Virus,attention,0,0.9893598824701599
+Tomato_Yellow_Leaf_Curl_Virus,attention,1,0.988739087291636
+Tomato_Yellow_Leaf_Curl_Virus,attention,42,0.9909409115320141
+Tomato_Yellow_Leaf_Curl_Virus,attention,123,0.9771822063468756
+Tomato_Yellow_Leaf_Curl_Virus,attention,492,0.9720935957785718
+Tomato_Yellow_Leaf_Curl_Virus,gating,0,0.9858564161069815
+Tomato_Yellow_Leaf_Curl_Virus,gating,1,0.9920831315869015
+Tomato_Yellow_Leaf_Curl_Virus,gating,42,0.9732477679786613
+Tomato_Yellow_Leaf_Curl_Virus,gating,123,0.989687272301365
+Tomato_Yellow_Leaf_Curl_Virus,gating,492,0.9854729289312552
+Tomato_Yellow_Leaf_Curl_Virus,ffs,0,0.966541157774204
+Tomato_Yellow_Leaf_Curl_Virus,ffs,1,0.9597647474055998
+Tomato_Yellow_Leaf_Curl_Virus,ffs,42,0.9465702973466542
+Tomato_Yellow_Leaf_Curl_Virus,ffs,123,0.9683175723387997
+Tomato_Yellow_Leaf_Curl_Virus,ffs,492,0.9696848475128957
+Tomato_Yellow_Leaf_Curl_Virus,ffc,0,0.9650935115872948
+Tomato_Yellow_Leaf_Curl_Virus,ffc,1,0.9618372225441937
+Tomato_Yellow_Leaf_Curl_Virus,ffc,42,0.9560212296625135
+Tomato_Yellow_Leaf_Curl_Virus,ffc,123,0.96677957929796
+Tomato_Yellow_Leaf_Curl_Virus,ffc,492,0.9565847007958446
+Tomato_Yellow_Leaf_Curl_Virus,film,0,0.9411843516993865
+Tomato_Yellow_Leaf_Curl_Virus,film,1,0.9472669212777739
+Tomato_Yellow_Leaf_Curl_Virus,film,42,0.9392525994729303
+Tomato_Yellow_Leaf_Curl_Virus,film,123,0.9609850301594278
+Tomato_Yellow_Leaf_Curl_Virus,film,492,0.9571530379478462
+Tomato_mosaic_virus,one_stage,0,0.7619047619047619
+Tomato_mosaic_virus,one_stage,1,0.8484848484848485
+Tomato_mosaic_virus,one_stage,42,0.7887323943661971
+Tomato_mosaic_virus,one_stage,123,0.7887323943661971
+Tomato_mosaic_virus,one_stage,492,0.8057553956834532
+Tomato_mosaic_virus,two_stage,0,0.8615384615384616
+Tomato_mosaic_virus,two_stage,1,0.896
+Tomato_mosaic_virus,two_stage,42,0.8484848484848485
+Tomato_mosaic_virus,two_stage,123,0.8
+Tomato_mosaic_virus,two_stage,492,0.8057553956834532
+Tomato_mosaic_virus,attention,0,0.9936775378175984
+Tomato_mosaic_virus,attention,1,0.9936581872284103
+Tomato_mosaic_virus,attention,42,0.994647673046473
+Tomato_mosaic_virus,attention,123,0.9862977120030965
+Tomato_mosaic_virus,attention,492,0.9811616330526256
+Tomato_mosaic_virus,gating,0,0.9901534241472985
+Tomato_mosaic_virus,gating,1,0.995789544282743
+Tomato_mosaic_virus,gating,42,0.9823265717844324
+Tomato_mosaic_virus,gating,123,0.9933893443922677
+Tomato_mosaic_virus,gating,492,0.9916244453415626
+Tomato_mosaic_virus,ffs,0,0.9111598780573
+Tomato_mosaic_virus,ffs,1,0.8665984677383543
+Tomato_mosaic_virus,ffs,42,0.863520536276395
+Tomato_mosaic_virus,ffs,123,0.8857186236430654
+Tomato_mosaic_virus,ffs,492,0.9079767812564192
+Tomato_mosaic_virus,ffc,0,0.890769575836797
+Tomato_mosaic_virus,ffc,1,0.8992498068741425
+Tomato_mosaic_virus,ffc,42,0.8936195554580725
+Tomato_mosaic_virus,ffc,123,0.938863939271766
+Tomato_mosaic_virus,ffc,492,0.8820965478650208
+Tomato_mosaic_virus,film,0,0.8131162187368278
+Tomato_mosaic_virus,film,1,0.9063644123731249
+Tomato_mosaic_virus,film,42,0.85195042560975
+Tomato_mosaic_virus,film,123,0.8977089534191198
+Tomato_mosaic_virus,film,492,0.8877505365300574
+healthy,one_stage,0,0.9684591574533487
+healthy,one_stage,1,0.9677814797879548
+healthy,one_stage,42,0.9585347728674447
+healthy,one_stage,123,0.957709768842988
+healthy,one_stage,492,0.9653554799830649
+healthy,two_stage,0,0.9786109328537795
+healthy,two_stage,1,0.973219431209305
+healthy,two_stage,42,0.9786914965540812
+healthy,two_stage,123,0.978225621854039
+healthy,two_stage,492,0.9741097672167525
+healthy,attention,0,0.9883549964119005
+healthy,attention,1,0.9912107532697195
+healthy,attention,42,0.9897236746650547
+healthy,attention,123,0.9838704001605949
+healthy,attention,492,0.9783410451958007
+healthy,gating,0,0.9811371264108578
+healthy,gating,1,0.9912799992077698
+healthy,gating,42,0.9762402857138969
+healthy,gating,123,0.9884675144448244
+healthy,gating,492,0.9863129011349534
+healthy,ffs,0,0.9394410327146543
+healthy,ffs,1,0.9400073638784153
+healthy,ffs,42,0.9281414144846872
+healthy,ffs,123,0.9450987282754884
+healthy,ffs,492,0.946173376700651
+healthy,ffc,0,0.9448667117737986
+healthy,ffc,1,0.9377748720372168
+healthy,ffc,42,0.9452886060000989
+healthy,ffc,123,0.9381381631900778
+healthy,ffc,492,0.9338184684475022
+healthy,film,0,0.9365931680212369
+healthy,film,1,0.9309445553989314
+healthy,film,42,0.9305636688876552
+healthy,film,123,0.9427118058765115
+healthy,film,492,0.9420626421237588

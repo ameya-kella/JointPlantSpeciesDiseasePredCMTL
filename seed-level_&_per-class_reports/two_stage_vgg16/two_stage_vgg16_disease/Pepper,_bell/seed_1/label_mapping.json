@@ -1,0 +1,10 @@
+{
+    "disease2id": {
+        "Bacterial_spot": 0,
+        "healthy": 1
+    },
+    "id2disease": {
+        "0": "Bacterial_spot",
+        "1": "healthy"
+    }
+}

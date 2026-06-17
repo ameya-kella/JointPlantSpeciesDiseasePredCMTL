@@ -1,0 +1,18 @@
+{
+  "dataset_name": "PlantVillage",
+  "source": "https://github.com/spMohanty/PlantVillage-Dataset",
+  "license": "CC BY-SA 3.0",
+  "excluded_species": [
+    "Orange",
+    "Soybean",
+    "Squash",
+    "Blueberry",
+    "Raspberry"
+  ],
+  "num_images": 40000,
+  "num_species": 9,
+  "num_diseases": 20,
+  "num_joint_classes": 33,
+  "num_unique_phash_groups": 39978,
+  "num_duplicate_phash": 22
+}

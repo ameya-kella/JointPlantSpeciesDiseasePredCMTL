@@ -1,0 +1,10 @@
+{
+    "disease2id": {
+        "Leaf_scorch": 0,
+        "healthy": 1
+    },
+    "id2disease": {
+        "0": "Leaf_scorch",
+        "1": "healthy"
+    }
+}

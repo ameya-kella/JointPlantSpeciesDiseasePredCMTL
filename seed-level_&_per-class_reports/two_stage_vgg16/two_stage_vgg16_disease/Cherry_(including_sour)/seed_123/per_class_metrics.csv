@@ -1,0 +1,3 @@
+class,precision,recall,f1,support
+Powdery_mildew,1.0,1.0,1.0,158
+healthy,1.0,1.0,1.0,128

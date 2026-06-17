@@ -1,0 +1,12 @@
+{
+    "disease2id": {
+        "Early_blight": 0,
+        "Late_blight": 1,
+        "healthy": 2
+    },
+    "id2disease": {
+        "0": "Early_blight",
+        "1": "Late_blight",
+        "2": "healthy"
+    }
+}

@@ -1,0 +1,11 @@
+framework,backbone,classifier_type,species_(disease_classifiers_only),total_params,trainable_params,inference_ms_per_image,total_training_time_sec
+two_stage,vgg16,disease_classifier,Tomato,14719818,2364938,4.363193859,565.9741315
+two_stage,vgg16,disease_classifier,Strawberry,14715714,2360834,6.215417334,56.49363284
+two_stage,vgg16,disease_classifier,Potato,14716227,2361347,6.672317694,77.02038593
+two_stage,vgg16,disease_classifier,"Pepper,_bell",14715714,2360834,5.283802089,87.71336923
+two_stage,vgg16,disease_classifier,Peach,14715714,2360834,5.508570325,89.97671494
+two_stage,vgg16,disease_classifier,Grape,14716740,2361860,4.657669615,131.7366818
+two_stage,vgg16,disease_classifier,Corn_(maize),14716740,2361860,4.668351688,126.9127249
+two_stage,vgg16,disease_classifier,Cherry_(including_sour),14715714,2360834,5.466478188,63.06337881
+two_stage,vgg16,disease_classifier,Apple,14716740,2361860,5.682452083,104.265849
+two_stage,vgg16,species_classifier,,14719305,2364425,27.84800752,1280.374798

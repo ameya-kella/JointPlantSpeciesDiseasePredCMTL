@@ -1,0 +1,24 @@
+{
+    "species2id": {
+        "Apple": 0,
+        "Cherry_(including_sour)": 1,
+        "Corn_(maize)": 2,
+        "Grape": 3,
+        "Peach": 4,
+        "Pepper,_bell": 5,
+        "Potato": 6,
+        "Strawberry": 7,
+        "Tomato": 8
+    },
+    "id2species": {
+        "0": "Apple",
+        "1": "Cherry_(including_sour)",
+        "2": "Corn_(maize)",
+        "3": "Grape",
+        "4": "Peach",
+        "5": "Pepper,_bell",
+        "6": "Potato",
+        "7": "Strawberry",
+        "8": "Tomato"
+    }
+}

@@ -1,0 +1,579 @@
+image_id,path,y_true,y_pred,correct,confidence,prob_Cercospora_leaf_spot Gray_leaf_spot,prob_Common_rust_,prob_Northern_Leaf_Blight,prob_healthy
+f13d6495651ae9c86e7fcce3bd1ac80c,PV_data/Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot/00a20f6f-e8bd-4453-9e25-36ea70feb626___RS_GLSp 4655.JPG,0,0,True,0.8853355,0.8853355,4.59196e-05,0.11461863,2.8605259e-08
+56276dbed7ad690cccbd841d12e5e8e4,PV_data/Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot/05f92471-3cd4-441b-af21-1a02304d0b6c___RS_GLSp 7315.JPG,0,0,True,0.99763894,0.99763894,1.3452487e-07,0.0023609966,3.1903952e-10
+5eb9cf4f5d082157efc0bea657a974b7,PV_data/Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot/0ce6543f-9694-4b3a-b767-9bc909f54f73___RS_GLSp 4663 copy.jpg,0,0,True,0.9861405,0.9861405,5.119425e-07,0.013858975,3.728219e-08
+bb9916120f597eb65a499e30d7626c77,PV_data/Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot/0d13a6d5-7993-4a5d-beb1-4f38b7805fac___RS_GLSp 9303.JPG,0,0,True,0.99979293,0.99979293,0.00020555816,8.619927e-07,6.35847e-07
+a1bd99964c22937ed049f4fafe6273e7,PV_data/Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot/0f08ab4f-caf6-4e50-a399-000e4e9841a0___RS_GLSp 4623.JPG,0,0,True,0.99958956,0.99958956,1.32860745e-08,0.00041036546,3.858493e-11
+4aead5b56dc6dda303320ec848214972,PV_data/Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot/1157b4eb-dfb3-41b7-a083-77b0ca2e7634___RS_GLSp 4460.JPG,0,0,True,0.94378793,0.94378793,4.5677284e-06,0.056207445,2.2944924e-10
+eb3a44ca6081eda06e1aaf69cb161396,PV_data/Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot/137762d7-fcd5-405c-a4d5-4096321951d0___RS_GLSp 9345.JPG,0,0,True,0.9993395,0.9993395,5.460445e-07,0.00063912204,2.0811094e-05
+6c318d24373b5d47c5e8e69cb4cbd197,PV_data/Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot/1468d990-6016-484c-b66a-784d38d67b03___RS_GLSp 4616.JPG,0,0,True,0.99999046,0.99999046,8.063416e-08,9.395611e-06,9.8150245e-08
+f2be9c9707a245e6ae18a8b3c3a885f2,PV_data/Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot/171b34fb-183f-4b57-be91-7e02fcebb7df___RS_GLSp 4326.JPG,0,0,True,0.97677064,0.97677064,3.604585e-07,0.02322884,7.3919786e-08
+6cd9599a90af2b1bb5bbed9e3133d492,PV_data/Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot/1836cc95-03e5-4430-8cc1-cca482b94a0d___RS_GLSp 4289 copy.jpg,0,0,True,0.8246963,0.8246963,0.00012372922,0.17517953,4.7055647e-07
+fb0bc037b428912f828717dec20149fc,PV_data/Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot/2174d811-b088-4b31-8088-1738630b94d4___RS_GLSp 4467.JPG,0,0,True,0.88912106,0.88912106,1.50968235e-05,0.11086368,1.8615901e-07
+9a7a2775d704460fa363e58dcfc8f272,PV_data/Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot/261e0893-078f-41ae-9445-4942f8828f53___RS_GLSp 7320.JPG,0,0,True,0.99974114,0.99974114,4.9049295e-06,0.00025388485,6.850675e-08
+d8910122e538b5ea6bb3b590e90c1e48,PV_data/Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot/276eaa0e-3c86-4190-8701-fdb5f9148bb1___RS_GLSp 7283.JPG,0,0,True,0.98856527,0.98856527,5.556136e-05,0.011378425,8.1987054e-07
+8dd0883b495003f00749503a09fb5843,PV_data/Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot/295e2145-800f-4c3c-9728-e45b1cd8e113___RS_GLSp 4316.JPG,0,2,False,0.8905514,0.109447956,6.57543e-07,0.8905514,2.5165064e-11
+50936499b57ce9e10c799700b39d922f,PV_data/Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot/2a2ad0a4-9f19-4366-88d3-c1c87ffc9f90___RS_GLSp 4385.JPG,0,0,True,0.9918401,0.9918401,6.1054666e-06,0.008153753,4.4886606e-09
+f3037f39fe903d71520acd6acd16923f,PV_data/Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot/2ff35cfb-2145-4844-9755-e977af5f661d___RS_GLSp 4434.JPG,0,0,True,0.9522175,0.9522175,0.00027990108,0.04708308,0.00041945785
+7fec087631f9ee882cbd09c29b3c65ae,PV_data/Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot/32e31361-bb57-4974-bc43-4b8e74d61653___RS_GLSp 4433 copy.jpg,0,0,True,0.99995744,0.99995744,3.0593803e-09,4.250779e-05,8.660806e-10
+9b0fa00de84e21843b1cfc16eb106a56,PV_data/Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot/346e5b39-b83e-4b5f-a02b-bc01fc230842___RS_GLSp 4311.JPG,0,0,True,0.84805644,0.84805644,7.890335e-06,0.15193567,3.6565256e-10
+e804bfe0a093d1b316e0ae55aaa3d4e9,PV_data/Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot/3980904f-273e-4191-911b-0ebfc12cf02c___RS_GLSp 4448 copy.jpg,0,0,True,0.973404,0.973404,9.000759e-06,0.026586944,2.79281e-08
+2d244ea0a988381f42b75bbe2011573b,PV_data/Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot/3a1f523c-0012-43c3-9475-fc458e3511d4___RS_GLSp 4579.JPG,0,0,True,0.8897053,0.8897053,4.571678e-06,0.11028735,2.7759718e-06
+e6e9ba252a1fb015ce2fe1437251f880,PV_data/Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot/3aeb9908-679b-4d53-8925-5b436d0961d8___RS_GLSp 9317.JPG,0,0,True,0.99920136,0.99920136,1.2929631e-07,0.00079855224,9.504796e-12
+0b900cd5011f2fb0b811b9317d9f3e50,PV_data/Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot/3c53ba48-cb78-4803-b01c-7d10ea13284c___RS_GLSp 4611.JPG,0,0,True,0.9877366,0.9877366,2.9588236e-07,0.012262816,3.3842784e-07
+ebd4fff7e2643ad88dd7325921f126ff,PV_data/Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot/40dceef3-f53b-4132-87c0-69bf1046f8c4___RS_GLSp 9362.JPG,0,0,True,0.99894315,0.99894315,7.6026346e-08,0.0010567835,3.4454903e-10
+5df2fb610444993556e21e0b060317bf,PV_data/Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot/40de2256-a1de-4781-830b-d9a06544fe06___RS_GLSp 4398.JPG,0,0,True,0.83639705,0.83639705,0.0004700186,0.16312411,8.857839e-06
+d101cbfce9309763421e03a1be0af98b,PV_data/Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot/4cd3f6c7-18ed-45eb-ba31-013241482123___RS_GLSp 4292.JPG,0,0,True,0.9802619,0.9802619,4.40955e-07,0.0197376,3.676982e-10
+d838e09e9c0ffbbe7adbde7747479d31,PV_data/Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot/51bec38f-7a7a-43dc-9ab8-aa9dd7d9830c___RS_GLSp 4439.JPG,0,0,True,0.9940322,0.9940322,3.930886e-07,0.0059674555,3.0825392e-10
+fe15dbe1430ba06b9332a52b0e753123,PV_data/Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot/52acf240-2625-4b4c-8484-6c93e998b115___RS_GLSp 7337.JPG,0,0,True,0.9292933,0.9292933,8.1120345e-07,0.070705906,7.3292763e-09
+49532032cf381e5a80e6c0b05584af62,PV_data/Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot/53ef1232-f812-41e7-bb8c-190241c11fc3___RS_GLSp 4617.JPG,0,0,True,0.6580449,0.6580449,8.2631195e-05,0.34187236,1.2188984e-07
+e0905a131f18fcf877abf36148b2467d,PV_data/Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot/56861977-2bbb-445d-a956-95fcb62f93f7___RS_GLSp 4607 copy.jpg,0,0,True,0.9776188,0.9776188,0.000113817805,0.022165371,0.000102032034
+28b0758b8662804cbf9f2a7823e65ecf,PV_data/Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot/590078f5-c132-47d1-a575-9a05637cdaba___RS_GLSp 9351.JPG,0,0,True,0.93019116,0.93019116,0.033882435,0.035908572,1.7868764e-05
+031cf408c55d761b315a8241d3706819,PV_data/Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot/5958b15a-0ab1-411d-a5f2-99ef49572954___RS_GLSp 9275.JPG,0,0,True,0.9999975,0.9999975,3.0304927e-09,2.4887952e-06,8.6021926e-11
+8ff50d07c19ef00f4c7aab47fc47dbb3,PV_data/Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot/5b6fe4ff-01b0-4b9d-ad8d-4c6c8ef909be___RS_GLSp 9302.JPG,0,0,True,0.99887127,0.99887127,1.6822709e-05,0.0010965114,1.5278312e-05
+5ba5cd5d4ee5b1f26d8345e439431873,PV_data/Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot/5cbbb4b8-88cc-4d5f-907a-505a2a831b8a___RS_GLSp 4599.JPG,0,2,False,0.9211536,0.07884242,3.930946e-06,0.9211536,2.0710422e-08
+2780a96f26a6b09cfe20d66fe7b65c1a,PV_data/Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot/5cfe5cf5-bdba-44b5-8295-c5bda6e34ae3___RS_GLSp 9353 copy.jpg,0,0,True,0.6842795,0.6842795,0.0034107263,0.31230906,6.879863e-07
+3b179aebcf772e2bd3ff7c32bf4bb64a,PV_data/Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot/659f419d-10c3-42db-9b3a-45565709354c___RS_GLSp 4658.JPG,0,0,True,0.9997538,0.9997538,3.5796e-06,0.0002419479,6.556256e-07
+355dd2fe7312c541ed1f8aa8f323c77f,PV_data/Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot/66151c80-6947-4062-bbb0-3771e6feefc3___RS_GLSp 7304.JPG,0,0,True,0.96728945,0.96728945,2.4421106e-05,0.03268373,2.3056027e-06
+9361bff20087f7b6e00176c35463ddc5,PV_data/Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot/6b4ebda6-c3d3-4d7e-b38e-cf948ec16dd2___RS_GLSp 9326.JPG,0,0,True,0.9979845,0.9979845,0.00017138993,0.0018429124,1.1464305e-06
+3eb0f37a70214f151423a4b4b880bef7,PV_data/Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot/6db850c6-2b56-4acf-a283-2cd246c02bfa___RS_GLSp 4474 copy 2.jpg,0,0,True,0.7278591,0.7278591,7.029862e-07,0.27214012,7.7234844e-08
+6a3ed6f63cbe22a32f682c3984dceb8d,PV_data/Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot/6f4b40eb-6d14-4f30-9ef8-89f85bd841fd___RS_GLSp 4426.JPG,0,0,True,0.999535,0.999535,5.0941674e-07,0.00046444405,2.5369923e-11
+07375e9f8c6afe82770c6a6751e44eed,PV_data/Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot/7118cb62-d96a-4ae0-8c85-634aa6bc6f62___RS_GLSp 4354.JPG,0,0,True,0.9680416,0.9680416,3.976949e-06,0.031954497,4.788696e-10
+b019060c5bad83e7c3fb331d0d48c819,PV_data/Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot/7599513c-e2f3-4301-a010-6f32b429d047___RS_GLSp 4286.JPG,0,0,True,0.9034345,0.9034345,2.511696e-05,0.09653006,1.0344831e-05
+31e2e0fab13aa7742dad0c121bfc1c04,PV_data/Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot/75c57507-6463-4886-8195-b1319c434ef7___RS_GLSp 4390.JPG,0,0,True,0.9999931,0.9999931,5.1475542e-08,6.961274e-06,4.8810504e-11
+cb4fa95983b87cb9bd6b456bd3ae93b1,PV_data/Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot/7944b10d-96b5-4219-882d-22b1e2380544___RS_GLSp 7309.JPG,0,0,True,0.99913406,0.99913406,1.9536921e-08,0.0008658472,1.2958718e-11
+e57ad91541ab4c986e71f157db275f1e,PV_data/Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot/79aa374c-1687-42d4-bf48-84e8b1beb762___RS_GLSp 4408.JPG,0,0,True,0.9720312,0.9720312,5.8964196e-07,0.02796817,9.9318385e-09
+d929b1ebdc870f1ee31e7911e813126c,PV_data/Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot/7a93142b-986d-46d4-ad77-646d64f418dc___RS_GLSp 9341.JPG,0,0,True,0.94443417,0.94443417,2.6932468e-05,0.05545578,8.3104176e-05
+fcb393ad32d5261c6ee538f10ceeaa31,PV_data/Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot/7c479d6b-0f9a-4646-8337-445b76d2959e___RS_GLSp 9349.JPG,0,0,True,0.9899218,0.9899218,4.4194776e-06,0.010073891,1.9040909e-09
+a48543db0ca1e6ecbd305da43bf247b6,PV_data/Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot/7cc0887b-1bbc-49f4-8779-f7ff62aab90e___RS_GLSp 9354.JPG,0,0,True,0.9434737,0.9434737,5.539467e-06,0.056520574,1.6113508e-07
+297953dc54e320754e50683a482961d4,PV_data/Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot/837474e2-d11d-44b7-b39b-0a21442b1e04___RS_GLSp 4455.JPG,0,0,True,0.9980751,0.9980751,3.744527e-07,0.0019245355,1.062956e-08
+9d90f34cbb355f1fac083c296a013a0a,PV_data/Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot/8895b194-2dc6-4ed5-8155-1e483d4f93f3___RS_GLSp 4644.JPG,0,0,True,0.8868239,0.8868239,1.9144134e-05,0.11315698,1.2954351e-08
+c848f5cab88350b5247ec751123065cf,PV_data/Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot/8a3603cd-1ffa-42b5-a6d8-f9c957639a45___RS_GLSp 4677.JPG,0,0,True,0.98413223,0.98413223,6.0245886e-05,0.015807383,1.8234898e-07
+9abb41a8d7da4f2b0df53a8158f34faa,PV_data/Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot/93b53cb0-57cd-480f-9314-8cc0ed579782___RS_GLSp 4427.JPG,0,0,True,0.6059094,0.6059094,0.00031087192,0.39377978,1.3837317e-09
+a8b801a9873a499946859e920bea5ddf,PV_data/Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot/9c78e47a-8ed7-4b8f-8230-499e2d135a0a___RS_GLSp 4335.JPG,0,2,False,0.90609485,0.093832076,7.296461e-05,0.90609485,2.1371103e-09
+378033944cadea6cc23923b1a3918e3e,PV_data/Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot/9d24f300-aaa7-413a-8abb-bf5b2b662fdc___RS_GLSp 4374 copy.jpg,0,0,True,0.85326403,0.85326403,6.022503e-06,0.1467296,2.84572e-07
+8f3f71417d2566e94b26ad4dedf8fd96,PV_data/Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot/9e6ca942-064a-49ec-b7f9-8a1e25b5c0fe___RS_GLSp 4435.JPG,0,0,True,0.9940555,0.9940555,0.00075084344,0.0020895088,0.0031040914
+0e73355633f1dde1842efe2deeeaeac3,PV_data/Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot/a0c8342a-b9ca-4604-a2b0-7000bf7cdad2___RS_GLSp 4343.JPG,0,0,True,0.590734,0.590734,0.0044795615,0.40475622,3.0281508e-05
+77d1ae6d0af13fab75d5ba122dca725e,PV_data/Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot/a27ab77f-274b-4785-95f7-4844aa141c32___RS_GLSp 9353.JPG,0,0,True,0.92995036,0.92995036,8.629571e-05,0.06996318,1.4156218e-07
+8738359471a8c535380fc0ffb23a9248,PV_data/Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot/a312677c-a2d5-4aa0-bb76-0f1af43fb747___RS_GLSp 4395.JPG,0,0,True,0.9879252,0.9879252,0.0013516322,0.010723231,3.749413e-08
+619ef04487016faf8d27266c24d0ef07,PV_data/Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot/a42e0a8a-560a-4659-96ed-3af63cf57b77___RS_GLSp 9313 copy.jpg,0,0,True,0.99902666,0.99902666,9.193634e-06,0.00096282334,1.2462976e-06
+d369ac35a0dd5a082138fc0e058c393a,PV_data/Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot/a70422d5-9fb2-4d2f-9780-e341e8ea4c82___RS_GLSp 4380 copy.jpg,0,0,True,0.5489947,0.5489947,0.059760116,0.3740431,0.017201941
+e12d488c66805163bb4665bfd9dda202,PV_data/Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot/aa264c7c-cdcf-4a82-aafb-65e9f076feea___RS_GLSp 4327.JPG,0,0,True,0.9439951,0.9439951,2.0856344e-06,0.056002684,1.6374373e-10
+0e365f64e8b18439c5bcdc7e1b1c3b36,PV_data/Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot/aa2c6e9d-ce0f-4883-8b49-45412e96478d___RS_GLSp 7306.JPG,0,0,True,0.99669385,0.99669385,6.697029e-06,0.0032981453,1.2132855e-06
+fb1c4ff2c7b59c2a98b2e411e7e728e8,PV_data/Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot/acbed711-885d-4f1d-986f-1fdf9b48cba5___RS_GLSp 7338.JPG,0,0,True,0.88084924,0.88084924,0.00012459063,0.11889713,0.0001291372
+6923a6dc502c548ecbc6daf0395fbb8b,PV_data/Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot/aee8f52c-50c2-4327-8240-b8767ea8692d___RS_GLSp 9339.JPG,0,0,True,0.9957313,0.9957313,5.93284e-05,0.004203314,6.123244e-06
+a4efdfa91c3d79b934526339f5f1a21f,PV_data/Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot/b2980d13-da6a-4475-bb60-abed664c5506___RS_GLSp 4678.JPG,0,0,True,0.9994985,0.9994985,1.9289597e-05,0.00048219512,8.282177e-10
+95c133f51cf809d3d461739b381dcc4b,PV_data/Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot/c17a8d9b-f000-4df3-9673-444de04b7dbd___RS_GLSp 9309.JPG,0,0,True,0.9999999,0.9999999,1.7751596e-08,1.5880494e-07,8.483302e-11
+af599eaf82dcc0877dfb2cc73690ff2f,PV_data/Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot/c43e45f2-4d0b-4a15-a598-d6e64c228981___RS_GLSp 4340.JPG,0,0,True,0.9871939,0.9871939,1.1003562e-05,0.012793899,1.1847487e-06
+f7650baedfde4d0e9d2c39eaab6e3755,PV_data/Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot/c7b810f0-d451-4fe3-bc13-f1c89273e3e9___RS_GLSp 9331.JPG,0,0,True,0.9015407,0.9015407,0.09844799,3.3562903e-06,7.9836545e-06
+2f398d786ae9aeadaaf7eccbe45c4615,PV_data/Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot/ca1f4a1f-eacf-4fa9-9649-32353c8cc164___RS_GLSp 7342.JPG,0,0,True,0.90972096,0.90972096,1.535165e-06,0.09027753,7.7965705e-09
+1a4c4ffd4be1d2127333417b14801485,PV_data/Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot/cb07e000-acb9-44cc-abda-a4549ebe6037___RS_GLSp 4417.JPG,0,0,True,0.9451357,0.9451357,0.00058100506,0.05428244,7.783115e-07
+f6d6cf389a057c060f81492566814ac7,PV_data/Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot/d007f0d4-30a4-4d9c-b193-09cef70b547b___RS_GLSp 4617 copy.jpg,0,2,False,0.9366098,0.06337181,1.5907695e-05,0.9366098,2.4973542e-06
+5c0d3477487bb085cd1e011050848f72,PV_data/Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot/d20981e7-70ec-495a-9921-c48de5793822___RS_GLSp 4339.JPG,0,0,True,0.4997005,0.4997005,0.12612247,0.37368476,0.00049231393
+41a5227121814a92249ab8e8e2ee962b,PV_data/Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot/d3e2528d-3e05-4dc0-bb6b-56dcf17d01d6___RS_GLSp 7316.JPG,0,0,True,0.9997834,0.9997834,1.8375461e-07,0.00021630997,1.5689716e-09
+cff00f6cee7111bc38b55090c9d25e9a,PV_data/Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot/e42bbd37-0236-423a-9d85-6f01e27e7d79___RS_GLSp 9324.JPG,0,0,True,0.9997742,0.9997742,3.764164e-05,0.00018807471,6.145335e-09
+8dc6821c28762502505e601ddf059403,PV_data/Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot/ed054cc0-58f1-4ca0-a369-2c04ffba43b0___RS_GLSp 4657.JPG,0,0,True,0.99848795,0.99848795,3.6858903e-06,0.0015071685,1.2248169e-06
+eaf8396c7b103f1b5974d8716eb42f0f,PV_data/Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot/ef36729c-29b1-4f29-b100-d2490a238842___RS_GLSp 4415.JPG,0,0,True,0.9895515,0.9895515,5.443254e-06,0.010440912,2.1366602e-06
+0166ea085b72d9933b7130af5fea4ca7,PV_data/Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot/f8101df7-db23-4241-9362-a00396806364___RS_GLSp 4336.JPG,0,2,False,0.9425583,0.036428794,0.021006374,0.9425583,6.5479e-06
+78a78bacd115eed0ab5e80525794e2ec,PV_data/Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot/fd1e7be2-d635-4d70-85ac-f5d68ce7c2d1___RS_GLSp 4450 copy.jpg,0,0,True,0.5189972,0.5189972,0.030558428,0.44926688,0.0011774878
+cef5a107b5d73eaa83602a5881bc6c10,PV_data/Corn_(maize)___Common_rust_/RS_Rust 1565.JPG,1,1,True,0.9999999,4.6658915e-08,0.9999999,4.3817124e-08,3.3244267e-12
+8f851a978a91747b471e2c5e72602213,PV_data/Corn_(maize)___Common_rust_/RS_Rust 1573.JPG,1,1,True,1.0,4.2381615e-12,1.0,1.126681e-11,7.181355e-13
+0868ba2e54b71a446eea18eb057812fd,PV_data/Corn_(maize)___Common_rust_/RS_Rust 1598.JPG,1,1,True,1.0,3.160749e-10,1.0,3.71845e-11,8.0775915e-12
+23f21816ce61fed6facac8fe18abc8ab,PV_data/Corn_(maize)___Common_rust_/RS_Rust 1603.JPG,1,1,True,1.0,3.3562075e-15,1.0,2.9699706e-12,7.161107e-18
+bae48b5d2e96f6a0a716219dc41ae224,PV_data/Corn_(maize)___Common_rust_/RS_Rust 1604.JPG,1,1,True,1.0,8.883981e-15,1.0,5.8093018e-15,1.2392981e-17
+e59f00c61d2f0e8030155eae240c0ba0,PV_data/Corn_(maize)___Common_rust_/RS_Rust 1608.JPG,1,1,True,1.0,9.1165137e-10,1.0,7.521935e-09,2.2853086e-09
+166212ead73b1bb1a364b7509627abe1,PV_data/Corn_(maize)___Common_rust_/RS_Rust 1634.JPG,1,1,True,0.9999999,6.6639785e-08,0.9999999,3.8979167e-09,9.803142e-12
+55eb52ff1b356c5de7d100ad2350e22b,PV_data/Corn_(maize)___Common_rust_/RS_Rust 1636.JPG,1,1,True,0.9999485,3.0033545e-05,0.9999485,2.1434305e-05,5.0176638e-08
+0769d695b1c9606540a47ffb6c743da9,PV_data/Corn_(maize)___Common_rust_/RS_Rust 1639.JPG,1,1,True,0.99999976,4.1342294e-09,0.99999976,1.9824186e-07,1.1046022e-11
+1e515233bb619012af06e634290b6c15,PV_data/Corn_(maize)___Common_rust_/RS_Rust 1644.JPG,1,1,True,0.9999999,5.3682378e-08,0.9999999,1.9558403e-08,6.3525326e-12
+e0023d3be7959e777b3ee0d9137fbaa9,PV_data/Corn_(maize)___Common_rust_/RS_Rust 1661.JPG,1,1,True,1.0,6.9138473e-09,1.0,9.344951e-12,3.5267764e-10
+3936275f39da94fadfe972f1fdffe533,PV_data/Corn_(maize)___Common_rust_/RS_Rust 1663.JPG,1,1,True,0.9999989,3.6021552e-09,0.9999989,1.0486515e-06,1.9372485e-12
+789749a68fc83c88259c94f33c45e70a,PV_data/Corn_(maize)___Common_rust_/RS_Rust 1670.JPG,1,1,True,0.9999999,4.6650803e-09,0.9999999,6.70612e-08,3.2894003e-13
+5f846256e20e0a52ac64b49a4557658f,PV_data/Corn_(maize)___Common_rust_/RS_Rust 1688.JPG,1,1,True,0.9998429,2.9110406e-05,0.9998429,8.724872e-06,0.00011928666
+47c09961bf48a95d13e638e7c5dd3757,PV_data/Corn_(maize)___Common_rust_/RS_Rust 1704.JPG,1,1,True,0.99999845,1.3808427e-06,0.99999845,1.6213943e-07,5.9563185e-08
+cd96cc5cf57af6e7b707e55f0605a465,PV_data/Corn_(maize)___Common_rust_/RS_Rust 1723.JPG,1,1,True,1.0,5.142322e-11,1.0,4.071969e-12,1.1960761e-12
+2e75360fa5c82fe289d8aceefdd893f7,PV_data/Corn_(maize)___Common_rust_/RS_Rust 1729.JPG,1,1,True,1.0,1.9222575e-10,1.0,5.7994146e-08,1.696091e-11
+a73f665a9790ea9799837e733d20c748,PV_data/Corn_(maize)___Common_rust_/RS_Rust 1731.JPG,1,1,True,1.0,1.04407305e-14,1.0,9.525471e-11,2.2995264e-14
+663a9ed6e5b89db3dc832115b4f9f879,PV_data/Corn_(maize)___Common_rust_/RS_Rust 1732.JPG,1,1,True,0.99389136,5.5070614e-05,0.99389136,0.004772175,0.0012813152
+a48da2d077d8bc9eea3c7992ddad78b3,PV_data/Corn_(maize)___Common_rust_/RS_Rust 1743.JPG,1,1,True,1.0,1.9235739e-14,1.0,4.2825572e-14,1.319574e-16
+cecb2c3139bb6ca1fc5d05b8031463ac,PV_data/Corn_(maize)___Common_rust_/RS_Rust 1747.JPG,1,1,True,1.0,2.0308554e-13,1.0,1.1703352e-10,3.3480875e-15
+6f677f1909a6815ff25262aeefbf411c,PV_data/Corn_(maize)___Common_rust_/RS_Rust 1749.JPG,1,1,True,1.0,4.352276e-12,1.0,2.7077361e-11,5.0589047e-13
+336301ba53964e5639d8c8d571c0d144,PV_data/Corn_(maize)___Common_rust_/RS_Rust 1760.JPG,1,1,True,1.0,2.041602e-09,1.0,2.3988782e-09,4.588744e-13
+b679114eeed3c9f12cdf7edb22feeac5,PV_data/Corn_(maize)___Common_rust_/RS_Rust 1774.JPG,1,1,True,1.0,1.786731e-10,1.0,1.1321674e-08,5.636055e-09
+901145adb5e87fe82de051fb2aac984b,PV_data/Corn_(maize)___Common_rust_/RS_Rust 1784.JPG,1,1,True,0.99999833,1.1050476e-07,0.99999833,1.5952015e-06,3.9835142e-11
+45dc789ed38c85f9b1272210d43af83d,PV_data/Corn_(maize)___Common_rust_/RS_Rust 1785.JPG,1,1,True,1.0,2.9987437e-09,1.0,9.0269674e-11,6.87314e-09
+e596ae8da97e9e8fd9370997d7fdf872,PV_data/Corn_(maize)___Common_rust_/RS_Rust 1790.JPG,1,1,True,1.0,4.355082e-16,1.0,4.408474e-14,6.8243447e-18
+926cd5043317a5942f4879631a136cff,PV_data/Corn_(maize)___Common_rust_/RS_Rust 1793.JPG,1,1,True,0.99999845,6.052032e-08,0.99999845,1.4863159e-06,4.2084398e-08
+c9bc326e0992a1913bb3210d850aa332,PV_data/Corn_(maize)___Common_rust_/RS_Rust 1799.JPG,1,1,True,0.99999785,9.1435004e-07,0.99999785,1.1807949e-06,3.5444286e-11
+292a1ed257ccb1844517b7602f29cfea,PV_data/Corn_(maize)___Common_rust_/RS_Rust 1804.JPG,1,1,True,1.0,2.9134142e-09,1.0,2.50378e-10,3.232544e-11
+fcfec26e0195734ab484646c78442617,PV_data/Corn_(maize)___Common_rust_/RS_Rust 1806.JPG,1,1,True,0.99999976,1.611515e-07,0.99999976,1.0059361e-07,1.6014242e-08
+26adb0e8b1974d1d9123e9ab53667ed7,PV_data/Corn_(maize)___Common_rust_/RS_Rust 1810.JPG,1,1,True,0.9999999,3.9494702e-10,0.9999999,6.144088e-08,8.490088e-10
+ac510f2af32956c5ad6927b4949d6d6f,PV_data/Corn_(maize)___Common_rust_/RS_Rust 1819.JPG,1,1,True,0.9999999,5.376535e-09,0.9999999,1.2470093e-07,6.9155606e-09
+3df827dcc12656c5bbabf74622e54588,PV_data/Corn_(maize)___Common_rust_/RS_Rust 1823.JPG,1,1,True,0.9999931,2.989279e-06,0.9999931,3.930094e-06,6.583504e-09
+04d2d8c4c9a75fb2109e1e2f1ad165e8,PV_data/Corn_(maize)___Common_rust_/RS_Rust 1832.JPG,1,1,True,1.0,5.152587e-09,1.0,3.119665e-08,5.2394035e-12
+e54095eb5d2943426ebe742e70673834,PV_data/Corn_(maize)___Common_rust_/RS_Rust 1834.JPG,1,1,True,0.99992347,1.908561e-06,0.99992347,7.446435e-05,9.735632e-08
+630a33452ca89a715b849562ba3bef1a,PV_data/Corn_(maize)___Common_rust_/RS_Rust 1841.JPG,1,1,True,0.9982816,0.0009864504,0.9982816,0.0007319377,2.234326e-09
+061de8f78905bc16873bd86c20c82f63,PV_data/Corn_(maize)___Common_rust_/RS_Rust 1864.JPG,1,1,True,0.99999845,1.4862238e-06,0.99999845,3.767237e-08,4.682749e-10
+6774ace69d3cc989c3c5d1e850ed1e75,PV_data/Corn_(maize)___Common_rust_/RS_Rust 1866.JPG,1,1,True,1.0,1.730479e-09,1.0,6.623262e-09,3.753736e-12
+7aeb9591f87b73dcb91d540297f678ff,PV_data/Corn_(maize)___Common_rust_/RS_Rust 1874.JPG,1,1,True,1.0,2.6404964e-10,1.0,7.737129e-10,1.885205e-12
+c44bdbce5099b94488bb39c513de9c87,PV_data/Corn_(maize)___Common_rust_/RS_Rust 1882.JPG,1,1,True,1.0,9.0890295e-10,1.0,3.6169405e-09,9.024523e-11
+3dbdf005f09737e5eb2eb605097857f5,PV_data/Corn_(maize)___Common_rust_/RS_Rust 1883.JPG,1,1,True,1.0,3.2459975e-09,1.0,1.4565563e-09,5.263621e-09
+27b8c92f805455a6521130e57b90166f,PV_data/Corn_(maize)___Common_rust_/RS_Rust 1891.JPG,1,1,True,0.9970362,0.0016820669,0.9970362,0.001273563,8.229903e-06
+2420e6b0885fa117055f733045117a80,PV_data/Corn_(maize)___Common_rust_/RS_Rust 1893.JPG,1,1,True,1.0,1.4167674e-14,1.0,3.7550143e-14,4.43407e-17
+53d118bba2926d31ae9c7014d5d20c56,PV_data/Corn_(maize)___Common_rust_/RS_Rust 1906.JPG,1,1,True,0.9999999,3.5762608e-09,0.9999999,1.236268e-07,1.4382995e-13
+c44c7bad429d988519a6a26109eb47ac,PV_data/Corn_(maize)___Common_rust_/RS_Rust 1910.JPG,1,1,True,1.0,5.1622764e-09,1.0,1.700095e-10,3.1730651e-10
+cb1f9a18574b5310ac45b4b7d81976b7,PV_data/Corn_(maize)___Common_rust_/RS_Rust 1912.JPG,1,1,True,0.99999905,5.201046e-08,0.99999905,3.6097436e-08,8.1998957e-07
+0ef616c62ff80dad042152a051b7f9a5,PV_data/Corn_(maize)___Common_rust_/RS_Rust 1927.JPG,1,1,True,1.0,4.4536774e-12,1.0,5.658691e-11,3.7988368e-13
+e9625b0cabffc3411e0be073178a7119,PV_data/Corn_(maize)___Common_rust_/RS_Rust 1932.JPG,1,1,True,1.0,1.2415846e-08,1.0,6.99163e-11,1.5389341e-10
+7223fd6acf270e8ce4636ff65fab0f76,PV_data/Corn_(maize)___Common_rust_/RS_Rust 1944.JPG,1,1,True,0.9999994,6.2086656e-08,0.9999994,5.376204e-07,3.6175614e-08
+ff6f648067b69ebb1c066317c065ef17,PV_data/Corn_(maize)___Common_rust_/RS_Rust 1949.JPG,1,2,False,0.64719737,0.009279329,0.34351882,0.64719737,4.5111497e-06
+359b706e2cd5fe57304b30ccd67118db,PV_data/Corn_(maize)___Common_rust_/RS_Rust 1954.JPG,1,1,True,1.0,3.594827e-10,1.0,2.5531126e-11,7.657925e-09
+e527f2cc2bceb665333f50dc1943114d,PV_data/Corn_(maize)___Common_rust_/RS_Rust 1966.JPG,1,1,True,1.0,3.2059542e-09,1.0,1.8276837e-09,2.359342e-12
+4f6ff3af3123e4bdbfb416995cd7d6f7,PV_data/Corn_(maize)___Common_rust_/RS_Rust 1967.JPG,1,1,True,1.0,1.0768151e-10,1.0,9.978886e-09,7.1865795e-12
+aad4529b2b3539e04dd1bea1d599c5bc,PV_data/Corn_(maize)___Common_rust_/RS_Rust 1969.JPG,1,1,True,1.0,1.0305252e-09,1.0,1.9577776e-08,3.6998895e-13
+9964e6d417e3df20672dcc4bc24d222f,PV_data/Corn_(maize)___Common_rust_/RS_Rust 1973.JPG,1,1,True,0.9999999,6.7514265e-11,0.9999999,1.6532388e-07,1.4411774e-13
+0fbb1fefd8a1bb90012c4d5e92b3cf5e,PV_data/Corn_(maize)___Common_rust_/RS_Rust 1974.JPG,1,1,True,0.99998665,9.654954e-06,0.99998665,2.855725e-06,7.784791e-07
+6e7a3b8cb2aeb95e78fecac50d245c9a,PV_data/Corn_(maize)___Common_rust_/RS_Rust 1985.JPG,1,1,True,0.99983966,3.775999e-05,0.99983966,7.830673e-05,4.4250646e-05
+b77651c8fa4fbf750545d8426994ad7e,PV_data/Corn_(maize)___Common_rust_/RS_Rust 1987.JPG,1,1,True,1.0,6.5894135e-10,1.0,3.589072e-10,2.2727395e-11
+d872949e2c98867994e06157fe8d35a6,PV_data/Corn_(maize)___Common_rust_/RS_Rust 1991.JPG,1,1,True,0.999998,3.0492305e-07,0.999998,1.7521025e-06,1.6075411e-09
+98e00a68e454d6ecc160ed1f8f7dfab1,PV_data/Corn_(maize)___Common_rust_/RS_Rust 2004.JPG,1,1,True,1.0,4.4513507e-12,1.0,6.403801e-11,3.3879336e-12
+37f9402481cebce4c4c75497b1f1c60b,PV_data/Corn_(maize)___Common_rust_/RS_Rust 2005.JPG,1,1,True,1.0,6.916069e-11,1.0,6.101032e-12,4.9433797e-11
+017fa6abf97e8c22ed1519bc741b459b,PV_data/Corn_(maize)___Common_rust_/RS_Rust 2014.JPG,1,1,True,1.0,5.6170996e-10,1.0,2.2551314e-10,1.724094e-13
+8d19c883d3ee6e870ffec24fbe95a5c8,PV_data/Corn_(maize)___Common_rust_/RS_Rust 2020.JPG,1,1,True,0.99999964,1.1728325e-07,0.99999964,2.3157574e-07,3.047254e-10
+23a9ef33b679f34ee527f8fcf34fb957,PV_data/Corn_(maize)___Common_rust_/RS_Rust 2028.JPG,1,1,True,1.0,1.1369254e-09,1.0,4.9554522e-08,1.524659e-10
+b6f0f9bf2606d0ac4f88184a2284b592,PV_data/Corn_(maize)___Common_rust_/RS_Rust 2035.JPG,1,1,True,1.0,2.075836e-11,1.0,3.118555e-10,1.7322522e-09
+872f107ebadaf902db520a86710a12c1,PV_data/Corn_(maize)___Common_rust_/RS_Rust 2038.JPG,1,1,True,1.0,6.3250982e-09,1.0,8.794033e-09,1.9221219e-10
+026f943b0b900dd4df65cac5eb40ad2a,PV_data/Corn_(maize)___Common_rust_/RS_Rust 2040.JPG,1,1,True,1.0,1.4711455e-08,1.0,8.454832e-09,1.7645068e-11
+ca37a7f488b0577310b92edb4c070e24,PV_data/Corn_(maize)___Common_rust_/RS_Rust 2042.JPG,1,1,True,1.0,1.3546722e-09,1.0,3.8919758e-08,1.6546306e-12
+9ee9ac57269a09d1a73720ce8f1b0cfe,PV_data/Corn_(maize)___Common_rust_/RS_Rust 2047.JPG,1,1,True,1.0,2.7117186e-09,1.0,1.8145193e-09,4.7682778e-11
+d9be48127e29145c4e833e6fd041f61f,PV_data/Corn_(maize)___Common_rust_/RS_Rust 2049.JPG,1,1,True,0.99999774,1.5371619e-06,0.99999774,6.567689e-07,9.213749e-08
+e8420a10f41a82e4b5a944dc6636961e,PV_data/Corn_(maize)___Common_rust_/RS_Rust 2057.JPG,1,1,True,0.99999976,1.2348764e-07,0.99999976,2.564173e-09,6.4246564e-08
+a89d458ee20c4a9a6c8da66472c39413,PV_data/Corn_(maize)___Common_rust_/RS_Rust 2060.JPG,1,1,True,1.0,1.7104888e-08,1.0,3.334054e-08,2.7999119e-09
+6deca49a520d7ecf8e9169f6d56b02bc,PV_data/Corn_(maize)___Common_rust_/RS_Rust 2063.JPG,1,1,True,1.0,7.9643556e-11,1.0,1.5554873e-09,2.771713e-13
+cc6263631d378b88d7eea021ffcb5a2a,PV_data/Corn_(maize)___Common_rust_/RS_Rust 2064.JPG,1,1,True,1.0,4.6704458e-14,1.0,6.61065e-14,3.3461703e-16
+c5c65f7d6b61a6c7d7ac910cd5353077,PV_data/Corn_(maize)___Common_rust_/RS_Rust 2074.JPG,1,1,True,1.0,5.205686e-08,1.0,3.0015632e-10,5.5253124e-10
+47eef4a214efe52ad91ac7e92303fcfd,PV_data/Corn_(maize)___Common_rust_/RS_Rust 2079.JPG,1,1,True,1.0,9.052459e-13,1.0,1.0711122e-10,4.5005048e-13
+ab4f6fe77d988f439d9e0dfc5562e6a2,PV_data/Corn_(maize)___Common_rust_/RS_Rust 2085.JPG,1,1,True,1.0,1.7892122e-08,1.0,1.1278524e-08,5.47941e-13
+3476ffdd82499fc730bdd1a8a955f6a3,PV_data/Corn_(maize)___Common_rust_/RS_Rust 2086.JPG,1,2,False,0.58120495,0.011484281,0.40326,0.58120495,0.004050725
+8a6f996f9795ae000f6ed18586e21d4d,PV_data/Corn_(maize)___Common_rust_/RS_Rust 2089.JPG,1,1,True,0.9999918,1.8661457e-09,0.9999918,8.236395e-06,2.0156971e-08
+46926f38478de3c59fb8fe6f46ee8423,PV_data/Corn_(maize)___Common_rust_/RS_Rust 2091.JPG,1,1,True,1.0,3.9378967e-09,1.0,4.2998627e-09,8.355633e-12
+917e517c53c9415e254af05bf3f5587f,PV_data/Corn_(maize)___Common_rust_/RS_Rust 2095.JPG,1,1,True,1.0,4.1702394e-10,1.0,3.639209e-09,3.0957898e-15
+938d570fdbe1907d96831f3f7b5ffba3,PV_data/Corn_(maize)___Common_rust_/RS_Rust 2097.JPG,1,1,True,0.99999154,6.997873e-06,0.99999154,1.4453216e-06,2.2623328e-10
+e9ba83f069c1b5f4b1eeb1beb3ce3094,PV_data/Corn_(maize)___Common_rust_/RS_Rust 2107.JPG,1,1,True,1.0,2.597567e-10,1.0,5.5240297e-09,1.0370613e-10
+0da77c1ba11d28cd09912db865c1b0e6,PV_data/Corn_(maize)___Common_rust_/RS_Rust 2110.JPG,1,1,True,1.0,1.6091332e-13,1.0,1.723435e-11,1.0460379e-15
+78347b11ca0e768cdc65e006c644911d,PV_data/Corn_(maize)___Common_rust_/RS_Rust 2119.JPG,1,1,True,0.9993225,4.1853476e-05,0.9993225,0.00063560426,1.765817e-09
+a3b648280a39e5974425f9e3d3961dba,PV_data/Corn_(maize)___Common_rust_/RS_Rust 2120.JPG,1,1,True,1.0,1.2284908e-10,1.0,5.392925e-10,1.5942456e-14
+82c61dec498f66e5cf6f008e2432f5be,PV_data/Corn_(maize)___Common_rust_/RS_Rust 2132.JPG,1,1,True,1.0,3.981278e-12,1.0,6.1139656e-11,1.9660854e-15
+c63d41c322f32153ff4032f957324444,PV_data/Corn_(maize)___Common_rust_/RS_Rust 2133.JPG,1,1,True,1.0,1.1414665e-13,1.0,8.136963e-14,1.694592e-17
+fd47487ee468a36165092e8435d00812,PV_data/Corn_(maize)___Common_rust_/RS_Rust 2139.JPG,1,1,True,1.0,1.6614538e-10,1.0,9.709032e-10,3.0175744e-09
+e084edd19fdd85ed58dcfd84f51835c2,PV_data/Corn_(maize)___Common_rust_/RS_Rust 2148.JPG,1,1,True,1.0,3.3764575e-08,1.0,1.7319591e-08,5.834958e-10
+8b6d50fcce495c6ac06d1badf61d0f8c,PV_data/Corn_(maize)___Common_rust_/RS_Rust 2151.JPG,1,1,True,0.99026465,0.00971686,0.99026465,1.8461687e-05,4.968976e-08
+c5430e99a53fdba893ee1f6d27acda88,PV_data/Corn_(maize)___Common_rust_/RS_Rust 2172.JPG,1,1,True,1.0,4.0174952e-09,1.0,2.6934414e-08,1.9036745e-14
+8fc59526ddcc80d6b5ba6b49aa3e05e4,PV_data/Corn_(maize)___Common_rust_/RS_Rust 2190.JPG,1,1,True,1.0,3.3808262e-12,1.0,1.081291e-11,1.4854853e-13
+250005f0ce852a1ce6dfb62d29946225,PV_data/Corn_(maize)___Common_rust_/RS_Rust 2192.JPG,1,1,True,1.0,6.255633e-12,1.0,8.3637375e-11,1.8243182e-14
+453c601dcd9f8a6566f61ea20163de29,PV_data/Corn_(maize)___Common_rust_/RS_Rust 2198.JPG,1,1,True,0.9999999,8.0951594e-08,0.9999999,1.864703e-08,2.8501316e-11
+9976bde2abb2981c960cde220b9906d9,PV_data/Corn_(maize)___Common_rust_/RS_Rust 2202.JPG,1,1,True,0.9972235,0.0016334893,0.9972235,0.00014260555,0.0010005027
+28ccd81feff2dbfeafd448505e1636d7,PV_data/Corn_(maize)___Common_rust_/RS_Rust 2215.JPG,1,1,True,1.0,1.39301735e-08,1.0,1.1957094e-11,9.994257e-13
+45fe5c3cf17096fac0e69b42afcd6e0f,PV_data/Corn_(maize)___Common_rust_/RS_Rust 2220.JPG,1,1,True,0.9999999,7.502737e-08,0.9999999,3.6148917e-09,4.411201e-13
+727286858bdfa6ca3f79f0c94217bc39,PV_data/Corn_(maize)___Common_rust_/RS_Rust 2225.JPG,1,1,True,0.99999833,5.38448e-07,0.99999833,1.1622172e-06,8.9054164e-10
+66382b15a197883d7f52150de6c7185b,PV_data/Corn_(maize)___Common_rust_/RS_Rust 2233.JPG,1,1,True,0.9999995,3.567774e-07,0.9999995,7.6208856e-08,8.848981e-09
+e272c48c5b6c8ee5dac660c305724f8b,PV_data/Corn_(maize)___Common_rust_/RS_Rust 2248.JPG,1,1,True,1.0,2.5275755e-09,1.0,9.8808925e-09,9.236968e-14
+2f365ea1c9d43da1a3b59c07b897a398,PV_data/Corn_(maize)___Common_rust_/RS_Rust 2255.JPG,1,1,True,1.0,5.2665382e-11,1.0,3.8086423e-11,2.5313047e-13
+423ecfcf75bb76dfc4955526ba82ad5e,PV_data/Corn_(maize)___Common_rust_/RS_Rust 2261.JPG,1,1,True,1.0,1.8687066e-14,1.0,6.021215e-13,3.3828107e-17
+cd46f314044a6f058872453ccd32461b,PV_data/Corn_(maize)___Common_rust_/RS_Rust 2265.JPG,1,1,True,1.0,1.5224952e-12,1.0,5.2901494e-10,1.0780536e-15
+c7c442947dc6228f805c4bd1de80b2c6,PV_data/Corn_(maize)___Common_rust_/RS_Rust 2282.JPG,1,1,True,1.0,1.2735662e-08,1.0,4.1016374e-08,4.3518696e-12
+43f1b15676c5e10562af75a877d54500,PV_data/Corn_(maize)___Common_rust_/RS_Rust 2290.JPG,1,1,True,0.99999666,1.7688917e-07,0.99999666,3.1256552e-06,5.2633826e-09
+8775d1deeaa169e50764630b9994c294,PV_data/Corn_(maize)___Common_rust_/RS_Rust 2293.JPG,1,1,True,0.9999893,6.5193735e-06,0.9999893,4.2485412e-06,3.464066e-09
+612727d1642ccc2313add47f60585b62,PV_data/Corn_(maize)___Common_rust_/RS_Rust 2295.JPG,1,1,True,0.99999726,2.56857e-07,0.99999726,2.445706e-06,5.9020056e-08
+ab18aaceddbd7901927635a460a75b26,PV_data/Corn_(maize)___Common_rust_/RS_Rust 2300.JPG,1,1,True,1.0,6.986921e-12,1.0,2.7213284e-10,4.4796184e-16
+4d4465b5bd55401438ee5aac6c3d32d6,PV_data/Corn_(maize)___Common_rust_/RS_Rust 2301.JPG,1,1,True,0.9999995,3.4121395e-09,0.9999995,4.3889938e-07,1.4433514e-11
+9713ae6a9a3d00f3e7cbd7770d6b6f0d,PV_data/Corn_(maize)___Common_rust_/RS_Rust 2306.JPG,1,1,True,0.99995446,3.1287847e-05,0.99995446,1.4216168e-05,2.9767189e-09
+abcac5ed49972f136b27fd7554e2ece8,PV_data/Corn_(maize)___Common_rust_/RS_Rust 2316.JPG,1,1,True,0.98928446,0.008803419,0.98928446,0.0019118584,2.4523825e-07
+3aec1fe65f50fba71deab5d9d24cd491,PV_data/Corn_(maize)___Common_rust_/RS_Rust 2318.JPG,1,1,True,0.9999999,1.5272185e-08,0.9999999,4.7005052e-08,8.132626e-12
+f72810276c9cd523f0481bf26d0bf0fa,PV_data/Corn_(maize)___Common_rust_/RS_Rust 2329.JPG,1,1,True,0.99999976,1.8308393e-07,0.99999976,9.7176176e-08,1.7921242e-09
+fcc02cf0c34448397f812c13972c3727,PV_data/Corn_(maize)___Common_rust_/RS_Rust 2338.JPG,1,1,True,0.9999999,8.3240735e-08,0.9999999,3.5265643e-08,1.3196023e-11
+d5b12649fa131ea99fb799872a13ade2,PV_data/Corn_(maize)___Common_rust_/RS_Rust 2341.JPG,1,1,True,1.0,5.960861e-12,1.0,2.1697089e-12,5.484959e-18
+c556109a7d3e53f75396fee5c6500a7c,PV_data/Corn_(maize)___Common_rust_/RS_Rust 2347.JPG,1,1,True,0.99999964,7.937296e-08,0.99999964,2.481348e-07,1.0843085e-10
+735561b49c4a3e356f7dab41fdf9815a,PV_data/Corn_(maize)___Common_rust_/RS_Rust 2348.JPG,1,1,True,0.9944919,0.005420283,0.9944919,8.203145e-05,5.8344094e-06
+15ad0d20293074a3391be307e1bf1a8b,PV_data/Corn_(maize)___Common_rust_/RS_Rust 2350.JPG,1,1,True,1.0,5.0587724e-12,1.0,2.479988e-13,4.909777e-15
+0ccb76c360ac716c8f5a61a9b168152d,PV_data/Corn_(maize)___Common_rust_/RS_Rust 2351.JPG,1,1,True,1.0,1.5827922e-11,1.0,6.8867373e-12,4.261494e-14
+008566aea486f330188ee1ef8d3d2269,PV_data/Corn_(maize)___Common_rust_/RS_Rust 2355.JPG,1,1,True,0.97547555,0.0006737453,0.97547555,0.023850553,1.550475e-07
+1467e29831ea6a9da99ac448d16a84b1,PV_data/Corn_(maize)___Common_rust_/RS_Rust 2362.JPG,1,1,True,1.0,2.0139305e-08,1.0,1.888472e-09,6.6891897e-13
+587b8879a20d6df93dd3aeb7be1ac758,PV_data/Corn_(maize)___Common_rust_/RS_Rust 2365.JPG,1,1,True,1.0,1.7087774e-11,1.0,2.7813951e-12,1.0549306e-14
+5573fdf452e3710a21b3b3acd930c4e2,PV_data/Corn_(maize)___Common_rust_/RS_Rust 2395.JPG,1,1,True,0.99999976,1.4110468e-07,0.99999976,4.5136332e-08,6.90686e-09
+bb051167350c3a46dc6bd43d68c09ffb,PV_data/Corn_(maize)___Common_rust_/RS_Rust 2400.JPG,1,1,True,0.99999976,2.284943e-08,0.99999976,1.665741e-07,2.1999937e-10
+bd1df594daa57053ae14a27971d5b5f7,PV_data/Corn_(maize)___Common_rust_/RS_Rust 2402.JPG,1,1,True,0.99997926,1.2398828e-05,0.99997926,7.351046e-06,9.3848814e-07
+28ef13eb1865a28d3dcd79efc705a601,PV_data/Corn_(maize)___Common_rust_/RS_Rust 2406.JPG,1,1,True,1.0,5.783022e-08,1.0,1.0039452e-10,1.0107448e-10
+1846d792fc8bef5c566cee792398851f,PV_data/Corn_(maize)___Common_rust_/RS_Rust 2417.JPG,1,1,True,0.9999429,2.2115066e-05,0.9999429,3.4980156e-05,1.2279007e-10
+9b9b0bf0c53bdd29cd659f26f1aff6ec,PV_data/Corn_(maize)___Common_rust_/RS_Rust 2425.JPG,1,1,True,0.9999651,4.148516e-06,0.9999651,3.0140554e-05,5.576603e-07
+df6205fcb290fc940087b828788a657c,PV_data/Corn_(maize)___Common_rust_/RS_Rust 2437.JPG,1,1,True,0.997849,0.0011504305,0.997849,0.00087616045,0.00012447053
+841eb73156c86591d01377d057c0cb24,PV_data/Corn_(maize)___Common_rust_/RS_Rust 2438.JPG,1,1,True,1.0,7.0932784e-09,1.0,1.856842e-08,1.6132789e-13
+f65bf3750922b117e6a3ae013d69e2fe,PV_data/Corn_(maize)___Common_rust_/RS_Rust 2452.JPG,1,1,True,0.9999982,2.254819e-09,0.9999982,1.7958369e-06,1.1930049e-12
+88b4ac615299a776f89b7704ba5cc3eb,PV_data/Corn_(maize)___Common_rust_/RS_Rust 2457.JPG,1,1,True,0.99999976,1.5091638e-08,0.99999976,2.2616257e-07,1.1196249e-10
+88ed27946e4b89b2ab781d3d19cf4644,PV_data/Corn_(maize)___Common_rust_/RS_Rust 2460.JPG,1,1,True,0.9999994,1.2643906e-07,0.9999994,4.2748738e-07,3.2601302e-09
+26b007b253accde2208e87bd0dd6c7d3,PV_data/Corn_(maize)___Common_rust_/RS_Rust 2462.JPG,1,1,True,1.0,1.2342431e-13,1.0,1.14099745e-11,2.1164763e-14
+6e314a355d5932a8c97713c195965a07,PV_data/Corn_(maize)___Common_rust_/RS_Rust 2468.JPG,1,1,True,1.0,6.651189e-09,1.0,2.2063332e-08,8.7592797e-13
+943052554ab6890e5f0ecd449bdbae9f,PV_data/Corn_(maize)___Common_rust_/RS_Rust 2469.JPG,1,1,True,0.9999999,9.389152e-08,0.9999999,3.3829227e-08,1.7412357e-09
+6e69027c8adc4a3da386da2986663360,PV_data/Corn_(maize)___Common_rust_/RS_Rust 2480.JPG,1,1,True,0.9999999,1.464256e-08,0.9999999,7.455192e-08,1.8333939e-11
+4044f775e0eccab6aa39480fbe230c81,PV_data/Corn_(maize)___Common_rust_/RS_Rust 2498.JPG,1,1,True,0.9999982,9.023699e-07,0.9999982,7.2185105e-07,8.232418e-08
+a523025e297ebf637c737ab196ad3814,PV_data/Corn_(maize)___Common_rust_/RS_Rust 2508.JPG,1,1,True,1.0,1.7117818e-11,1.0,9.2426966e-10,8.7771526e-14
+3d21f8cd3937eed373c0551985c7bd40,PV_data/Corn_(maize)___Common_rust_/RS_Rust 2516.JPG,1,1,True,0.9999293,3.2058388e-08,0.9999293,7.071071e-05,7.3206163e-10
+2e3a1f83a9b3388441678db8529b22cc,PV_data/Corn_(maize)___Common_rust_/RS_Rust 2527.JPG,1,1,True,1.0,1.7115445e-10,1.0,1.3692733e-10,6.871042e-13
+e5e8f0478727b47ee840e153916d69ae,PV_data/Corn_(maize)___Common_rust_/RS_Rust 2528.JPG,1,1,True,1.0,9.926951e-12,1.0,1.2750239e-09,9.070584e-14
+3c02c2b49c4a69e77b154a3ee9d7cd8e,PV_data/Corn_(maize)___Common_rust_/RS_Rust 2538.JPG,1,1,True,0.9999995,3.5691812e-08,0.9999995,4.1776156e-07,1.5453656e-11
+a113945f038e15dcbc207ed94dd68a9d,PV_data/Corn_(maize)___Common_rust_/RS_Rust 2540.JPG,1,1,True,0.9999871,3.6567204e-07,0.9999871,1.2466165e-05,1.2504711e-12
+ea95189b0ed83545caebe0589c945fda,PV_data/Corn_(maize)___Common_rust_/RS_Rust 2562.JPG,1,1,True,1.0,7.479973e-09,1.0,6.6531305e-09,1.4620256e-09
+50b7a5e0f43316ee24407ee3813d0d3a,PV_data/Corn_(maize)___Common_rust_/RS_Rust 2563.JPG,1,1,True,1.0,3.1013975e-08,1.0,2.2952348e-08,1.6695853e-11
+94b30253c945bc467e57e6ab61d91d8a,PV_data/Corn_(maize)___Common_rust_/RS_Rust 2569.JPG,1,1,True,1.0,1.3286831e-13,1.0,8.741193e-12,6.4689844e-16
+c0759ea9bb5f91de322c900f67c10766,PV_data/Corn_(maize)___Common_rust_/RS_Rust 2570.JPG,1,1,True,0.9999999,3.4212968e-09,0.9999999,7.951769e-08,2.6933239e-11
+d6d6b5404ba13820baad47ab5e402070,PV_data/Corn_(maize)___Common_rust_/RS_Rust 2576.JPG,1,1,True,1.0,2.9008312e-10,1.0,9.317392e-10,6.415167e-12
+06c9d07048fe19bf5fd78f5efa48fff8,PV_data/Corn_(maize)___Common_rust_/RS_Rust 2582.JPG,1,1,True,1.0,1.3648525e-08,1.0,2.8383424e-08,1.0673354e-10
+9ba3fcc4496b2ea3c09ecc1b9014dc40,PV_data/Corn_(maize)___Common_rust_/RS_Rust 2589.JPG,1,1,True,0.9999478,3.9788733e-06,0.9999478,4.8232905e-05,5.700576e-08
+12ef07ee1db49a93f247ff1ac3233c1a,PV_data/Corn_(maize)___Common_rust_/RS_Rust 2592.JPG,1,1,True,0.95303345,0.00410243,0.95303345,0.042864162,2.669144e-08
+ebdea5a87da301d35e0df41bb07179f8,PV_data/Corn_(maize)___Common_rust_/RS_Rust 2612.JPG,1,1,True,0.99860644,0.0012153212,0.99860644,0.00017817064,1.892817e-09
+6362975474d99421440386a8a22bfbcf,PV_data/Corn_(maize)___Common_rust_/RS_Rust 2618.JPG,1,1,True,1.0,1.7481085e-08,1.0,7.591764e-10,3.3347468e-12
+79fa2c61bbad2ba085e75a61de67ce72,PV_data/Corn_(maize)___Common_rust_/RS_Rust 2619.JPG,1,1,True,1.0,2.8808217e-10,1.0,4.5239815e-10,1.8890185e-14
+4480f53f4fa6408a55e63b9304628de2,PV_data/Corn_(maize)___Common_rust_/RS_Rust 2623.JPG,1,1,True,0.9999354,1.5769574e-05,0.9999354,2.520531e-05,2.3547387e-05
+931c1c495f09c6e437b36599830e27de,PV_data/Corn_(maize)___Common_rust_/RS_Rust 2631.JPG,1,1,True,1.0,1.5021199e-08,1.0,1.400207e-08,8.730695e-12
+a5de3856de8731d7456c4fe5a7205688,PV_data/Corn_(maize)___Common_rust_/RS_Rust 2645.JPG,1,1,True,0.99999356,2.6239372e-06,0.99999356,3.8262774e-06,8.9095714e-10
+23313404edf3403efc06fcb44543bcca,PV_data/Corn_(maize)___Common_rust_/RS_Rust 2646.JPG,1,1,True,1.0,1.8859128e-13,1.0,1.4296664e-11,3.0271853e-12
+d7a09a5106909aa2a8eab6198d3aaaf4,PV_data/Corn_(maize)___Common_rust_/RS_Rust 2649.JPG,1,1,True,0.9999449,5.28235e-05,0.9999449,1.8527988e-06,3.697006e-07
+cb0609195b77e92a31c78467a590293a,PV_data/Corn_(maize)___Common_rust_/RS_Rust 2651.JPG,1,1,True,0.9999994,4.5421726e-07,0.9999994,1.5565875e-07,1.5268822e-09
+0e879c2dcd620d01ebe0dc0f9db73d98,PV_data/Corn_(maize)___Common_rust_/RS_Rust 2662.JPG,1,1,True,1.0,9.6299815e-11,1.0,3.03539e-08,5.3713846e-11
+87a0134564dca6e6eb4aff1e30cc415a,PV_data/Corn_(maize)___Common_rust_/RS_Rust 2669.JPG,1,1,True,0.99993706,4.8116657e-05,0.99993706,1.4805469e-05,7.45482e-09
+110830a8df6622a93afa0c974c8409ad,PV_data/Corn_(maize)___Common_rust_/RS_Rust 2675.JPG,1,1,True,1.0,2.0451303e-08,1.0,6.824272e-09,2.8030403e-11
+a2a106b5b3b58391e180c41a806e60d2,PV_data/Corn_(maize)___Common_rust_/RS_Rust 2676.JPG,1,1,True,0.9999999,4.7099196e-08,0.9999999,1.2964928e-07,1.481803e-10
+00f7f14b359e2ca1e7223c7f21ca0ccc,PV_data/Corn_(maize)___Common_rust_/RS_Rust 2679.JPG,1,1,True,0.9999988,9.2787104e-08,0.9999988,1.1359265e-06,1.16276655e-10
+ae2eedc73a50435bdb5df58c969f7afd,PV_data/Corn_(maize)___Common_rust_/RS_Rust 2681.JPG,1,1,True,1.0,6.7820616e-09,1.0,1.9211893e-08,7.1404384e-12
+aaa4355913237651db2f0b893973a6c5,PV_data/Corn_(maize)___Common_rust_/RS_Rust 2690.JPG,1,1,True,0.9999585,1.4440097e-07,0.9999585,4.1283627e-05,1.7268205e-12
+e0bf41645f19314c3f90dc40703b2570,PV_data/Corn_(maize)___Common_rust_/RS_Rust 2699.JPG,1,1,True,1.0,1.05947785e-10,1.0,1.0652126e-09,1.0166578e-13
+567f5af47cedff3555808ca56e48788c,PV_data/Corn_(maize)___Common_rust_/RS_Rust 2703.JPG,1,1,True,1.0,1.3279993e-09,1.0,7.1569053e-13,9.119705e-12
+53db6e774cd49807cd9ef92453b3e23c,PV_data/Corn_(maize)___Common_rust_/RS_Rust 2704.JPG,1,1,True,1.0,2.6324616e-13,1.0,2.0481787e-12,2.0654763e-15
+a570426628e4eb7bc002a9199845ecbf,PV_data/Corn_(maize)___Common_rust_/RS_Rust 2715.JPG,1,1,True,0.9999987,1.59959e-09,0.9999987,1.3022343e-06,6.871754e-13
+0dac2e6d58c71a093fa49002c1754adf,PV_data/Corn_(maize)___Common_rust_/RS_Rust 2717.JPG,1,1,True,1.0,3.8345863e-10,1.0,1.7143353e-09,7.081689e-14
+bfac74139b8de048b0220fc6ceec4435,PV_data/Corn_(maize)___Common_rust_/RS_Rust 2724.JPG,1,1,True,0.99994075,4.6188197e-05,0.99994075,1.3102314e-05,7.2275532e-09
+0dbe5c5f92a619a54ec821f30f3e8466,PV_data/Corn_(maize)___Common_rust_/RS_Rust 2725.JPG,1,1,True,0.9998491,1.2456463e-06,0.9998491,0.0001496366,1.2322812e-09
+196a2684eecd0c60b967c878577accf6,PV_data/Corn_(maize)___Common_rust_/RS_Rust 2737.JPG,1,1,True,1.0,1.2608841e-08,1.0,2.6751927e-09,7.689572e-12
+4664ba1ba28293c2bee3b416c573dbf0,PV_data/Corn_(maize)___Common_rust_/RS_Rust 2761.JPG,1,1,True,1.0,1.3678286e-08,1.0,1.6241933e-09,3.8459706e-13
+d2cc29e468425ce2e3639e2955209b71,PV_data/Corn_(maize)___Northern_Leaf_Blight/033219ed-54a8-4f95-ab72-c87b90189006___RS_NLB 3818 copy 2.jpg,2,2,True,0.9232587,0.075961486,0.00074605935,0.9232587,3.3676246e-05
+f66d5b158d7da7f4d0003697d66d9967,PV_data/Corn_(maize)___Northern_Leaf_Blight/07d88aa9-1c25-46c9-a48a-85db9d970905___RS_NLB 3976.JPG,2,2,True,0.96175194,0.038243573,4.4692715e-06,0.96175194,1.2942264e-10
+97e82509f54aadc9b78219d2adc03745,PV_data/Corn_(maize)___Northern_Leaf_Blight/07f5df82-5df0-446f-a13a-d35a2ef9b2df___RS_NLB 4226.JPG,2,2,True,0.9999881,6.6451794e-06,8.195814e-08,0.9999881,5.1663055e-06
+33068d39afe585e572a31f3807268fdd,PV_data/Corn_(maize)___Northern_Leaf_Blight/09160fba-83ce-4cec-887f-dce0abb79d08___RS_NLB 0832.JPG,2,2,True,0.9999771,2.2733144e-05,8.7507516e-08,0.9999771,2.1553213e-09
+cc8836e6fbbc1abee30a5346d58a6998,PV_data/Corn_(maize)___Northern_Leaf_Blight/0be917c7-7340-40f3-af7f-3343a45d7621___RS_NLB 3942 copy.jpg,2,2,True,0.9999213,2.6005417e-05,5.270471e-05,0.9999213,2.497514e-08
+ac58d9fb1a6b71137d38ae6fdc85bdef,PV_data/Corn_(maize)___Northern_Leaf_Blight/0cf406f1-3004-4e13-87cb-e6bc02f67e51___RS_NLB 3566.JPG,2,2,True,0.999665,0.00033066253,4.240906e-06,0.999665,2.6357409e-08
+534468cfca3645b2e9fce0e699ffae40,PV_data/Corn_(maize)___Northern_Leaf_Blight/0da79f56-07f6-4494-a5ba-9722919ee8ad___RS_NLB 3962 copy.jpg,2,2,True,0.9960363,0.0039404104,2.2168224e-05,0.9960363,1.1519058e-06
+bcd6d9c695a9194bd1fb9f84a12636cc,PV_data/Corn_(maize)___Northern_Leaf_Blight/0e4a16ba-4a67-4d0d-8c54-79108e3ddae2___RS_NLB 4165.JPG,2,2,True,0.9719466,0.028052816,5.4031335e-07,0.9719466,2.0121582e-09
+1af2f9a321eba6affb6a3db591f17676,PV_data/Corn_(maize)___Northern_Leaf_Blight/11d96d18-2ccd-488d-a831-266871ee59b5___RS_NLB 4124.JPG,2,2,True,0.8438514,0.15377732,0.0011210019,0.8438514,0.0012501816
+a9152f112ba3be3134ec99bba68a2b85,PV_data/Corn_(maize)___Northern_Leaf_Blight/11e65380-6628-446b-91af-ae42d998d5ff___RS_NLB 4220.JPG,2,2,True,0.9945624,0.005360881,7.6758006e-05,0.9945624,1.4151541e-09
+5536f493178eb744a7170bab22d2a164,PV_data/Corn_(maize)___Northern_Leaf_Blight/1268904c-797f-4e33-bb41-afb58f369c6b___RS_NLB 3755.JPG,2,2,True,0.99997866,2.1300844e-05,1.8019165e-09,0.99997866,1.3695875e-12
+72cd3e30e2d2a0765440163cb1bf3892,PV_data/Corn_(maize)___Northern_Leaf_Blight/143ff440-2efd-4bc9-8312-265363c0872f___RS_NLB 3625.JPG,2,2,True,0.9997031,0.00028572523,1.10367455e-05,0.9997031,1.0627739e-09
+fdadbb70d271e288cc81a1184169477c,PV_data/Corn_(maize)___Northern_Leaf_Blight/15484387-5b5e-4248-928b-f5d4c98e8133___RS_NLB 3479.JPG,2,2,True,0.9998665,0.0001332758,2.1153315e-07,0.9998665,2.1131628e-08
+fea0b2da4335032113351d3b833942ae,PV_data/Corn_(maize)___Northern_Leaf_Blight/1ca58163-0570-48af-bdef-2fd3a751dc0a___RS_NLB 3927.JPG,2,2,True,0.99997437,2.5592883e-05,1.24224915e-08,0.99997437,3.0679102e-13
+0be7c12c37b8da0ce2df73a9548df282,PV_data/Corn_(maize)___Northern_Leaf_Blight/1eb43526-92fa-4fbd-b09c-899511d7a79c___RS_NLB 4039.JPG,2,2,True,0.9990878,0.0008901949,1.3848204e-05,0.9990878,8.235763e-06
+012bc85a3140f301f5febc079e3704fb,PV_data/Corn_(maize)___Northern_Leaf_Blight/22d215df-2361-481f-b3a7-27e3e2d5cebb___RS_NLB 3587.JPG,2,2,True,0.9998416,0.0001481392,1.02590875e-05,0.9998416,4.482132e-08
+5facd168b8b3bea8304c75488c523b06,PV_data/Corn_(maize)___Northern_Leaf_Blight/2646db6b-dba9-4de7-b569-adbc96d3f127___RS_NLB 4269 copy.jpg,2,2,True,0.9260892,0.07360131,0.00023043818,0.9260892,7.899247e-05
+649f6e7038cee52b0e85137d002e5c81,PV_data/Corn_(maize)___Northern_Leaf_Blight/29450131-41f6-4bd4-92c7-c4973ae445da___RS_NLB 3787 copy 2.jpg,2,0,False,0.995925,0.995925,8.927668e-07,0.004074052,1.1552774e-12
+24a6a22d63435be4cf1baf7ae35ce39c,PV_data/Corn_(maize)___Northern_Leaf_Blight/2bad1ec2-1bd5-431c-919d-31247d9f32e2___RS_NLB 4180.JPG,2,2,True,0.9989693,0.0009937948,3.6585807e-05,0.9989693,3.468479e-07
+86ba70fcabd32cbe149c0ccf2acfd693,PV_data/Corn_(maize)___Northern_Leaf_Blight/2ea20efb-b8d6-4ff9-8e72-418fd4a239f0___RS_NLB 4022.JPG,2,2,True,0.9987602,0.001238404,1.4796672e-06,0.9987602,4.319717e-10
+45c5d7a4ac152f008e182b45887c04a9,PV_data/Corn_(maize)___Northern_Leaf_Blight/2f80ba76-4fdc-41cd-9b6d-4b1255a29b83___RS_NLB 3687.JPG,2,2,True,0.99132174,0.0076689436,0.001009009,0.99132174,2.8724628e-07
+47977646f763a16a031c99ded216afc2,PV_data/Corn_(maize)___Northern_Leaf_Blight/30f2767e-d618-41c6-ae4f-d7ddf806318b___RS_NLB 4068.JPG,2,2,True,0.9975072,0.002479947,1.19787355e-05,0.9975072,8.341711e-07
+b6f5a9f28695b1d164f00860af4749b2,PV_data/Corn_(maize)___Northern_Leaf_Blight/3103f262-0222-41f6-9ce3-8f18e8aa855c___RS_NLB 4243.JPG,2,2,True,0.9999813,1.8633486e-05,6.436643e-08,0.9999813,3.9462644e-10
+c823434350484ac879cf733299712b5f,PV_data/Corn_(maize)___Northern_Leaf_Blight/31a49b40-0f0a-496d-a3bc-cf566bbbe845___RS_NLB 3568.JPG,2,2,True,0.9994231,0.00054452586,3.2441687e-05,0.9994231,1.4839951e-08
+834eaef72adb38b1bd2a5b8373d6446b,PV_data/Corn_(maize)___Northern_Leaf_Blight/361f06a6-6dbc-4ea0-b954-c3a1e6b9b481___RS_NLB 3653.JPG,2,2,True,0.9999535,3.39824e-05,1.2480675e-05,0.9999535,2.6717024e-13
+405fa626b3d06dc293242085a1c7a301,PV_data/Corn_(maize)___Northern_Leaf_Blight/369b969a-f820-40ec-a43c-7500df90e6d1___RS_NLB 3615.JPG,2,2,True,0.9999422,4.9051516e-05,8.846244e-06,0.9999422,2.0829054e-08
+77dbb8d6763380c208eda1632d02891b,PV_data/Corn_(maize)___Northern_Leaf_Blight/36c5fd81-d688-4013-8635-19d0fd14eeb9___RS_NLB 4666.JPG,2,2,True,0.99808097,0.0019161855,2.8254358e-06,0.99808097,1.1483626e-09
+086d00cec5fb8057a5056c6665d07140,PV_data/Corn_(maize)___Northern_Leaf_Blight/39adac5b-ad7c-4ebd-b1de-a583229cc845___RS_NLB 4244.JPG,2,2,True,0.83058685,0.16941085,2.3596924e-06,0.83058685,9.240978e-09
+d4a5fb5d8c2d10e7ca2bff41a98a3257,PV_data/Corn_(maize)___Northern_Leaf_Blight/39facd4b-a088-4d14-8261-5e54beabc108___RS_NLB 4201.JPG,2,2,True,0.99986804,0.000114800845,1.6977672e-05,0.99986804,1.7631002e-07
+13a872b2dd88303e52543658c215b73a,PV_data/Corn_(maize)___Northern_Leaf_Blight/3ddba6ba-0467-45e1-b3d7-24b97ee2c767___RS_NLB 3720.JPG,2,2,True,0.99978244,0.000105187675,0.000111999034,0.99978244,2.5667694e-07
+e79aab5dc1149eaa258fbd4be22ec240,PV_data/Corn_(maize)___Northern_Leaf_Blight/42a931c8-e325-4d2b-9cc8-14babf382689___RS_NLB 4023 copy 2.jpg,2,2,True,0.99989736,0.00010265967,2.151458e-08,0.99989736,4.290645e-10
+12ef2196d9a8cfaea490fef69f294a85,PV_data/Corn_(maize)___Northern_Leaf_Blight/4376c828-f03e-4953-a2db-bd6405eadc68___RS_NLB 4061 copy 2.jpg,2,2,True,0.9961671,0.0034119373,0.00040100972,0.9961671,1.9859583e-05
+e12b009ea1e243d2780099986d27d5c8,PV_data/Corn_(maize)___Northern_Leaf_Blight/474797d0-3298-4480-ba05-7c49026ffbbf___RS_NLB 3529.JPG,2,2,True,0.9999677,3.214708e-05,1.2962781e-07,0.9999677,4.730398e-10
+94890d048339d714f6fb63ad9a87db12,PV_data/Corn_(maize)___Northern_Leaf_Blight/47e485da-d2e2-440f-ab6a-b17bcb0a83cb___RS_NLB 0808.JPG,2,2,True,0.57462996,0.42535457,1.527286e-05,0.57462996,2.172668e-07
+6738d8893c33ffed8e85d971cb45f304,PV_data/Corn_(maize)___Northern_Leaf_Blight/4947341e-7e47-406b-a0ea-e1eb61a3a480___RS_NLB 3902.JPG,2,2,True,0.8896472,0.11034916,3.6498457e-06,0.8896472,4.1848693e-09
+756ddb521067340500e8b5aece66489d,PV_data/Corn_(maize)___Northern_Leaf_Blight/496510d6-dd7c-4dda-8379-d66a89b1b42f___RS_NLB 3793.JPG,2,2,True,0.93332475,0.06662704,4.8153433e-05,0.93332475,1.0285022e-10
+cb82088b7948619aba14c6aa50b03a1e,PV_data/Corn_(maize)___Northern_Leaf_Blight/4af2c376-1e04-4649-85f2-a2c69463388e___RS_NLB 0759 copy 2.jpg,2,2,True,0.9945196,0.0054799113,4.270018e-07,0.9945196,2.1084917e-08
+e5f7537986d1a08d915c9ae05122ca37,PV_data/Corn_(maize)___Northern_Leaf_Blight/4b79b80a-6ad9-41b3-9d6a-7b493c5c75a0___RS_NLB 4258.JPG,2,2,True,0.9975738,0.002425833,3.1240157e-07,0.9975738,1.319082e-08
+d78e733ad6b63a8c24025f8667f07085,PV_data/Corn_(maize)___Northern_Leaf_Blight/4d8cfcae-64e2-49e0-964f-01f6b39a23b4___RS_NLB 3631.JPG,2,2,True,0.99999547,2.1505616e-06,2.4113738e-06,0.99999547,2.408442e-11
+a5c28587f29ed0292d45ade9023f73e5,PV_data/Corn_(maize)___Northern_Leaf_Blight/4ef8e489-cafb-4d59-9fc9-00f8087f0cac___RS_NLB 4172.JPG,2,2,True,0.9995237,0.00047547123,8.638811e-07,0.9995237,1.3997842e-10
+305dac05436fedc63af00a1a273eec1d,PV_data/Corn_(maize)___Northern_Leaf_Blight/534e86f0-1e17-4fa0-b042-b0b26ab53eb4___RS_NLB 3745.JPG,2,2,True,0.99934596,0.00013205338,9.378178e-05,0.99934596,0.00042826746
+42b34a189b2be09cd0031ccc9d4220ca,PV_data/Corn_(maize)___Northern_Leaf_Blight/5586393a-7c4f-458c-86b2-13673384a87a___RS_NLB 3496.JPG,2,2,True,0.99978435,0.00015762661,5.7978516e-05,0.99978435,1.3443323e-09
+a76b7b513c81f25561e89d5f211688fe,PV_data/Corn_(maize)___Northern_Leaf_Blight/56a583b2-13e9-4b37-9afb-473a2146889f___RS_NLB 4210.JPG,2,2,True,0.99929297,0.00068457733,2.2339997e-05,0.99929297,1.3679073e-08
+7ff882d4e6785336a435355ebf20fa02,PV_data/Corn_(maize)___Northern_Leaf_Blight/571927a9-3b0a-4c5e-be0b-a3c9859d66fa___RS_NLB  4443 copy 3.jpg,2,2,True,0.99144006,0.008278098,0.00028177365,0.99144006,1.3273976e-07
+2415e3ada950d637919db422abd11515,PV_data/Corn_(maize)___Northern_Leaf_Blight/571d15d7-e0eb-43f4-aca7-abcdcf1e80a5___RS_NLB 4213.JPG,2,2,True,0.81981814,0.16246447,0.011955907,0.81981814,0.00576148
+110d3ea2b110f2f6deea2e2a8b7a52b1,PV_data/Corn_(maize)___Northern_Leaf_Blight/59b2026f-6b96-4a60-9461-6da43560b2df___RS_NLB 0811.JPG,2,2,True,0.95480573,0.04519317,6.690178e-08,0.95480573,1.035419e-06
+b77b82d994656c80292924114a55fc50,PV_data/Corn_(maize)___Northern_Leaf_Blight/59bc212e-6b39-4712-b9c9-6edc3fa3e05f___RS_NLB 3604 copy 2.jpg,2,2,True,0.9905135,5.8646925e-05,0.0094271675,0.9905135,6.5439343e-07
+0486154d9beb447c31c1bc478cf9d418,PV_data/Corn_(maize)___Northern_Leaf_Blight/59d0b355-5722-4c98-9498-83264f1e9a84___RS_NLB 4020 copy 2.jpg,2,2,True,0.99731004,0.0016165423,0.0010718274,0.99731004,1.5631713e-06
+a2b46716d398f1db5f05a8e9233e7e98,PV_data/Corn_(maize)___Northern_Leaf_Blight/5a2e998f-6157-42a7-a2b3-bfb972a8c94e___RS_NLB 4111.JPG,2,2,True,0.9755785,0.02442129,2.552466e-07,0.9755785,1.9896216e-08
+5c5d34ceb1645f3b14142cb01b7fffd4,PV_data/Corn_(maize)___Northern_Leaf_Blight/5c203214-e08c-4af1-9b9a-0d947c6f4741___RS_NLB 4155.JPG,2,2,True,0.93054247,0.069457226,1.8967816e-07,0.93054247,8.314501e-12
+b5b63e69c40ce775c574dcd68c58b788,PV_data/Corn_(maize)___Northern_Leaf_Blight/5d204d2a-292f-4862-a704-cb03145ca5b1___RS_NLB 4057.JPG,2,2,True,0.9607917,0.03780143,0.001361927,0.9607917,4.4862296e-05
+dc49184a6fdd78fc1cc8f420ccd7ed67,PV_data/Corn_(maize)___Northern_Leaf_Blight/60fb1e70-5368-4b1f-ab46-12c5add010e6___RS_NLB 3839.JPG,2,2,True,0.9870223,0.012966271,1.1383997e-05,0.9870223,6.316739e-08
+38945fe9d68e196a8a34113ae2ae62aa,PV_data/Corn_(maize)___Northern_Leaf_Blight/6150b5d0-047c-4f46-8832-9760d8359730___RS_NLB 3669.JPG,2,2,True,0.99952906,0.00037065937,9.9990364e-05,0.99952906,2.3050282e-07
+ce972169d65be22557279bc5e2b83d11,PV_data/Corn_(maize)___Northern_Leaf_Blight/6313736d-ff6e-4180-8f38-8c9e635d9da9___RS_NLB 3865.JPG,2,2,True,0.9941812,0.005818077,7.386498e-07,0.9941812,4.454331e-10
+da91b8dd001c6576817e5ef50b9a40d3,PV_data/Corn_(maize)___Northern_Leaf_Blight/63d75f8e-ad04-46d0-bc14-9c40a6961a80___RS_NLB 4185.JPG,2,2,True,0.9975643,0.0023997521,3.3201613e-05,0.9975643,2.7478275e-06
+0b53b9c7da398cb19637217f399f4ed2,PV_data/Corn_(maize)___Northern_Leaf_Blight/653a38de-840f-4905-83f2-34a96410bb99___RS_NLB 3853 copy 2.jpg,2,2,True,0.9987656,0.001234228,2.9686186e-07,0.9987656,3.9920886e-11
+f6897a3d451e552be5edd2838031421d,PV_data/Corn_(maize)___Northern_Leaf_Blight/6578fc09-44ed-4f4b-8ba9-d420a169e824___RS_NLB 3983.JPG,2,2,True,0.8880196,0.11156089,8.31339e-05,0.8880196,0.00033644016
+d3eafad4f61e14838e13a2c261529500,PV_data/Corn_(maize)___Northern_Leaf_Blight/6880b763-1f12-4d80-9aa8-a2b8eecaed1a___RS_NLB 3543.JPG,2,2,True,0.9913412,0.0086545795,4.1154103e-06,0.9913412,9.4546124e-08
+4c52fa34c9a4598ac65e1aa0dd4be302,PV_data/Corn_(maize)___Northern_Leaf_Blight/699c9da1-1968-469b-aab5-35b9856c04b4___RS_NLB 3776.JPG,2,2,True,0.8387372,0.16123807,2.4749437e-05,0.8387372,1.2123367e-09
+a3a76ec481a4ef08f29423338d8ff99c,PV_data/Corn_(maize)___Northern_Leaf_Blight/6a43e0eb-5366-4170-9782-12c16a853d04___RS_NLB 3519.JPG,2,2,True,0.99965906,0.0003403448,5.9519436e-07,0.99965906,6.857322e-10
+0cf871783ee02af5a9698cad6e9bb292,PV_data/Corn_(maize)___Northern_Leaf_Blight/6c8c49d0-1730-4829-aa21-ccff3079881e___RS_NLB 3540.JPG,2,2,True,0.99949014,0.0004527801,5.7113048e-05,0.99949014,1.725821e-08
+e4bf9d25b3d4f392c46bdc79f17472f2,PV_data/Corn_(maize)___Northern_Leaf_Blight/6de48e30-eda0-403a-b24a-74642b4d9825___RS_NLB 4186.JPG,2,2,True,0.94919515,0.050794616,1.0222809e-05,0.94919515,1.8414247e-10
+e501b387447fc33d0e8ab785381c12ab,PV_data/Corn_(maize)___Northern_Leaf_Blight/6e9d79b9-3d43-4e52-86b9-e131d62407ec___RS_NLB 3743.JPG,2,2,True,0.9999659,3.2807962e-05,1.1212346e-06,0.9999659,1.962819e-07
+5a312736968f12dd6e1ab8b8826c27c5,PV_data/Corn_(maize)___Northern_Leaf_Blight/6f24eec3-fd4e-478f-9688-717515242cea___RS_NLB 4278.JPG,2,2,True,0.9932409,0.0067570074,1.8532745e-06,0.9932409,1.1491665e-07
+6620c802caa38ac9b6a3ffb029c98704,PV_data/Corn_(maize)___Northern_Leaf_Blight/6f25e428-12b2-43ab-ad91-6e20df3c35af___RS_NLB 3899.JPG,2,2,True,0.9978478,0.0021492539,2.9849805e-06,0.9978478,1.2227318e-10
+f9678048ad17c3d6bb3aa0b2afa498f4,PV_data/Corn_(maize)___Northern_Leaf_Blight/7325478b-3516-4cb0-8635-57f785b6262d___RS_NLB 4109.JPG,2,2,True,0.99962664,0.00037020995,1.6289852e-06,0.99962664,1.4156851e-06
+afcfe310bcd3e6b3581e6460752b74f7,PV_data/Corn_(maize)___Northern_Leaf_Blight/739f7cf2-2f79-473b-864f-1a35916dc5a7___RS_NLB 4094.JPG,2,2,True,0.9995504,0.00044408021,5.34773e-06,0.9995504,1.2447133e-07
+fb062ebfa8c5c0a708af7fde5300b545,PV_data/Corn_(maize)___Northern_Leaf_Blight/75bae5d9-4007-4f94-94f9-7fc9e7fd4ad5___RS_NLB 4132.JPG,2,2,True,0.99931645,0.00068358576,1.5831041e-08,0.99931645,3.6180742e-10
+d9e5a3b0a66f13f122d6fa3406981ee7,PV_data/Corn_(maize)___Northern_Leaf_Blight/7856bc05-e462-4f51-b945-b2801236d17c___RS_NLB 3881.JPG,2,2,True,0.84663916,0.15326321,9.7728815e-05,0.84663916,6.3275376e-09
+6b461812c4c33f8cd34829eb4510c543,PV_data/Corn_(maize)___Northern_Leaf_Blight/7a424cb3-7a0b-4ec7-9560-1f040db08639___RS_NLB 3963.JPG,2,2,True,0.999925,7.492149e-05,4.514482e-09,0.999925,2.7579382e-12
+6ea1d87d22362b49ebaa2b8b66c86c9d,PV_data/Corn_(maize)___Northern_Leaf_Blight/7cb45f15-0315-4cb4-88fa-c0bcef1a5a73___RS_NLB 0777.JPG,2,2,True,0.99967366,0.0002799801,4.295911e-05,0.99967366,3.409231e-06
+589ccd4587d74d436238a47e1d91b0ad,PV_data/Corn_(maize)___Northern_Leaf_Blight/7e4e9a08-b9c5-46ec-b92b-ebd0cade32e3___RS_NLB 3942.JPG,2,2,True,0.99962735,0.00035466504,1.7981376e-05,0.99962735,6.6536203e-09
+892f2480009106622e989bf76103d8f7,PV_data/Corn_(maize)___Northern_Leaf_Blight/8084d22b-8026-4f2a-9820-2e4f4aba659f___RS_NLB 3520.JPG,2,2,True,0.9999914,8.201418e-06,2.5751352e-09,0.9999914,3.863267e-07
+6ef3ea7b02ee398c98f66b525fae5fb5,PV_data/Corn_(maize)___Northern_Leaf_Blight/813ee203-b638-4b3e-af2f-237218a58b8d___RS_NLB 4157.JPG,2,2,True,0.99999356,6.4503715e-06,2.0924158e-10,0.99999356,2.0173735e-12
+e31aa7144d6a05002bce61e1a592d311,PV_data/Corn_(maize)___Northern_Leaf_Blight/81d3043b-914e-47fb-b681-a73900025e2a___RS_NLB 3958.JPG,2,2,True,0.96104455,0.03895547,5.0791384e-09,0.96104455,1.9800793e-12
+9be6b433c481f8e59f3d61b60d1424a9,PV_data/Corn_(maize)___Northern_Leaf_Blight/82cbd4a0-2616-4375-addc-ad4a83ef95ec___RS_NLB 3595.JPG,2,2,True,0.97984684,0.019965706,0.00018745405,0.97984684,6.18562e-08
+134779e17922eb87c346e1b9d526b2fa,PV_data/Corn_(maize)___Northern_Leaf_Blight/86062894-9b3a-475f-b321-28b4cf9074ae___RS_NLB 3903.JPG,2,2,True,0.99546176,0.0045379996,2.7492536e-07,0.99546176,5.5905414e-10
+4384b2edefbbd6dbccc822aa9ffe1de6,PV_data/Corn_(maize)___Northern_Leaf_Blight/89926d8f-aad1-4918-9d37-e1f3e0a4c6b6___RS_NLB 3861.JPG,2,2,True,0.9999745,2.5543339e-05,1.0114702e-08,0.9999745,6.795455e-10
+42b6d4a02402427c143e62f38d0e7dda,PV_data/Corn_(maize)___Northern_Leaf_Blight/8bfe3fc0-c082-49e0-98b0-ff84aee8595e___RS_NLB 3842.JPG,2,2,True,0.9756613,0.00043170148,0.02390612,0.9756613,9.022091e-07
+4c0948e323db52868b70db79e0fb8e66,PV_data/Corn_(maize)___Northern_Leaf_Blight/8c3fa556-9a06-4f43-bfe6-17bcfabb1d8e___RS_NLB 0809.JPG,2,2,True,0.999985,1.50127025e-05,9.14967e-09,0.999985,1.2165067e-09
+aba56366ac2f50366f838904bc44ea5c,PV_data/Corn_(maize)___Northern_Leaf_Blight/8f9ac1a8-f91f-4895-ba02-a2ff696fa43e___RS_NLB 3486.JPG,2,2,True,0.6808796,0.31909263,2.7310594e-05,0.6808796,4.105189e-07
+298fe138a4d2470a589cb40a6f04a831,PV_data/Corn_(maize)___Northern_Leaf_Blight/90dd4436-0614-4f6b-ad3b-b8db56ce4de8___RS_NLB  4673.JPG,2,0,False,0.9444389,0.9444389,4.3000773e-06,0.055556737,7.618411e-08
+5b6bddd8de408e6a98c018235bb225c9,PV_data/Corn_(maize)___Northern_Leaf_Blight/94c9fcc4-a643-4a7e-b56e-5a952bb7c791___RS_NLB 3999.JPG,2,2,True,0.99805224,0.0011964502,0.0006144439,0.99805224,0.00013685512
+892045832ed7e4fe13d24018544e9c3c,PV_data/Corn_(maize)___Northern_Leaf_Blight/9545cf19-5eb2-48ca-ba90-2117f1d3af49___RS_NLB 3792.JPG,2,2,True,0.9984321,0.0013028219,0.00026503077,0.9984321,1.0118923e-08
+73db53326d6ca74a2364933a48598ee3,PV_data/Corn_(maize)___Northern_Leaf_Blight/95b2bcb7-56f0-47e0-82d1-7328e6863de9___RS_NLB 0787.JPG,2,0,False,0.8332904,0.8332904,9.446968e-06,0.16669987,2.4414652e-07
+30d66c7a7fea291413da6d63797b977a,PV_data/Corn_(maize)___Northern_Leaf_Blight/9617c741-671f-4193-bf4d-de62642d7d85___RS_NLB 4064.JPG,2,2,True,0.9947101,0.0052845282,5.336181e-06,0.9947101,3.8543753e-08
+ac51ece3e5956ed60d6e814f0c20b85a,PV_data/Corn_(maize)___Northern_Leaf_Blight/9a4feadf-4940-4c42-9dd8-18f0e98c4c58___RS_NLB 3539.JPG,2,2,True,0.8740939,0.0017615183,4.652023e-05,0.8740939,0.124098085
+d98df6714ca4934d298a9471069640f6,PV_data/Corn_(maize)___Northern_Leaf_Blight/9b49dc45-f159-4d0e-af91-daa06f792e8b___RS_NLB 0797.JPG,2,2,True,0.9936528,0.006338733,8.345498e-06,0.9936528,1.79483e-08
+d20841a2b3e4a1f0f5b5f161bf4e3ada,PV_data/Corn_(maize)___Northern_Leaf_Blight/9b687075-05f7-43ad-86f3-3c0a784743ab___RS_NLB 3909.JPG,2,2,True,0.95863,0.02669653,0.014673516,0.95863,5.770346e-09
+7601b205ceb3502f7a53258fdbdde3a6,PV_data/Corn_(maize)___Northern_Leaf_Blight/9dffdf42-2221-4cab-8228-35b011956849___RS_NLB 3567.JPG,2,2,True,0.9911457,0.008255251,0.00059895846,0.9911457,7.404349e-08
+64edc2b08b111ea449f7ba21c94af5a9,PV_data/Corn_(maize)___Northern_Leaf_Blight/9e99be96-fd57-4fee-930c-340ccdad9a20___RS_NLB 4178.JPG,2,2,True,0.9982975,0.0016727976,2.9759189e-05,0.9982975,4.891132e-09
+7a0a9d7a3988b782bb8d57ae150819fb,PV_data/Corn_(maize)___Northern_Leaf_Blight/9fec4d0d-462f-4b8f-8731-be6961908639___RS_NLB 3612.JPG,2,2,True,0.99999106,5.9896943e-06,3.0178164e-06,0.99999106,1.1160703e-12
+073f86cbc942aa1847a76c1f5ed57acc,PV_data/Corn_(maize)___Northern_Leaf_Blight/a3bffb58-3110-4063-b2dd-738d38597858___RS_NLB 3961.JPG,2,2,True,0.98372954,0.016261827,8.5116935e-06,0.98372954,1.4540886e-07
+be9d3f1a517e67c4b12d5de904886373,PV_data/Corn_(maize)___Northern_Leaf_Blight/a523ac3f-ae53-4da7-a3e1-7cce38714f75___RS_NLB 3812.JPG,2,2,True,0.96016663,0.039825093,8.212829e-06,0.96016663,8.423232e-08
+c86dbda21cf1f42abe25445b5e96c982,PV_data/Corn_(maize)___Northern_Leaf_Blight/a74f0a0e-7067-4e6d-9030-d576034f1736___RS_NLB  4508 copy.jpg,2,2,True,0.87087554,0.12855683,0.00015576939,0.87087554,0.00041181248
+b9a47ebd3abf8a803b23498a3877ab02,PV_data/Corn_(maize)___Northern_Leaf_Blight/aab5319c-f249-41e2-86c1-ce96c4c89ca0___RS_NLB 3504.JPG,2,2,True,0.9999912,7.037973e-06,1.8065359e-06,0.9999912,1.2352614e-09
+b150dc291e6846ed8de9721832be638d,PV_data/Corn_(maize)___Northern_Leaf_Blight/ad159032-2941-402b-bd42-5d79bd3fa9a8___RS_NLB 4116.JPG,2,2,True,0.99475336,0.004001368,0.0012451416,0.99475336,1.4090676e-07
+2baee1d067a7bf2a58b46c63531dc5d3,PV_data/Corn_(maize)___Northern_Leaf_Blight/b0a2b2fe-4113-4498-9350-ef9580d7bed6___RS_NLB 3832.JPG,2,2,True,0.9369329,0.06306004,6.939514e-06,0.9369329,5.6278832e-08
+248b8ba145b7b0a5ef822a8c1cac17e2,PV_data/Corn_(maize)___Northern_Leaf_Blight/b373622c-c171-47f4-adcb-c08ea46dad12___RS_NLB 4237.JPG,2,2,True,0.99994946,5.0584484e-05,2.6525257e-08,0.99994946,1.4584745e-11
+5843d4aa99872ff0e43bf2f229fbabe5,PV_data/Corn_(maize)___Northern_Leaf_Blight/b5b55dee-bcda-4cec-b76c-6a21f0d344bd___RS_NLB 4042.JPG,2,0,False,0.6801226,0.6801226,8.950697e-05,0.31978205,5.8413148e-06
+39624a8884b353f835a3a874bec027a7,PV_data/Corn_(maize)___Northern_Leaf_Blight/b669564b-720d-462c-bd15-225764698119___RS_NLB 4277.JPG,2,2,True,0.9976991,0.0022999,1.0944316e-06,0.9976991,1.0169149e-08
+598c99066a2278ed45320d0359d84656,PV_data/Corn_(maize)___Northern_Leaf_Blight/b68a6a63-8711-4f14-a5c6-ddcd8a2cae3e___RS_NLB 3847.JPG,2,2,True,0.6904781,0.3095218,6.578256e-08,0.6904781,7.5520895e-10
+b9e90bd9301d7c3609981ca86b78f22b,PV_data/Corn_(maize)___Northern_Leaf_Blight/b761537f-f90f-43a6-a816-6d515dfa0e26___RS_NLB 3797.JPG,2,0,False,0.8525648,0.8525648,5.0378185e-05,0.14738187,2.859894e-06
+380167e7ced46190c447f11e72ac5140,PV_data/Corn_(maize)___Northern_Leaf_Blight/b9f34f6d-5d5f-4638-a2f0-d45ac2ea71c3___RS_NLB 3959.JPG,2,2,True,0.91967,0.08033006,4.1917588e-08,0.91967,1.3750976e-12
+133622ac729c760c0a7e8303b7741548,PV_data/Corn_(maize)___Northern_Leaf_Blight/bbd889d4-9b31-4c2e-9b53-549f2020e6f4___RS_NLB 4170.JPG,2,2,True,0.99986815,0.00013160626,2.0634938e-07,0.99986815,1.997899e-12
+3a5ddd303845efd02c0458c86743b389,PV_data/Corn_(maize)___Northern_Leaf_Blight/bc6c495b-3b17-45fa-8ff6-2e8bd528c5a5___RS_NLB 3562.JPG,2,2,True,0.96148294,0.011264456,0.0018664605,0.96148294,0.025386041
+5e7664fbec01cbc60fa9fb48a1864a67,PV_data/Corn_(maize)___Northern_Leaf_Blight/c0c7e666-4b2b-46f1-b315-274cfee65342___RS_NLB 4014.JPG,2,2,True,0.9820186,0.017943038,3.7264897e-05,0.9820186,1.148168e-06
+e28d176f48e4d6578d0b92816acb19a9,PV_data/Corn_(maize)___Northern_Leaf_Blight/c141f6bd-5696-4388-abd0-cd413e43dfe1___RS_NLB 4208.JPG,2,2,True,0.99840456,0.0015855192,9.562683e-06,0.99840456,3.2622367e-07
+bbfe68bf4a28e8c07711b10a2c8f65b0,PV_data/Corn_(maize)___Northern_Leaf_Blight/c3b2b118-3ee2-46cf-8c21-4d93523f4ccb___RS_NLB 3671.JPG,2,2,True,0.962045,0.03664829,0.0013064925,0.962045,2.3076791e-07
+dfcdadc64d5a8108307e1bb7a0d3bc70,PV_data/Corn_(maize)___Northern_Leaf_Blight/c9155ccc-9e80-4d80-9926-baa5a9a8f614___RS_NLB 3635.JPG,2,2,True,0.97668546,0.023205139,0.00010878644,0.97668546,5.684207e-07
+9050451830341e5cf1a92dc82c04b990,PV_data/Corn_(maize)___Northern_Leaf_Blight/c94c8b78-b8e1-45cf-bac8-80d8a0c6b64d___RS_NLB 0781.JPG,2,2,True,0.9717518,0.028050914,1.7941724e-05,0.9717518,0.00017932922
+cca1078044966abade55e84ce0b22a00,PV_data/Corn_(maize)___Northern_Leaf_Blight/c9e1c49d-7989-43bd-8680-989ecd8c0914___RS_NLB 0762.JPG,2,0,False,0.5139535,0.5139535,0.00011561901,0.48592946,1.4451992e-06
+4814a02f8b4377550b4e8c4c17cdbea4,PV_data/Corn_(maize)___Northern_Leaf_Blight/cb5c61df-e4de-4667-88d2-85b43d708b59___RS_NLB 4075.JPG,2,2,True,0.997526,0.0017581739,0.0007133169,0.997526,2.601471e-06
+69195932dc6a9f8392f4cd9c1163a8c4,PV_data/Corn_(maize)___Northern_Leaf_Blight/cea4e177-947e-466f-9b0f-fc2adae6a02e___RS_NLB 4198.JPG,2,2,True,0.9779333,0.021889985,0.00012591615,0.9779333,5.0768045e-05
+dd5d6b2246da69a2684b5fee7096bd4c,PV_data/Corn_(maize)___Northern_Leaf_Blight/cff04564-1693-49ef-b5c0-6bbe4ff92d6b___RS_NLB 3475.JPG,2,2,True,0.9941905,0.0056630545,1.1417302e-06,0.9941905,0.00014527985
+c91dc134cfaebfe91244f8ecc61ee559,PV_data/Corn_(maize)___Northern_Leaf_Blight/d08114ac-a98f-41eb-82f9-fdfa91446ed7___RS_NLB 4062.JPG,2,2,True,0.9996843,5.252444e-05,0.00016345679,0.9996843,9.9699064e-05
+5ddee142b402c94d2c5841d528838113,PV_data/Corn_(maize)___Northern_Leaf_Blight/d1dc8657-22f9-42f8-a467-0dc1f0e2ed2e___RS_NLB 3643.JPG,2,2,True,0.99661297,0.001924558,0.0014610884,0.99661297,1.434872e-06
+2987758af0b68b3a82b5b7423889da1c,PV_data/Corn_(maize)___Northern_Leaf_Blight/d1fbc905-f7df-4f45-b228-0a94b00f16ee___RS_NLB 3488.JPG,2,2,True,0.99999845,1.5529586e-06,8.7646274e-10,0.99999845,6.301613e-11
+23974d2ccf8f055cd2f44de6ee2bfa13,PV_data/Corn_(maize)___Northern_Leaf_Blight/d2dc8342-2ba5-4bad-b579-0360316fabe0___RS_NLB 3805 copy.jpg,2,2,True,0.8865103,0.11328626,0.00015837413,0.8865103,4.5054658e-05
+ddf7425ccb74c57209abb8b03cafd41b,PV_data/Corn_(maize)___Northern_Leaf_Blight/d3d7a5a3-ee3f-4654-8e90-8e722d433972___RS_NLB 3553.JPG,2,1,False,0.8073015,0.04179505,0.8073015,0.15090168,1.7113877e-06
+c6edfbb601b2d6a50aa9d5cbedd69082,PV_data/Corn_(maize)___Northern_Leaf_Blight/d3e6dd24-b056-4371-90c9-ee41bdbfbe71___RS_NLB 3788 copy 2.jpg,2,0,False,0.5774913,0.5774913,1.4661978e-05,0.422494,1.1010265e-09
+f95ae39540ecbdbb5825503b15889881,PV_data/Corn_(maize)___Northern_Leaf_Blight/d51a6187-b667-4848-9aed-c73387186696___RS_NLB 4146.JPG,2,0,False,0.7944188,0.7944188,5.4402345e-09,0.20558125,4.0282794e-11
+f4b0ed78082bdea603026103247eef36,PV_data/Corn_(maize)___Northern_Leaf_Blight/d82213a9-eff4-4d5c-a2a4-c55cc8a034e3___RS_NLB 3748.JPG,2,2,True,0.9999809,9.165761e-06,9.833605e-06,0.9999809,3.025079e-08
+be7d85fcf12c8a2b67c264573d5e8c49,PV_data/Corn_(maize)___Northern_Leaf_Blight/db19f539-05e8-4cd8-a9bc-57fb97ce0f41___RS_NLB  4443 copy.jpg,2,2,True,0.9889452,0.011035979,1.8823348e-05,0.9889452,9.108473e-08
+95c00c6ca96181032f3589bc1ffc4562,PV_data/Corn_(maize)___Northern_Leaf_Blight/dc425939-95f6-4cec-b669-73d61947c66b___RS_NLB 0834.JPG,2,0,False,0.76497203,0.76497203,0.00011989036,0.23490807,6.9101574e-08
+81776eeb5c02d504a57d7df57ba90598,PV_data/Corn_(maize)___Northern_Leaf_Blight/dca191ee-4869-454f-a67e-6af114398edf___RS_NLB 3647.JPG,2,2,True,0.8970319,0.10138568,0.0015497582,0.8970319,3.2627097e-05
+1b416f8ad1e1aa89c215f2b8980457bf,PV_data/Corn_(maize)___Northern_Leaf_Blight/e04b792b-62d1-4447-b9e2-cf3b8f565883___RS_NLB 3879.JPG,2,2,True,0.97143763,0.028503928,5.8314632e-05,0.97143763,5.1824546e-08
+bdd58c59c87e1d87b1cdb8bf726c12f5,PV_data/Corn_(maize)___Northern_Leaf_Blight/e4a1bfbf-22a0-4455-98e2-a1bd0a243a94___RS_NLB 3975.JPG,2,2,True,0.62226,0.3764894,0.001250562,0.62226,1.13445104e-07
+d44cd6c0e9c4e5eb69df2f8c822ca328,PV_data/Corn_(maize)___Northern_Leaf_Blight/e949a093-bf0c-4456-a15b-5c67a02480b1___RS_NLB 4096.JPG,2,2,True,0.99923396,0.0006176133,0.00014845296,0.99923396,4.512971e-09
+ee9aea3f91acaf6140f7561102646ef2,PV_data/Corn_(maize)___Northern_Leaf_Blight/eac45516-3f72-4dac-bf0f-566a663c1409___RS_NLB 3580.JPG,2,2,True,0.9858352,0.014131479,3.3236967e-05,0.9858352,6.802212e-09
+cb063fa0bc19306201b53c96561196b2,PV_data/Corn_(maize)___Northern_Leaf_Blight/eb732e90-d7a6-4b28-9491-ced833cc9750___RS_NLB 3940.JPG,2,2,True,0.9996309,0.00036907432,4.4663637e-09,0.9996309,2.5094729e-09
+057a6dd7ced65a0c51a33ab967d1def8,PV_data/Corn_(maize)___Northern_Leaf_Blight/ec769dd1-532c-4f81-b677-6b7b4d0d7606___RS_NLB 4140.JPG,2,2,True,0.99998343,1.47386445e-05,1.7983622e-06,0.99998343,2.9316533e-10
+f66904924bb70446359fe1a3035e52dd,PV_data/Corn_(maize)___Northern_Leaf_Blight/ecaf0f9a-338f-4065-bc84-7185d8394552___RS_NLB 3898.JPG,2,2,True,0.9106215,0.08935984,1.8645425e-05,0.9106215,5.4912724e-10
+2e6e07a34a5d7fdadc5c86e2b4f0380e,PV_data/Corn_(maize)___Northern_Leaf_Blight/ed8c1c19-dbd4-4c65-9ec0-e5c206667ac1___RS_NLB 3801.JPG,2,2,True,0.57863325,0.4212793,8.746955e-05,0.57863325,1.4992636e-08
+b439dfa1c10d48304b5826fce8099791,PV_data/Corn_(maize)___Northern_Leaf_Blight/f09c5304-da39-4f77-a7d5-8c101b286509___RS_NLB 4019.JPG,2,2,True,0.9441519,0.055555645,0.00028212767,0.9441519,1.0359184e-05
+0a313cb7a6a128dfdbed6994075357e4,PV_data/Corn_(maize)___Northern_Leaf_Blight/f13d43cb-e365-4df6-aac8-746e4d6d7dab___RS_NLB 3528.JPG,2,2,True,0.9999999,1.38612615e-08,8.0357026e-08,0.9999999,3.3178627e-13
+d1e81f4a95199cbd3d1747a3fc6c858e,PV_data/Corn_(maize)___Northern_Leaf_Blight/f23ac0bb-a341-45d3-9e3d-8180658ddc96___RS_NLB 4230.JPG,2,2,True,0.9997759,0.00022343964,2.3942684e-07,0.9997759,3.418952e-07
+aa67c9e8c24d57f2c889a0c58bb314e8,PV_data/Corn_(maize)___Northern_Leaf_Blight/f291f62a-d6f6-4f1e-92af-d6177b154263___RS_NLB 3662.JPG,2,2,True,0.99861085,0.0013840076,5.128859e-06,0.99861085,1.5178422e-12
+e68a86e8634ad2e176aee23dccc96248,PV_data/Corn_(maize)___Northern_Leaf_Blight/f437c2b5-6299-454b-bb73-b09ebb30cbb3___RS_NLB 3664.JPG,2,2,True,0.9998089,0.0001910511,1.9314172e-08,0.9998089,2.1621675e-13
+1f04a3cf7a5063f04702a9cad8e8cca1,PV_data/Corn_(maize)___Northern_Leaf_Blight/f553d7cf-9c9f-46bf-b99a-8e3505afd96d___RS_NLB 3873.JPG,2,2,True,0.9855078,0.014473708,1.8418143e-05,0.9855078,1.5219354e-09
+2f10dbfcfa602def98e9b40c9f53a213,PV_data/Corn_(maize)___Northern_Leaf_Blight/f7cf0608-2278-4a38-a37e-1356bd359651___RS_NLB 3490.JPG,2,2,True,0.92181665,0.07815649,2.6408017e-05,0.92181665,4.0938298e-07
+9c386f4824000f118d1f76caef04b2b2,PV_data/Corn_(maize)___Northern_Leaf_Blight/fae01c0a-db82-4189-9193-bdad09ede531___RS_NLB 4165 copy.jpg,2,2,True,0.92360955,0.076382734,7.668029e-06,0.92360955,1.2370226e-08
+12c34d34210b06f186b06db711d09b24,PV_data/Corn_(maize)___Northern_Leaf_Blight/fb83c22d-b379-48c7-bccc-aebdfd19eda0___RS_NLB 4252.JPG,2,2,True,0.98043215,0.019536424,2.889938e-05,0.98043215,2.5696763e-06
+6eea2f89bfb6ec73229e6d53aa918119,PV_data/Corn_(maize)___Northern_Leaf_Blight/fc19258c-634e-4cc0-b6cf-0144c550ed80___RS_NLB 3834 copy.jpg,2,2,True,0.98510444,0.0021683946,0.012726951,0.98510444,1.8454408e-07
+127e3f470a39415c90902ffa31770df9,PV_data/Corn_(maize)___Northern_Leaf_Blight/fcdc4514-7dfa-4003-aebd-27692e0853dd___RS_NLB 3705.JPG,2,2,True,0.9987966,0.0011678963,3.4191886e-05,0.9987966,1.2651196e-06
+575a8849a96cbfdec0fdc672c700e76f,PV_data/Corn_(maize)___Northern_Leaf_Blight/fdca88b7-bd2e-472a-b48f-7a5347d72f04___RS_NLB 3511.JPG,2,2,True,0.9999962,3.6605102e-06,1.1753366e-07,0.9999962,1.1559202e-09
+9f3ce800c4bf7d037f013672f8d6efee,PV_data/Corn_(maize)___Northern_Leaf_Blight/fdff294e-df6e-42eb-9bcf-edecf4002891___RS_NLB 4158.JPG,2,2,True,0.99559003,0.004406162,3.7718605e-06,0.99559003,3.4793135e-08
+adf8dfa085d1febc905abbf49244cacb,PV_data/Corn_(maize)___Northern_Leaf_Blight/fed381d0-4407-4ec5-a178-d70ec1ca93d3___RS_NLB 3914.JPG,2,2,True,0.99760544,0.0023942895,2.408768e-07,0.99760544,2.7701093e-11
+d4f92e6be3c69396474b810779b3cac1,PV_data/Corn_(maize)___healthy/02e76b75-f201-44ee-a694-35edf97cc82b___R.S_HL 8015 copy.jpg,3,3,True,0.9999999,2.4434914e-09,1.282612e-09,1.0462056e-07,0.9999999
+fb9ef407acd970381ca1a2496f59aca3,PV_data/Corn_(maize)___healthy/04506233-3040-4d4b-9e8f-acdd0a1e9693___R.S_HL 7942 copy 2.jpg,3,3,True,0.99999666,1.1867457e-07,1.6906544e-07,3.0517272e-06,0.99999666
+40db6d8f2269a685b8a4b45951befd79,PV_data/Corn_(maize)___healthy/052169e1-a51d-4ff7-8b70-f07f3d2500c5___R.S_HL 0650 copy 2.jpg,3,3,True,0.99996316,3.1513084e-06,2.4840906e-06,3.11585e-05,0.99996316
+bafd9b5b8c2c5af113265b58dfc03f87,PV_data/Corn_(maize)___healthy/0618b46e-b4fb-4069-9b95-6c6c2387688a___R.S_HL 0609 copy 3.jpg,3,3,True,0.99392736,0.00018450947,1.4251607e-05,0.0058739185,0.99392736
+3cce442b34e842b08eea519eaa2ecd02,PV_data/Corn_(maize)___healthy/0630fcdc-33c1-478b-882f-07da48cf8002___R.S_HL 8026 copy.jpg,3,3,True,0.9996432,0.0003140803,4.7456874e-06,3.7918766e-05,0.9996432
+8c6cb3bd7bb6d941a75004eb98bc65ff,PV_data/Corn_(maize)___healthy/093cf670-66a2-4bc6-bdb5-0c3d2ea6dab2___R.S_HL 8302 copy.jpg,3,3,True,0.9998554,4.4874403e-05,6.934374e-05,3.029291e-05,0.9998554
+dc1a309c6fffd2dd886c0f96caccf4b0,PV_data/Corn_(maize)___healthy/098a17fd-0351-4f0f-a4a8-6f2a638b4afb___R.S_HL 7897 copy 2.jpg,3,3,True,0.99999845,6.882001e-08,9.134241e-09,1.4447362e-06,0.99999845
+29aa2b257846afde092a457c12f7fda4,PV_data/Corn_(maize)___healthy/0a5cb475-a6e8-4233-b251-bc5165868730___R.S_HL 7978 copy.jpg,3,3,True,0.99816513,5.4366057e-05,0.0008535605,0.00092694163,0.99816513
+52e4dec313be43d2fb1e252c0a827554,PV_data/Corn_(maize)___healthy/0a72d779-4df2-4365-9251-1733a1a1085c___R.S_HL 7992 copy 2.jpg,3,3,True,0.9999999,1.2020635e-08,1.3649096e-08,9.4229335e-08,0.9999999
+d100b6eb89ebf653e37d25f1bedebee6,PV_data/Corn_(maize)___healthy/0a966c0b-85d0-41ea-82d2-3121f9325460___R.S_HL 8180 copy 2.jpg,3,3,True,0.9998565,5.6042267e-05,8.291242e-07,8.665712e-05,0.9998565
+97b0210f51c12ca4ab096cc594ab7854,PV_data/Corn_(maize)___healthy/10d94b50-caeb-48d2-8a4d-79a9ccbae1ea___R.S_HL 8104 copy.jpg,3,3,True,0.9979818,0.0009112618,5.4725944e-05,0.0010522031,0.9979818
+8e9150a2a95dcc2d7293a7934a9e72f1,PV_data/Corn_(maize)___healthy/11c1e3ce-73d1-4338-8939-473087e9dcbb___R.S_HL 0604.JPG,3,3,True,0.999871,3.825075e-06,6.6777994e-07,0.0001244357,0.999871
+7165c45aeb5705f25470aaad5e631c28,PV_data/Corn_(maize)___healthy/1675b5c5-4f27-47b4-8088-1387b0eb437d___R.S_HL 8095 copy.jpg,3,3,True,0.99985695,6.507545e-05,1.2853489e-05,6.507744e-05,0.99985695
+6de753b729cae348823438a75366d3fb,PV_data/Corn_(maize)___healthy/16c3cff6-3abb-4af5-979a-9ab375e4a9b1___R.S_HL 5562 copy.jpg,3,3,True,0.9970336,2.8709936e-05,0.000175232,0.0027625354,0.9970336
+a6e09c427852e48fa4ae23f9d80781c1,PV_data/Corn_(maize)___healthy/16e1b4a3-65fb-405f-964e-9fa8c45e4e97___R.S_HL 5551 copy 2.jpg,3,3,True,0.9954874,0.0012950553,4.158395e-06,0.003213379,0.9954874
+6a5cc103ae60ab393dfc724f41d2bd78,PV_data/Corn_(maize)___healthy/19554ea5-21a6-44aa-8979-2ead3c73dd62___R.S_HL 7932 copy 2.jpg,3,3,True,0.9998425,7.930386e-05,4.505476e-06,7.366226e-05,0.9998425
+cbc8674eee244975493b50d6ec892e2d,PV_data/Corn_(maize)___healthy/1d45f289-7aef-4344-82f2-8a53e6fff2d6___R.S_HL 8082 copy 3.jpg,3,3,True,0.99993205,4.8629958e-05,2.7500816e-06,1.6574711e-05,0.99993205
+00ff96d75882fcb4082edb0dcdb9f4ab,PV_data/Corn_(maize)___healthy/1f618ad4-7c33-4bfc-9054-f1acae89e776___R.S_HL 5504 copy.jpg,3,3,True,0.99998784,2.365602e-06,1.5033748e-07,9.631799e-06,0.99998784
+fe0565179036830ff3810f5b38376de5,PV_data/Corn_(maize)___healthy/201141a7-69a3-40b2-90fd-da538cf10ffa___R.S_HL 7908 copy.jpg,3,3,True,1.0,1.6750598e-10,9.123454e-10,9.0592644e-09,1.0
+196228ee9ff81851c75981a3e560c06f,PV_data/Corn_(maize)___healthy/2012c62b-11b6-4cc4-9483-adebb2f30f81___R.S_HL 8326 copy.jpg,3,3,True,0.9999993,1.7159324e-07,7.3902335e-08,3.7747293e-07,0.9999993
+de415c696f75fe07f96bac7f7559ff94,PV_data/Corn_(maize)___healthy/2251b665-207d-4500-a396-bc9bb097c34b___R.S_HL 8073 copy.jpg,3,3,True,0.99999344,5.2263103e-06,8.5110435e-07,5.3997417e-07,0.99999344
+90aaeddbe4b8c809c3ef0c7f55f8a368,PV_data/Corn_(maize)___healthy/2253e071-f102-481b-9a3d-e5650698e8a6___R.S_HL 7905 copy 2.jpg,3,3,True,1.0,5.0680895e-13,1.1766185e-09,1.5553983e-09,1.0
+ed23487e4daca2fba58675e18bc671f6,PV_data/Corn_(maize)___healthy/22e495d5-0daa-4cf6-8555-61f26d091b66___R.S_HL 8061 copy.jpg,3,3,True,0.9999751,1.9079569e-06,7.220475e-06,1.5704181e-05,0.9999751
+69d0187426fdb8cc8996e20bd9053d5d,PV_data/Corn_(maize)___healthy/23e5ca0e-c7c3-4b27-b3b7-a0bb4ecbe177___R.S_HL 8245 copy.jpg,3,3,True,0.9999889,7.672859e-08,4.156638e-06,6.816461e-06,0.9999889
+734ae2501938a0ccc8ec359ba9c5ba52,PV_data/Corn_(maize)___healthy/2500d247-7e34-424d-b7ec-6eb9c6686ed9___R.S_HL 8112 copy.jpg,3,3,True,0.99997747,1.896707e-05,1.7491266e-06,1.735202e-06,0.99997747
+b9551208150b41566d38aefa7de2c972,PV_data/Corn_(maize)___healthy/270c2463-8d8d-48b2-a79e-c5319c5c1763___R.S_HL 8098 copy 2.jpg,3,3,True,0.99998224,3.1285927e-06,1.4727929e-06,1.3241339e-05,0.99998224
+f05cf99e3fbbdcb67be6fe003150ece3,PV_data/Corn_(maize)___healthy/28469ee6-51f6-4e41-b625-fbb7c169b02a___R.S_HL 5534 copy 2.jpg,3,3,True,0.9996531,6.872211e-05,0.00019694577,8.118724e-05,0.9996531
+349634fb6de954bcd20dadc8359efe45,PV_data/Corn_(maize)___healthy/2854f11d-f6ce-4c3e-8a9d-026ae2cc9747___R.S_HL 8179 copy 2.jpg,3,3,True,0.9359385,0.022234637,0.003409053,0.03841778,0.9359385
+e2704421463f9dc7e2213fcd07178382,PV_data/Corn_(maize)___healthy/289766de-9eb5-45f9-9959-b344fedecb62___R.S_HL 8295 copy 2.jpg,3,3,True,0.99913406,0.0007882114,8.220011e-06,6.94509e-05,0.99913406
+5177516632ab5c0be085d626ba063792,PV_data/Corn_(maize)___healthy/2900c66f-948b-48df-bfed-76f08a6af9ce___R.S_HL 7938 copy 2.jpg,3,3,True,0.9987941,0.00022239896,0.00011947856,0.000864073,0.9987941
+884e92fe8f294ec5f76b4a39639edf55,PV_data/Corn_(maize)___healthy/290bb59a-1405-44b8-af6e-8b1384b76e00___R.S_HL 0614.JPG,3,3,True,0.9999505,3.1990734e-07,2.5855413e-06,4.6552865e-05,0.9999505
+49b646469a0faf944170a53d763ae1ad,PV_data/Corn_(maize)___healthy/2bc73f3d-9886-4873-8c78-835f1c219878___R.S_HL 7980 copy.jpg,3,3,True,0.9998944,4.8349443e-06,2.1692504e-06,9.86744e-05,0.9998944
+237c3282473ec4a2f4089954cc43bd06,PV_data/Corn_(maize)___healthy/2bcf6ae6-5dcd-4330-9338-e38e54d90f32___R.S_HL 7964 copy 2.jpg,3,3,True,0.99405867,0.0051426417,0.00013924697,0.00065938744,0.99405867
+2fe0d55aa8125086b2801856cd7f7d5e,PV_data/Corn_(maize)___healthy/2cc203bd-1fdf-40e1-af08-5ab793586fc4___R.S_HL 7971 copy.jpg,3,3,True,0.99999785,3.0459738e-08,1.519941e-09,2.1706278e-06,0.99999785
+0009b2d841a4f9010b13c3f72dc46c8c,PV_data/Corn_(maize)___healthy/30a2b405-dfd6-481c-8d3c-a0270d3d0891___R.S_HL 8106 copy.jpg,3,3,True,0.99566215,0.00018773394,7.406051e-05,0.004076042,0.99566215
+9334fc83627b7b5cbadd0d6fd194572e,PV_data/Corn_(maize)___healthy/30cc387b-d8c5-4eb4-bc27-a233be37cf6b___R.S_HL 5548 copy 2.jpg,3,3,True,0.9481182,0.0018751358,0.00085094315,0.0491556,0.9481182
+7a33b9d611ec9baf6ee4c847e22296c2,PV_data/Corn_(maize)___healthy/333922bd-09d6-4039-9975-894d77fec8eb___R.S_HL 5496 copy.jpg,3,3,True,0.99983823,4.649282e-06,2.159131e-06,0.00015494747,0.99983823
+67f5fb0b299944861a7980351576fb46,PV_data/Corn_(maize)___healthy/3aa0279d-fc00-4ef4-b7a4-d2037915fb90___R.S_HL 8330 copy.jpg,3,3,True,0.9785219,0.0018485461,0.002119492,0.017509991,0.9785219
+e10c0e80294786d352975105cb5288b1,PV_data/Corn_(maize)___healthy/3cdfb19e-a67f-4944-8b4f-89b60f9f36fb___R.S_HL 8221 copy 3.jpg,3,3,True,0.9389947,0.018475747,0.002114271,0.040415287,0.9389947
+6a85b1df40dec89bce6986ae40c02916,PV_data/Corn_(maize)___healthy/3d233d54-4960-454c-b98e-2febc7019bba___R.S_HL 7944 copy.jpg,3,3,True,0.9999628,1.0998819e-05,1.7504117e-05,8.627309e-06,0.9999628
+9bd3f4ee690856be4bb6c200ef9a8b67,PV_data/Corn_(maize)___healthy/3d760d50-9c32-4532-b3a0-e56066a43ef1___R.S_HL 7891 copy.jpg,3,3,True,0.9999193,2.413951e-06,6.26245e-05,1.5712712e-05,0.9999193
+b22f02ba3a30dbc6d91881a531e6b76d,PV_data/Corn_(maize)___healthy/3d85d62d-8a88-48eb-85a5-a283c670a453___R.S_HL 7972 copy 2.jpg,3,3,True,0.9999839,1.4807355e-06,5.6452624e-08,1.4574696e-05,0.9999839
+0d86357824033d3a99a907e0d2b9766a,PV_data/Corn_(maize)___healthy/3fdcf34b-cddd-4428-912b-251f982ec0da___R.S_HL 5542 copy 2.jpg,3,3,True,0.99437624,0.0010579953,0.0003277765,0.004237995,0.99437624
+b2fdbe6769122a33ec0599876f453b12,PV_data/Corn_(maize)___healthy/4072df91-b71d-4b65-abc9-e843f61a9544___R.S_HL 8210 copy 2.jpg,3,3,True,0.99976164,8.396978e-05,5.112841e-05,0.00010328302,0.99976164
+8ea114c40e2907f658c202b791ba9c8e,PV_data/Corn_(maize)___healthy/43931e08-e92c-4c68-9334-b8554adb41fe___R.S_HL 8160 copy 2.jpg,3,3,True,0.9998568,2.6786005e-05,2.7548726e-06,0.00011363991,0.9998568
+5574bce6b39cf7aa93a5de8c3ad579a6,PV_data/Corn_(maize)___healthy/46277fc4-d989-4a82-ac74-719142e16f21___R.S_HL 7943 copy 2.jpg,3,3,True,0.99716467,0.0011873568,0.0001784815,0.0014695266,0.99716467
+c8ca9075306af06b41800a5193cbd072,PV_data/Corn_(maize)___healthy/466155e6-ef86-4024-9c0a-de7ca09a1d07___R.S_HL 7986 copy.jpg,3,3,True,0.99999917,8.516495e-08,7.14756e-08,6.391143e-07,0.99999917
+5f5404f12bee90f615301212f30ce2fd,PV_data/Corn_(maize)___healthy/48296a13-4359-4df3-b19d-d457c14721ba___R.S_HL 8157 copy 2.jpg,3,3,True,1.0,2.7935052e-13,8.79347e-11,5.935797e-09,1.0
+5f0858130781f226c439d9553b36e996,PV_data/Corn_(maize)___healthy/495d4205-e476-48c0-9791-ff947e0d6fc6___R.S_HL 8077 copy.jpg,3,3,True,0.99932146,5.128934e-05,6.568376e-05,0.00056158676,0.99932146
+cbeafc0a330fe67fe6799fc19c8c9e7a,PV_data/Corn_(maize)___healthy/4976825c-af34-4ba8-9e2d-2a6c25eae077___R.S_HL 8269 copy.jpg,3,3,True,0.9999964,1.3775491e-06,7.1039085e-07,1.506052e-06,0.9999964
+ea072b31ebf1846e918f9c00760fccbc,PV_data/Corn_(maize)___healthy/49bbfde1-06f5-41fb-baeb-4008a097a021___R.S_HL 5538 copy 2.jpg,3,3,True,0.9999989,2.4812314e-08,1.3080489e-07,9.80527e-07,0.9999989
+d9a4d92bf216724167914b8b48974bcd,PV_data/Corn_(maize)___healthy/4e78f502-e486-4057-b157-3065dd4abd86___R.S_HL 7993 copy 2.jpg,3,3,True,0.99958307,9.579528e-05,2.7244747e-05,0.00029391202,0.99958307
+6e30c35fb62e695def40fd3789da5c66,PV_data/Corn_(maize)___healthy/4f3347e6-ed68-4659-aa26-5591ea8c923e___R.S_HL 5505 copy.jpg,3,3,True,0.98943955,1.0855136e-05,1.3072674e-06,0.010548325,0.98943955
+e4af3ee60e3f2458f90bad1eb5899420,PV_data/Corn_(maize)___healthy/500c13c7-2b8e-43ea-b842-154de7cf7f50___R.S_HL 8003 copy 2.jpg,3,3,True,0.9981742,0.00010762247,0.000107679145,0.0016104667,0.9981742
+fc86936e0eebf0918a05edc8cfdec0bd,PV_data/Corn_(maize)___healthy/50fe7549-e9f5-4104-abdc-b78630c0483e___R.S_HL 8185 copy.jpg,3,3,True,0.9960746,0.00376445,1.2332619e-05,0.00014851178,0.9960746
+fd7be7e59a1c51e694c7a8927e1cafad,PV_data/Corn_(maize)___healthy/512a6f84-c287-4f78-bfbe-311bbf1ca548___R.S_HL 0626 copy.jpg,3,3,True,0.99999666,9.022011e-08,4.50013e-07,2.7486024e-06,0.99999666
+c1d713d28288155aa4e2f55ffb2a1d9b,PV_data/Corn_(maize)___healthy/53b73553-110a-4dc1-8320-332c4773b8e9___R.S_HL 7907 copy.jpg,3,3,True,0.9999933,5.010283e-07,2.4280328e-07,5.9759573e-06,0.9999933
+91c41d1f5991e246093ca30b8d981b3d,PV_data/Corn_(maize)___healthy/5467efda-f4ec-4f5e-94b8-8bc0fd19c7ac___R.S_HL 8148 copy.jpg,3,3,True,0.99993706,3.2613311e-06,2.1854206e-05,3.78762e-05,0.99993706
+ce48145d2c2d95c956caed7cf2b734eb,PV_data/Corn_(maize)___healthy/55ea99a3-17b3-4971-8159-0fa4e369c0d7___R.S_HL 8219 copy 2.jpg,3,3,True,0.99999964,3.303879e-10,3.5876813e-10,4.0364154e-07,0.99999964
+0b327e6bba8135175e0230844012433e,PV_data/Corn_(maize)___healthy/58f71b31-7e05-4036-985d-ffa20976c668___R.S_HL 8063 copy.jpg,3,3,True,0.9994529,7.08285e-07,0.00054321194,3.224861e-06,0.9994529
+ac4b875341171a363b39bbebb9706813,PV_data/Corn_(maize)___healthy/5a09057d-7d3d-46b4-9ec8-e182f6f4afef___R.S_HL 7947 copy 2.jpg,3,3,True,0.9997476,1.6166234e-05,1.0216804e-05,0.00022603819,0.9997476
+f878d019dd418aa0f4e4a6d5c67098eb,PV_data/Corn_(maize)___healthy/5a1567d9-a5ee-49fe-8c0c-78a9fe25b213___R.S_HL 8164 copy 2.jpg,3,3,True,0.9915148,0.002547969,5.0278486e-05,0.0058869696,0.9915148
+44865aa10a81dab51dadf20f94e91d45,PV_data/Corn_(maize)___healthy/5a2800a4-15ed-43a5-864d-01d16d37ed67___R.S_HL 8219 copy.jpg,3,3,True,0.9999752,1.5434401e-07,1.913409e-06,2.2686429e-05,0.9999752
+5bd63dde046f9af641fed2882239069d,PV_data/Corn_(maize)___healthy/5bed19a9-9318-4160-926f-c2c641995c1e___R.S_HL 8167 copy 2.jpg,3,3,True,0.972283,0.0036309494,0.0001351757,0.023950936,0.972283
+24cb8530f4a24cc0db80a9fc89d66944,PV_data/Corn_(maize)___healthy/5f0dff79-a1f4-4498-9165-c4b752a108f7___R.S_HL 5506 copy 3.jpg,3,3,True,0.9998367,0.00015733312,6.200795e-07,5.395676e-06,0.9998367
+aced5449b6666564c4f733097e3878ad,PV_data/Corn_(maize)___healthy/5fff81b5-afe1-4743-a94b-4dce92ddc524___R.S_HL 0651 copy 4.jpg,3,3,True,0.9999913,1.7750208e-06,3.2387263e-06,3.7559062e-06,0.9999913
+9eb19a0f3b116755120372048138a24c,PV_data/Corn_(maize)___healthy/600f5c3a-2156-4485-b74a-c14a16534706___R.S_HL 7958 copy.jpg,3,3,True,0.9999895,2.2095907e-08,1.2823425e-08,1.04941555e-05,0.9999895
+d51ab346373029ff57bd55bd43130cfa,PV_data/Corn_(maize)___healthy/60c28fba-748e-4979-9338-4d7d16a92e60___R.S_HL 8324 copy.jpg,3,3,True,0.99772567,1.1494888e-05,3.508114e-06,0.0022594503,0.99772567
+4ec7c87b6a4a5d0c6c7a54faa69a58ab,PV_data/Corn_(maize)___healthy/60d41965-10bc-4799-815e-5b1f099fae4b___R.S_HL 8003 copy.jpg,3,3,True,0.9998033,2.6746311e-05,6.74193e-05,0.00010241651,0.9998033
+0c1d54314733b12936166cf56ece1647,PV_data/Corn_(maize)___healthy/61088927-8b39-475f-a426-15b4f9969871___R.S_HL 7996 copy 2.jpg,3,3,True,0.99603856,0.00041010644,0.0011249897,0.0024263165,0.99603856
+0a5af26f3be3837b129c23b3cc93b73d,PV_data/Corn_(maize)___healthy/620e70fd-98d9-40c4-b9a9-803080d1d371___R.S_HL 7968 copy 2.jpg,3,3,True,0.9999746,8.3915836e-07,7.164227e-06,1.745881e-05,0.9999746
+d6b5408dc68c473c14d0f44ee358dab4,PV_data/Corn_(maize)___healthy/62448b26-b1ad-4670-9f8f-1c320a3187f8___R.S_HL 8260 copy.jpg,3,3,True,0.99996936,2.9406202e-08,1.3642004e-06,2.9251014e-05,0.99996936
+6f50fb2095e131236d71c069b805da4b,PV_data/Corn_(maize)___healthy/624c0cfa-3729-4f6c-9236-1c3a4ee66431___R.S_HL 8214 copy.jpg,3,3,True,0.9973852,0.0011942046,0.00074627495,0.000674255,0.9973852
+fc168aa2baec699887269457d627075f,PV_data/Corn_(maize)___healthy/63067c56-0462-4548-9b58-ffec723a5875___R.S_HL 7915 copy.jpg,3,3,True,0.9999962,1.0580784e-06,2.0154503e-06,7.732369e-07,0.9999962
+81aee20924583bea4465464646cbcf71,PV_data/Corn_(maize)___healthy/650d4770-c4b9-4854-8476-681d9d93034c___R.S_HL 5557 copy.jpg,3,3,True,0.9998416,2.193392e-05,2.207373e-06,0.00013423654,0.9998416
+806714c6829823e632a961cd2b95d514,PV_data/Corn_(maize)___healthy/662b5ad2-c80d-4c4b-ba98-7075c52698ac___R.S_HL 8008 copy 2.jpg,3,3,True,0.99994934,1.6626963e-08,2.8323491e-05,2.2244554e-05,0.99994934
+81909df671526f6fc47573945a1561b2,PV_data/Corn_(maize)___healthy/66f145a0-f412-48e1-b597-1ce50255116b___R.S_HL 7923 copy 3.jpg,3,3,True,0.9999894,4.6752145e-08,1.4407459e-07,1.0489592e-05,0.9999894
+c61ab56c1250f96d2eb6769678a44188,PV_data/Corn_(maize)___healthy/671e7602-81f4-4fae-9b2e-36f78463ae66___R.S_HL 7994 copy.jpg,3,3,True,1.0,3.0357977e-10,2.7032805e-09,3.5945067e-09,1.0
+a7f1df4bdf128e65de2b6acfd953131a,PV_data/Corn_(maize)___healthy/67580ca9-48d4-485a-8f99-bd68c56e89c2___R.S_HL 8340 copy 2.jpg,3,3,True,0.9911191,0.0064464137,0.0017624068,0.00067205523,0.9911191
+adee67af5c8c4f351ba73d0180c1437c,PV_data/Corn_(maize)___healthy/6792a3b8-444b-48fb-bc25-85529d7c2693___R.S_HL 8319 copy.jpg,3,3,True,0.9998232,1.0655918e-06,4.299609e-06,0.00017143931,0.9998232
+e1b15752a270e32f299d7412310ae0e0,PV_data/Corn_(maize)___healthy/690aa499-e65c-42a5-ac1a-2eeebeb9ee9f___R.S_HL 5554 copy 2.jpg,3,3,True,0.9999397,1.0544368e-06,4.3678162e-07,5.87976e-05,0.9999397
+1a368a44fa86abc5ed5d52df7bac14aa,PV_data/Corn_(maize)___healthy/695000c6-5857-45af-a8cb-470bfeedf274___R.S_HL 7970 copy.jpg,3,3,True,0.9999968,1.1875519e-07,9.401793e-08,2.9703726e-06,0.9999968
+25a98fdaca4c00a7fd2a6d11bc1c3637,PV_data/Corn_(maize)___healthy/6af462af-d8d2-4ecb-9ff3-a512c64dfde6___R.S_HL 7888 copy 2.jpg,3,3,True,0.999979,7.615756e-07,1.9505915e-06,1.8252e-05,0.999979
+29c265d61388757339b4626c4f4e51d9,PV_data/Corn_(maize)___healthy/6be24373-115c-42d4-9e57-35a7b208a021___R.S_HL 0614 copy.jpg,3,3,True,0.99987733,8.7006725e-07,1.6690728e-06,0.00012008921,0.99987733
+611d2f607d4bedade7c6d25ef7809388,PV_data/Corn_(maize)___healthy/6c602efb-367c-4f64-bd31-35bbf6b5e9a7___R.S_HL 8284 copy.jpg,3,3,True,0.999902,9.333719e-05,7.779516e-07,3.8495477e-06,0.999902
+88e8f35f4e715c11cac2f00c5c90203a,PV_data/Corn_(maize)___healthy/6cfd6ab1-91fa-4b07-ab39-d3fba8b174cb___R.S_HL 7889 copy.jpg,3,3,True,0.99999166,5.340602e-07,2.0164016e-07,7.5180033e-06,0.99999166
+aa520f222c87d478d8c7b8174f34070c,PV_data/Corn_(maize)___healthy/6e0ab8d1-e0f8-4e5d-bf51-72232be658e2___R.S_HL 5491 copy.jpg,3,3,True,0.99975175,3.562967e-05,1.2942307e-05,0.00019963583,0.99975175
+0bfe9d53004160b103ea02b0e2446c22,PV_data/Corn_(maize)___healthy/6e32f66d-c54c-4df4-9894-e7aa3ff748d9___R.S_HL 0620 copy 2.jpg,3,3,True,0.9987256,0.00011861583,2.792171e-05,0.0011278391,0.9987256
+aea64a1187f7ff726c69a98de9b88ef6,PV_data/Corn_(maize)___healthy/6fa2365c-475e-4fae-aab3-f2b49aaf1a09___R.S_HL 8144 copy 2.jpg,3,3,True,0.98170024,0.0010195103,0.00022525644,0.01705495,0.98170024
+58bfe7a3c49051c4d792f5308351edcc,PV_data/Corn_(maize)___healthy/70381b2f-7964-4252-a44a-f63a2c35a71c___R.S_HL 7914 copy 2.jpg,3,0,False,0.68049353,0.68049353,0.05794914,0.0052248887,0.25633246
+58aeee19e7f5d3ff04bf4fb8b69a335d,PV_data/Corn_(maize)___healthy/703c143f-5b27-4dc5-8a0f-70e29ee1cd85___R.S_HL 7957 copy 2.jpg,3,3,True,0.9862486,0.007330082,0.002246471,0.004174769,0.9862486
+cfb4d079aec443aa8aff7c79ac125e24,PV_data/Corn_(maize)___healthy/70e40ed3-9913-451d-8484-8155d38dac04___R.S_HL 7916 copy.jpg,3,3,True,0.9992656,0.00013381243,5.8820027e-05,0.00054168515,0.9992656
+7766ac78d552254b6945c42691fccf45,PV_data/Corn_(maize)___healthy/7104ad51-e018-4c0d-b767-33014cefe392___R.S_HL 8232 copy.jpg,3,3,True,0.9999963,7.769187e-07,1.2483631e-06,1.7399042e-06,0.9999963
+7b21246e056bc2f013b3841aedaeda1c,PV_data/Corn_(maize)___healthy/735da592-2081-42bd-9652-3d12e19210cc___R.S_HL 7918 copy 2.jpg,3,3,True,0.99996996,1.159659e-06,7.6067345e-06,2.1301044e-05,0.99996996
+857a4e29c706cda47d7b05a41a1ad7ec,PV_data/Corn_(maize)___healthy/740f12a2-c86a-4bed-93a0-8ee39297eea4___R.S_HL 5531 copy 2.jpg,3,3,True,0.99999845,9.538342e-08,1.8863219e-07,1.2684142e-06,0.99999845
+96d9935fd2547d88a93ccecba4b0d445,PV_data/Corn_(maize)___healthy/7528601d-d6bf-4f8b-9d63-db0c185d58d9___R.S_HL 8254 copy 2.jpg,3,3,True,0.998103,0.00010897017,1.2332609e-05,0.0017756257,0.998103
+6e0e756fac80bcc8323cd06e6434f4a2,PV_data/Corn_(maize)___healthy/78a25387-e76b-4b03-a7dd-edbad217ffd1___R.S_HL 8252 copy.jpg,3,3,True,0.9939844,0.0015148756,0.000133496,0.0043672523,0.9939844
+9014e029132977cdecad966462be2ad9,PV_data/Corn_(maize)___healthy/7b876e0e-d6bd-4b8c-952c-d0899053246c___R.S_HL 0604 copy 2.jpg,3,3,True,0.9621314,0.011486791,0.00045666815,0.02592506,0.9621314
+92d7f9945b3e85ed3d649e4fd2a20c3e,PV_data/Corn_(maize)___healthy/7c1d9131-4e97-4e81-97e6-496bab9d9134___R.S_HL 8093 copy.jpg,3,3,True,0.99999917,4.2619283e-07,1.2655718e-08,4.547555e-07,0.99999917
+c24a21ad7253daaed7c2b8ef1f3e3d3e,PV_data/Corn_(maize)___healthy/7c28a1e2-08fb-406d-9fad-769be3096e85___R.S_HL 0603 copy 2.jpg,3,3,True,0.99991417,2.8862408e-07,1.6159247e-05,6.9374735e-05,0.99991417
+8fea590f7243f9ba0cd012af0bfa8162,PV_data/Corn_(maize)___healthy/7c7e1c48-88cd-4ea5-8e34-ce9a2a164880___R.S_HL 8300 copy.jpg,3,3,True,0.999912,2.309526e-06,1.7045318e-06,8.402375e-05,0.999912
+8473c9c3e362f677524a3d0b54ee90d3,PV_data/Corn_(maize)___healthy/7cb008fd-2be4-415d-bc80-912dbf959aa4___R.S_HL 7884 copy.jpg,3,3,True,0.9999416,1.3168254e-05,2.0685438e-05,2.4521429e-05,0.9999416
+20284e678abe3970f7705f4d4d4631ae,PV_data/Corn_(maize)___healthy/7d9ba686-3d31-41d2-a078-588d1bcf3aee___R.S_HL 5555 copy 2.jpg,3,3,True,0.99969584,8.8924695e-05,4.869522e-05,0.00016641055,0.99969584
+a21d68d1efded10886d4d583657ec8e0,PV_data/Corn_(maize)___healthy/801ec1d8-e4e4-4682-85ff-fddfeaeae8c6___R.S_HL 0603 copy.jpg,3,3,True,0.9987698,3.4890636e-05,0.00016014511,0.0010351794,0.9987698
+668982ea7ecc00baca3678476d62eec1,PV_data/Corn_(maize)___healthy/81ec1ee6-7ff1-4811-8bf0-f97870a71a84___R.S_HL 8133 copy 2.jpg,3,3,True,0.9999393,1.8652962e-06,4.9903523e-05,8.825959e-06,0.9999393
+bdd8a7adea0eaba938b1d70af6cc327c,PV_data/Corn_(maize)___healthy/85581bfb-0508-4cea-a76c-b929fea867a1___R.S_HL 0605 copy 2.jpg,3,3,True,0.9998256,1.82844e-06,4.33215e-05,0.00012924484,0.9998256
+15e4c97f6b47a18f84cfb55dc08398d1,PV_data/Corn_(maize)___healthy/874dd6c4-2b34-4b55-b278-011d6fa3eede___R.S_HL 0607 copy.jpg,3,3,True,0.99990106,3.2546875e-05,5.3651233e-06,6.1058636e-05,0.99990106
+1100438e945ac41fd4f0211d32a3320e,PV_data/Corn_(maize)___healthy/88221039-f7c7-42aa-9249-ee621623d676___R.S_HL 0598 copy.jpg,3,3,True,0.94762117,0.021939734,0.009359608,0.021079496,0.94762117
+38307e49f9d7be3a5fed75a164414852,PV_data/Corn_(maize)___healthy/88935f3f-d71e-451d-8fd4-ccf4c11ab1c7___R.S_HL 8142 copy.jpg,3,3,True,0.99999964,2.8692735e-09,1.4137134e-07,2.3827006e-07,0.99999964
+4d203b154bc6a119b47d76c09af6a390,PV_data/Corn_(maize)___healthy/8adb9e1d-8e13-4814-b06e-9a4dd1e000c6___R.S_HL 8282 copy.jpg,3,3,True,0.9999964,1.0038933e-07,2.304155e-06,1.1541443e-06,0.9999964
+2108ead5b42a49518dc9bce4090da485,PV_data/Corn_(maize)___healthy/8c9c52f6-f03a-41e5-ab65-f4ccf30fd5d5___R.S_HL 5559 copy.jpg,3,3,True,0.99986565,0.00011422275,4.515728e-06,1.5578897e-05,0.99986565
+54a2931eeb81a0c173cb60d2a93717ba,PV_data/Corn_(maize)___healthy/90548ed6-1573-4a72-9f60-6188a1fbd2ff___R.S_HL 8150 copy.jpg,3,3,True,0.99928486,0.000120036246,6.334506e-06,0.00058873044,0.99928486
+114b045061c08b2e435c43929012876f,PV_data/Corn_(maize)___healthy/9528e518-5767-42b6-9ece-d647dfe6b5d6___R.S_HL 8014 copy 2.jpg,3,3,True,0.9989894,0.00038142616,8.263002e-05,0.0005464949,0.9989894
+244ed1fca990cabadd05b84bafac3ce2,PV_data/Corn_(maize)___healthy/9822967e-a218-48cd-9c31-632481bb8091___R.S_HL 8008 copy 3.jpg,3,3,True,0.90222806,0.07875671,0.014567194,0.00444796,0.90222806
+1f5547e74576f0a6cb03e09efb1d574c,PV_data/Corn_(maize)___healthy/9bf79f09-b182-4092-b4a7-b1a00830ecfc___R.S_HL 0627 copy.jpg,3,3,True,0.9999999,2.5511008e-08,1.4672804e-07,1.6846237e-10,0.9999999
+7cac8473c4a9672aaf98f5ef1fbad982,PV_data/Corn_(maize)___healthy/9d37aa23-994e-41b8-8f4c-1e11a05506cf___R.S_HL 8046 copy.jpg,3,3,True,0.9999933,2.4855956e-07,4.8431946e-08,6.4485243e-06,0.9999933
+b47cfeaf65401e9b000ea0d660020fd1,PV_data/Corn_(maize)___healthy/9d47547e-512f-49d0-9589-081a50333382___R.S_HL 7985 copy.jpg,3,3,True,0.99754995,7.963801e-05,0.0002212933,0.0021491207,0.99754995
+fd1fce6885d0694ff3be7c7b4410ebf1,PV_data/Corn_(maize)___healthy/9d7fe0ec-48b6-4b1e-83ea-391d53de37af___R.S_HL 8210 copy 3.jpg,3,3,True,0.9995048,5.046444e-07,2.883211e-05,0.00046581865,0.9995048
+c09826ed5176f9c30d7324c872676284,PV_data/Corn_(maize)___healthy/9e5babf1-042a-4272-aa78-c29f30041a47___R.S_HL 7910 copy 2.jpg,3,3,True,0.99785393,0.0005933646,0.00017704417,0.0013756595,0.99785393
+c27cedf15cef1b92a0dadfda372e3a31,PV_data/Corn_(maize)___healthy/9f0564fa-2184-4df2-b0b9-bec3f36294e8___R.S_HL 0651 copy 2.jpg,3,3,True,0.99998975,8.444589e-06,4.6418452e-07,1.3664497e-06,0.99998975
+7a4065033f622f535faa75febf5dfc3a,PV_data/Corn_(maize)___healthy/a30b3484-0f97-474a-92f5-5e6dc55885cd___R.S_HL 8000 copy.jpg,3,3,True,0.9999993,3.306338e-09,9.345578e-10,7.435474e-07,0.9999993
+9974473a8348c924a7ecc4dab1852369,PV_data/Corn_(maize)___healthy/a4933b63-666a-4214-84a7-7712bb32b8b6___R.S_HL 0633 copy 2.jpg,3,3,True,0.9917523,0.00072396785,0.0012241817,0.0062994775,0.9917523
+d03c6baf6da2ce07b0a7228f98858852,PV_data/Corn_(maize)___healthy/a5964bbc-97ad-4ee7-a5e4-2463d49b2d5a___R.S_HL 8214 copy 2.jpg,3,3,True,0.9997583,4.6526984e-06,5.5163575e-05,0.0001818733,0.9997583
+ba3d224967ff31ec0dd324e17778d5ce,PV_data/Corn_(maize)___healthy/a69fb110-6abc-4025-b22a-9ce26e02a4e4___R.S_HL 7961 copy 3.jpg,3,3,True,0.9745855,0.0045903795,0.00013570682,0.020688422,0.9745855
+7e19ff1def2112003d7100177b823e36,PV_data/Corn_(maize)___healthy/a797dcca-bb84-42ae-bb58-18020c6c3f52___R.S_HL 8343 copy 2.jpg,3,3,True,0.999995,3.4882014e-08,9.4069605e-08,4.863656e-06,0.999995
+c89ea76e11b94cef21bd79e492f88c59,PV_data/Corn_(maize)___healthy/a8474109-c782-4c89-ab64-616c1aaea061___R.S_HL 7965 copy.jpg,3,3,True,0.99895644,9.57523e-05,3.1047704e-05,0.0009167127,0.99895644
+4d3a32a67996c0712050ba7d29713cc3,PV_data/Corn_(maize)___healthy/abcb076f-c7b8-4feb-98aa-2e65669af656___R.S_HL 7886 copy 2.jpg,3,3,True,0.9999918,1.2231478e-06,2.913727e-07,6.7898727e-06,0.9999918
+c1afaaab45d3c9d2915110665f97172d,PV_data/Corn_(maize)___healthy/adde8d22-15d9-42a5-a75d-6befa661ff4d___R.S_HL 8012 copy.jpg,3,3,True,0.9999999,1.6164575e-09,1.962427e-09,1.7462698e-07,0.9999999
+ddb94989ecf236ea67397411d941e4c4,PV_data/Corn_(maize)___healthy/ae06c7e3-e283-4359-9d98-2c97a1dd3e83___R.S_HL 8062 copy.jpg,3,3,True,0.99999964,3.7478618e-08,2.3493186e-08,3.599215e-07,0.99999964
+75054e5e55b15d5622efb880003e68e3,PV_data/Corn_(maize)___healthy/ae544c0a-4743-426e-a311-883311bceddd___R.S_HL 7882 copy 2.jpg,3,3,True,0.99998903,6.8282047e-06,9.8232505e-08,4.038258e-06,0.99998903
+b1345831f0a876d86e9d7ab044633e2f,PV_data/Corn_(maize)___healthy/af647b0e-db3a-459e-915c-4e522cb46c6c___R.S_HL 8101 copy .jpg,3,3,True,0.99891967,9.081511e-05,0.000101243386,0.0008882584,0.99891967
+25de61c99ee9b45c1086ff9f38200893,PV_data/Corn_(maize)___healthy/b1034c8c-c98d-44ca-a702-a0053e16d7c7___R.S_HL 8252 copy 2.jpg,3,3,True,0.9988533,9.883334e-05,3.2715154e-05,0.0010150595,0.9988533
+f5c3011a48dc329759ad6e68b0779522,PV_data/Corn_(maize)___healthy/b16d14f2-4fb2-42dd-a6d1-08bbb242fccb___R.S_HL 8082 copy.jpg,3,3,True,0.99721706,0.0002601933,7.278074e-05,0.00244999,0.99721706
+78cea9665ce4ca297fd48653c965b401,PV_data/Corn_(maize)___healthy/b27ca23d-e90c-4087-8421-dec6e1876c89___R.S_HL 8075 copy.jpg,3,3,True,1.0,5.289282e-10,9.237097e-09,1.6500453e-08,1.0
+8caa4aa7b7c20a4eccdcdfe3a99bacd1,PV_data/Corn_(maize)___healthy/b4f7d270-984f-4bac-807c-d804ae7b7de2___R.S_HL 8241 copy.jpg,3,3,True,0.9999987,4.103625e-09,6.0956595e-09,1.2845894e-06,0.9999987
+4e1cbba41225e738aa68e573eece622f,PV_data/Corn_(maize)___healthy/b557da0d-48ca-4f2c-b820-7dc94f3d907d___R.S_HL 0604 copy.jpg,3,3,True,0.9999858,3.1270197e-06,9.387736e-07,1.0160921e-05,0.9999858
+5cba19e616d75066474277807307a350,PV_data/Corn_(maize)___healthy/b8bffa6b-fda9-491f-a757-56b51caf5157___R.S_HL 8135 copy 2.jpg,3,3,True,0.99999654,2.944021e-09,2.5056383e-07,3.1835816e-06,0.99999654
+dd3450833ab0a7ec68aca1e8a3fa435b,PV_data/Corn_(maize)___healthy/ba5545b4-4812-42ed-94ee-73fa785156ad___R.S_HL 8227 copy 2.jpg,3,3,True,0.999998,5.8745586e-09,7.065772e-09,2.0683003e-06,0.999998
+be9a649a59bf226bc5bfef36f6957f43,PV_data/Corn_(maize)___healthy/bb0f8a9d-1c38-46a7-b922-2bbd3ba72fba___R.S_HL 7942 copy.jpg,3,3,True,0.9996567,1.5923322e-05,1.9832472e-05,0.00030758925,0.9996567
+1fd0457e8d95c5c768daf98848977629,PV_data/Corn_(maize)___healthy/c1a74057-c9e7-416e-b31a-17a670d7c1ee___R.S_HL 0599 copy.jpg,3,3,True,0.99356055,0.0054537877,3.117665e-05,0.0009544859,0.99356055
+c6d9aa3750cb1f43136401c3ca5ce849,PV_data/Corn_(maize)___healthy/c6d72b1a-9f34-4d50-8c80-a5628f60fc21___R.S_HL 8117 copy.jpg,3,3,True,0.9999285,3.859759e-06,1.6709348e-05,5.097048e-05,0.9999285
+17ceb78c2987e3aee643fde51c22e6e7,PV_data/Corn_(maize)___healthy/c71e7906-fa3e-4689-9061-b9ff4a827c92___R.S_HL 5514 copy 3.jpg,3,3,True,0.9999893,1.6619401e-06,5.5439543e-08,9.1158345e-06,0.9999893
+3665569428531b21ef45c71ea3f3a43c,PV_data/Corn_(maize)___healthy/ca38172d-5f4b-42aa-bef9-e88b94f7f47d___R.S_HL 7932 copy.jpg,3,3,True,0.9997551,9.983558e-06,1.012263e-05,0.00022484064,0.9997551
+322e52193ea912385a7c478295693c39,PV_data/Corn_(maize)___healthy/cb08f6cf-4701-475a-b589-d3f486a672a5___R.S_HL 7898 copy.jpg,3,3,True,0.8712829,0.027796326,0.00024786382,0.10067299,0.8712829
+6a3dd48136c871a726ad2b5b3744d1d0,PV_data/Corn_(maize)___healthy/cb4a3d83-e307-4eb7-8723-21ae84d4fb64___R.S_HL 8244 copy 2.jpg,3,3,True,0.9998987,5.086058e-05,3.9735473e-06,4.6543613e-05,0.9998987
+9f6be4902b1e66dacd899985b86d97a1,PV_data/Corn_(maize)___healthy/cb4cd602-6771-45f2-9235-6e6590707998___R.S_HL 7896 copy.jpg,3,3,True,0.9999875,8.368489e-06,2.0656283e-07,3.948213e-06,0.9999875
+d8d16a7b61f42c95e43f9b78bb1991d3,PV_data/Corn_(maize)___healthy/ce35ae6e-3f27-4105-adc8-a661a1157170___R.S_HL 5556 copy 2.jpg,3,3,True,0.9999746,1.4040145e-06,2.3721552e-05,2.8673145e-07,0.9999746
+41dc76f66327712aded4cd67273ed377,PV_data/Corn_(maize)___healthy/cf700a80-b413-4b95-ad88-d916bc9ffc93___R.S_HL 7946 copy.jpg,3,3,True,0.99999666,2.4121356e-08,7.2297297e-07,2.59388e-06,0.99999666
+e06ee04bc95c73e0a596b0c61744d612,PV_data/Corn_(maize)___healthy/d128a635-3090-4ca1-904d-d471f67134e3___R.S_HL 0623 copy 3.jpg,3,3,True,0.99996924,1.5645877e-05,9.920387e-07,1.4143543e-05,0.99996924
+40f4972dad006ec9f4690b7ac09eecf5,PV_data/Corn_(maize)___healthy/d4ec84d5-69d6-45e9-a846-c8976446d31a___R.S_HL 7906 copy.jpg,3,3,True,0.9973611,0.0015208491,0.00066639343,0.00045155524,0.9973611
+58aab0dc8f8f36960eebb39eab385443,PV_data/Corn_(maize)___healthy/d83ea494-b075-49d2-9c86-07e988bd6033___R.S_HL 8095 copy 2.jpg,3,3,True,0.99999034,1.5932671e-06,2.5124503e-08,8.049271e-06,0.99999034
+d23a85eb84762c9231dd5c6b43e470db,PV_data/Corn_(maize)___healthy/d8a72016-5579-43da-841b-d13030eaae6d___R.S_HL 7968 copy.jpg,3,3,True,0.9999788,5.763858e-07,1.6708794e-06,1.8952234e-05,0.9999788
+a53224fb47cb5da877f0baef599d847a,PV_data/Corn_(maize)___healthy/d96a3d7e-3c5d-4b22-9506-6451660bb8bf___R.S_HL 8182 copy 2.jpg,3,3,True,0.99948335,2.4528688e-05,4.9018297e-07,0.0004916461,0.99948335
+93787adfe1759d8455f887eb0626142f,PV_data/Corn_(maize)___healthy/db66adfd-cc22-4c44-bf5d-856827ef14b4___R.S_HL 7977 copy.jpg,3,3,True,0.9999702,4.8276397e-06,2.1351815e-07,2.4758503e-05,0.9999702
+8533478201049257b028814c3942de5b,PV_data/Corn_(maize)___healthy/e07b298d-7dff-4297-a884-06c20a77e453___R.S_HL 5503 copy 2.jpg,3,3,True,0.99842805,0.00023719412,9.237648e-05,0.0012424203,0.99842805
+25368dfbb5e39d0287ef3fbf6637c2c9,PV_data/Corn_(maize)___healthy/e2735878-7aa1-4db0-9013-6bf31f6e4e43___R.S_HL 0598 copy 2.jpg,3,3,True,0.90916044,0.010603749,0.0019091382,0.0783267,0.90916044
+c395bc2c5b37e2408370de4ba2f86997,PV_data/Corn_(maize)___healthy/e2e6d3f1-9f01-44e6-a466-0272b8663f8e___R.S_HL 8307 copy.jpg,3,3,True,0.9946313,6.778514e-05,0.000245078,0.0050558406,0.9946313
+c4bc293234786868f5ffdee429aa6b7d,PV_data/Corn_(maize)___healthy/e3cd8f06-0635-4a93-adb4-21fe7b7fd714___R.S_HL 8226 copy 2.jpg,3,3,True,0.99988234,2.9014254e-06,2.0743612e-07,0.000114539806,0.99988234
+cda356b2ad81c6a2ffaa988ac1dfc00c,PV_data/Corn_(maize)___healthy/e4b84e79-9126-4f19-984a-3105c07b9029___R.S_HL 8055 copy 3.jpg,3,3,True,0.99999905,3.0247353e-08,6.3572156e-09,9.823599e-07,0.99999905
+2f7c157903400a7031dfd6e838b94204,PV_data/Corn_(maize)___healthy/e7aa584e-4bbb-470c-9bd0-ffae20349a96___R.S_HL 8169 copy.jpg,3,3,True,0.99994195,1.48155e-07,1.8125661e-06,5.6112145e-05,0.99994195
+369cb18255be68480715cc0e4af0ab0a,PV_data/Corn_(maize)___healthy/e7f68761-74d5-4947-a40e-1ad45db8aec1___R.S_HL 8161 copy 2.jpg,3,3,True,0.99512154,1.17886275e-05,3.0528947e-05,0.004836159,0.99512154
+5f002d1d6eedbd8e203987e54298d0c4,PV_data/Corn_(maize)___healthy/e83663a8-93f0-470c-8f43-7366bb3d8233___R.S_HL 7908 copy 2.jpg,3,3,True,0.99999857,4.7487646e-08,9.89501e-08,1.3203969e-06,0.99999857
+82337839030a23037766fd18ef30eca6,PV_data/Corn_(maize)___healthy/eb4095e8-2f8e-40a8-bf8f-b49d3dd66c27___R.S_HL 8237 copy 2.jpg,3,3,True,0.9768812,0.0023777669,0.0007184628,0.020022528,0.9768812
+d1af02b39d099720bb7506125492c516,PV_data/Corn_(maize)___healthy/ee069f8c-3110-446b-827b-f7a229833db6___R.S_HL 8154 copy.jpg,3,3,True,0.99110913,0.0010228693,0.0006289313,0.007239086,0.99110913
+038116d7087ed7a3cef640a4bff3a4cb,PV_data/Corn_(maize)___healthy/eea6fb7d-469e-446d-9383-92098c9f495b___R.S_HL 5511 copy 2.jpg,3,3,True,0.9999782,9.482701e-07,2.3152916e-06,1.855664e-05,0.9999782
+18de89c77abbd76982d3633ba106072e,PV_data/Corn_(maize)___healthy/ef061910-eea2-4ebb-9523-d2c0510e3031___R.S_HL 0623 copy 4.jpg,3,3,True,0.90690607,0.06686946,0.025185402,0.0010391221,0.90690607
+981582d4650f360f97ba25ce76c22992,PV_data/Corn_(maize)___healthy/f0fedb37-88fb-4631-a69c-573c849ced9c___R.S_HL 7892 copy.jpg,3,3,True,0.9999205,2.7210037e-06,9.229821e-07,7.5805525e-05,0.9999205
+790a0082391ea701c8a3d8c775ee8882,PV_data/Corn_(maize)___healthy/f327dad3-e4af-42f0-ab8f-94c1b57c0203___R.S_HL 8088 copy 2.jpg,3,3,True,0.9970691,2.6085117e-05,6.0040925e-06,0.0028986493,0.9970691
+858574fd771def55410e82eb96a8083b,PV_data/Corn_(maize)___healthy/f3c516b2-43df-4646-a8fc-a6fe2a81b305___R.S_HL 8332 copy 2.jpg,3,3,True,0.99996483,1.1819794e-06,3.8208196e-07,3.3680146e-05,0.99996483
+d2fe72b409703803505eb2bc9ff14a4a,PV_data/Corn_(maize)___healthy/f741de14-0e76-4922-8c59-3281d55f019a___R.S_HL 5491 copy 2.jpg,3,3,True,0.999941,4.496071e-05,1.4175207e-06,1.2609872e-05,0.999941
+e271de652dc38947ecaa7f48d62be820,PV_data/Corn_(maize)___healthy/f8cfcbb0-78fc-4610-9555-24b5774003b3___R.S_HL 8274 copy.jpg,3,3,True,0.99999905,2.1780566e-09,4.209636e-09,9.907286e-07,0.99999905
+6e70dd9d4fa12370095c00c6793c15bb,PV_data/Corn_(maize)___healthy/fe50a4b4-0e43-47d7-afdf-de6544ebbec9___R.S_HL 7952 copy 2.jpg,3,3,True,1.0,3.7662883e-11,8.5412157e-11,1.7907725e-08,1.0
+6f98db5a2fa42538aac135162ad7a93b,PV_data/Corn_(maize)___healthy/feddfdfa-14e3-4919-a527-814888364871___R.S_HL 5530 copy.jpg,3,3,True,0.9999893,3.7808034e-06,8.4575885e-07,6.1202104e-06,0.9999893
+20661acb6759a0ba2d7d98b9d992dcba,PV_data/Corn_(maize)___healthy/ff78bd79-1823-4a96-8d42-e7cf12dc3127___R.S_HL 5546 copy 2.jpg,3,3,True,1.0,8.232766e-11,2.5408365e-11,3.708651e-09,1.0
