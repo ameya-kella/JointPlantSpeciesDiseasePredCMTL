@@ -2,6 +2,8 @@
 
 This is supplementary material to accompany the manuscript titled "Joint Plant Species-Disease Prediction: A Comparative Evaluation of Classification Approaches and Novel Conditional Multi-Task Learning Frameworks."
 
+This is the published paper in the National High School Journal of Science (NHSJS): Ameya Kella. "Joint Plant Species-Disease Prediction: A Comparative Evaluation of Classification Approaches and Novel Conditional Multi-Task Learning Frameworks." National High School Journal of Science, vol. 18, 2026, https://nhsjs.com/2026/joint-plant-species-disease-prediction-a-comparative-evaluation-of-classification-approaches-and-novel-conditional-multi-task-learning-frameworks/.
+
 Below is the abstract in the main manuscript, for context:
 
 
